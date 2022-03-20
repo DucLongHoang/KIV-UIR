@@ -1,0 +1,15 @@
+start:
+S
+cil:
+G
+seznam sousednosti:
+A;S=36;C=13;G=43
+B;S=11;C=31
+C;A=13;B=31;G=19
+S;A=36;B=11
+G;A=43;C=19
+vzdusna vzdalenost od cile:
+A=26
+B=47
+C=14
+S=52
