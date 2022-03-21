@@ -1,64 +1,91 @@
 package cv05;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Knapsack {
-    final static int ITEM_COUNT = 6;
+    final static int ITEM_COUNT = 6, ITERATIONS = 10;
     final List<Chromosome> CHROMOSOMES;
-    final Item[] items;
+    final Item[] ITEMS;
     final int CAPACITY;
 
     public Knapsack(int CAPACITY, Item[] items) {
         this.CAPACITY = CAPACITY;
-        this.items = items;
+        this.ITEMS = items;
         this.CHROMOSOMES = new LinkedList<>();
     }
 
     public void getBestItemPermutation(int initChromosomeCount) {
         initChromosomePool(initChromosomeCount);
+        sortList(CHROMOSOMES);
 
+        for(int i = 0; i < ITERATIONS; i++) {
+            System.out.println("Crossing 2 permutations");
+            Chromosome[] newPool = CHROMOSOMES.get(0).generateByCrossing(CHROMOSOMES.get(1));
+            newPool = removeInvalidPermutations(newPool);
+            if(newPool.length < 2) {
+                System.out.println("Failed crossing");
+                continue;
+            }
+            updateChromosomePool(newPool);
+        }
 
+    }
+
+    private Chromosome[] removeInvalidPermutations(Chromosome[] newPool) {
+        List<Chromosome> result = new ArrayList<>();
+        for(Chromosome c: newPool) {
+            if(c.weight <= CAPACITY) {
+                result.add(c);
+            }
+        }
+        return result.toArray(new Chromosome[0]);
     }
 
     private void initChromosomePool(int initChromosomeCount) {
         Chromosome tmpC;
         while(CHROMOSOMES.size() != initChromosomeCount) {
             tmpC = new Chromosome(getRandomPermutation());
-            if(isValidPermutation(tmpC)) {
-                setChromosomeValue(tmpC);
+            setChromosomeValues(tmpC);
+            if(tmpC.weight <= CAPACITY) {
                 CHROMOSOMES.add(tmpC);
+                tmpC.printPermutation();
             }
         }
     }
 
-    private boolean isValidPermutation(Chromosome c) {
-        int actualWeight = 0;
-        for(int i = 0; i < ITEM_COUNT; i++) {
-            if(c.permutation[i]) {
-                actualWeight += items[i].WEIGHT;
-            }
+    private void updateChromosomePool(Chromosome[] newPool) {
+        CHROMOSOMES.clear();
+        CHROMOSOMES.addAll(List.of(newPool));
+        for(Chromosome c: CHROMOSOMES) {
+            setChromosomeValues(c);
+            c.printPermutation();
         }
-
-        return actualWeight <= CAPACITY;
+        sortList(CHROMOSOMES);
     }
 
     private boolean[] getRandomPermutation() {
         boolean[] result = new boolean[ITEM_COUNT];
         Random r = new Random();
 
-        for(boolean e: result) {
-            e  = r.nextBoolean();
+        for(int i = 0; i < ITEM_COUNT; i++) {
+            result[i] = r.nextBoolean();
         }
         return result;
     }
 
-    private void setChromosomeValue(Chromosome c) {
+    private void setChromosomeValues(Chromosome c) {
         for(int i = 0; i < ITEM_COUNT; i++) {
             if(c.permutation[i]) {
-                c.value += items[i].RATIO;
+                c.price += ITEMS[i].PRICE;
+                c.weight += ITEMS[i].WEIGHT;
+                c.value += ITEMS[i].RATIO;
             }
         }
+    }
+
+    private void sortList(List<Chromosome> listToSort) {
+        Collections.sort(listToSort);
+        Collections.reverse(listToSort);
     }
 }
