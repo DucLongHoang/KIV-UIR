@@ -39,12 +39,21 @@ public abstract class AbstractCluster {
     }
 
     /**
+     * Method returns distance of the Cluster-center from a given Point
+     * @param p Point to get the distance from the center of
+     * @return distance of Point p from center
+     */
+    public double distanceFrom(Point p){
+        return this.center.distance(p);
+    }
+
+    /**
      * To String method
      * @return String representation of a cluster
      */
     @Override
     public String toString() {
         return "Center of " + this.getClass().getSimpleName() +
-                " is " + center;
+                " is " + String.format("[x=%d, y=%d]", center.x, center.y);
     }
 }

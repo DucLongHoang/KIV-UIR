@@ -9,7 +9,6 @@ import java.awt.*;
  * @version 1.0
  */
 public class KMedoidCluster extends AbstractCluster{
-
     /**
      * Constructor for KMedoidCluster
      * @param center of cluster
@@ -20,13 +19,18 @@ public class KMedoidCluster extends AbstractCluster{
 
     /**
      * Method recenters the center point with k-medoid method
-     * @return true if recentering happened otherwise false
+     * @return true if recentering happened, otherwise false
      */
     @Override
     public boolean recenter() {
-        Point tmp = this.center.getLocation(); // save old location
+        if(this.points.size() == 1)     // Cluster has only the Center
+            return false;
+
+        Point oldCenter = this.center.getLocation(); // save old location
         this.center.setLocation(0, 0);  // delete it
-        for(Point p: points){   // find new center by averaging all Points in Cluster
+
+        // find new center by averaging all Points in Cluster
+        for(Point p: points){
             this.center.x += p.x;
             this.center.y += p.y;
         }
@@ -34,13 +38,14 @@ public class KMedoidCluster extends AbstractCluster{
         this.center.y /= Math.max(points.size(), 1);
 
         // find the closest Point to the calculated center
-        Point closest = new Point(Integer.MAX_VALUE, Integer.MAX_VALUE);
+        Point medoid = new Point(Integer.MAX_VALUE, Integer.MAX_VALUE);
         for(Point p: points) {
-            if(p.distance(center) < closest.distance(center)) {
-                closest = p;
+            if(p.distance(center) < medoid.distance(center)) {
+                medoid = p;
             }
         }
+        this.center.setLocation(medoid);
 
-        return tmp.distance(closest) > 0;    // return false if location didn't change
+        return oldCenter.distance(center) > 0;    // false if location didn't change
     }
 }
