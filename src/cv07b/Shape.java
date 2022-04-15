@@ -6,9 +6,13 @@ package cv07b;
  * @version 1.0
  */
 public class Shape {
+    /** number of straight line */
     protected final int LINE_COUNT;
+    /** number of unique lengths of lines */
     protected final int UNIQUE_LINES;
+    /** number of corners */
     protected final int CORNERS;
+    /** number of half-circles */
     protected final int SEMI_CIRCLES;
 
     /**
