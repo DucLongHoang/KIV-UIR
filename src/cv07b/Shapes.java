@@ -2,6 +2,8 @@ package cv07b;
 
 /**
  * Shapes class - wrapper class, used to get instances of every shape from one class
+ * @author Long
+ * @version 1.0
  */
 public class Shapes {
     /**

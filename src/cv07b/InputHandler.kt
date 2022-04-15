@@ -4,6 +4,8 @@ import java.util.*
 
 /**
  * [InputHandler] class to read input from user and return a generic [Shape]
+ * @author Long
+ * @version 1.0
  */
 class InputHandler {
     /** [reader] to read input from user */
