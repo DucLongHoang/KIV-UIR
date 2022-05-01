@@ -5,7 +5,8 @@ import java.nio.file.Paths;
 import java.util.*;
 
 /**
- *
+ * Parser class - handles input file
+ * and creates a TextDocument for each line
  */
 public class Parser {
     /** all regex characters */
@@ -22,8 +23,8 @@ public class Parser {
     List<TextDocument> textDocuments;
 
     /**
-     *
-     * @param inputFilePath
+     * Constructor for Parser
+     * @param inputFilePath path to the input file
      */
     public Parser(String inputFilePath) {
         this.lines = new ArrayList<>();
@@ -33,8 +34,8 @@ public class Parser {
     }
 
     /**
-     *
-     * @param inputFilePath
+     * Method tries to read all lines from the input file
+     * @param inputFilePath path to the input file
      */
     private void handleInputFile(String inputFilePath) {
         try {
@@ -49,7 +50,8 @@ public class Parser {
     }
 
     /**
-     *
+     * Method creates a TextDocument for every line
+     * assigning the DAClass and the words to it
      */
     private void makeTextDocuments() {
         ArrayList<String> words;
