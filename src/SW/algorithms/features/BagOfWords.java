@@ -5,7 +5,6 @@ import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -13,8 +12,6 @@ import java.util.Map;
  * BagOfWords class - extends FeatureAlgorithm to create features from TextDocuments
  */
 public class BagOfWords extends FeatureAlgorithm {
-    /** Every DAClass type has its own vector of features */
-    Map<DAClass, FeatureVector> vocabulary;
 
     /**
      * Constructor for BagOfWords
@@ -33,7 +30,6 @@ public class BagOfWords extends FeatureAlgorithm {
      */
     @Override
     protected void makeFeatures() {
-        this.vocabulary = new HashMap<>();
         FeatureVector featVector;
         Feature tmpFeature;
 
@@ -43,26 +39,8 @@ public class BagOfWords extends FeatureAlgorithm {
             // adding Features to FeatureVector
             for(String word: document.getWords()) {
                 tmpFeature = new Feature(word);
-                featVector.addFeatureToVector(tmpFeature);
+                featVector.addFeatureToVector(tmpFeature, false);
             }
         }
-    }
-
-    /**
-     * Method returns a FeatureVector if it exists,
-     * otherwise it creates a new one and returns it
-     * @param type of DAClass FeatureVector to be returned
-     * @return already created FeatureVector or return a newly created one
-     */
-    private FeatureVector getFeatureVector(DAClass type) {
-        if(vocabulary.containsKey(type)) return vocabulary.get(type);
-        // create new FeatureVector for new DAClass
-        vocabulary.put(type, new FeatureVector());
-        return vocabulary.get(type);
-    }
-
-    public double[] getFeatureVectorFromDocument(List<String> inputDocument) {
-        FeatureVector fv = vocabulary.get(DAClass.OR_QUESTION);
-        return fv.getFeatureVector(inputDocument);
     }
 }

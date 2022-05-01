@@ -2,13 +2,14 @@ package SW;
 
 import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 import java.util.TreeSet;
 
 /**
  * FeatureVector class - backed by a TreeSet to keep Features ordered
  */
 public class FeatureVector {
-    private final TreeSet<Feature> features;
+    private final Set<Feature> features;
 
     /**
      * Constructor for FeatureVector
@@ -21,7 +22,7 @@ public class FeatureVector {
      * Getter for features
      * @return features of this FeatureVector
      */
-    public TreeSet<Feature> getFeatures() {
+    public Set<Feature> getFeatures() {
         return features;
     }
 
@@ -31,8 +32,13 @@ public class FeatureVector {
      *
      * @param toAdd to be included as a feature
      */
-    public void addFeatureToVector(Feature toAdd) {
+    public void addFeatureToVector(Feature toAdd, boolean increaseCount) {
         features.add(toAdd);
+        if(increaseCount) {
+            Feature tmp = getFeature(toAdd);
+            assert tmp != null;
+            tmp.incrementCount();
+        }
     }
 
     /**
@@ -51,14 +57,17 @@ public class FeatureVector {
     }
 
     /**
-     * Method returns a vector of Feature counts or values
-     * @param inputDocument
+     * Method returns a vector of Feature counts or values.
+     * Works by incrementing this FeatureVector, returning it
+     * and changing it back to its original state (all zeroes)
+     * @param inputDocument to make a FeatureVector from
      * @return vector of Feature counts or values
      */
     public double[] getFeatureVector(List<String> inputDocument) {
         double[] result = new double[features.size()];
         Feature tmp;
-        // looping through all words of document
+
+        // looping through all words of the input document
         for(String word: inputDocument) {
             tmp = new Feature(word);
             if(features.contains(tmp)) {
@@ -85,8 +94,8 @@ public class FeatureVector {
     }
 
     /**
-     * Method iterates the TreeMap and returns the Feature
-     * @param searched Feature to be returned from the TreeMap
+     * Method iterates the TreeSet and returns the Feature
+     * @param searched Feature to be returned from the TreeSet
      * @return Feature or null if not found
      */
     private Feature getFeature(Feature searched) {
@@ -94,5 +103,16 @@ public class FeatureVector {
             if(f.equals(searched)) return f;
         }
         return null;
+    }
+
+    /**
+     * Method returns total number of words in document
+     * @return total number of words
+     */
+    public int getTotalWords() {
+        return features
+                .stream()
+                .mapToInt(Feature::getCount)
+                .sum();
     }
 }
