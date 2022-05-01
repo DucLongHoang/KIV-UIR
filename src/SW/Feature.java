@@ -10,6 +10,7 @@ import java.util.Objects;
 public class Feature implements Comparable<Feature>{
     private final String word;
     private int count;
+    private double value;
 
     /**
      * Constructor for Feature
@@ -18,6 +19,7 @@ public class Feature implements Comparable<Feature>{
     public Feature(String word) {
         this.word = word;
         this.count = 0;
+        this.value = 0;
     }
 
     /**
@@ -41,6 +43,29 @@ public class Feature implements Comparable<Feature>{
      */
     public int getCount() {
         return count;
+    }
+
+    /**
+     * Method returns the count and value to 0
+     */
+    public void zeroCountAndValue() {
+        this.count = 0;
+    }
+
+    /**
+     * Setter for value
+     * @param value to set to
+     */
+    public void setValue(double value) {
+        this.value = value;
+    }
+
+    /**
+     * Getter for value
+     * @return an arbitrary value of feature
+     */
+    public double getValue() {
+        return value;
     }
 
     @Override

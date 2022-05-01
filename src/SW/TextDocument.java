@@ -7,8 +7,8 @@ import java.util.stream.Collectors;
  * TextDocument class - defined by its type and the words it is made of
  */
 public class TextDocument {
-    private DAClass type;
-    private List<String> words;
+    private final DAClass type;
+    private final List<String> words;
 
     /**
      * Constructor for TextDocument

@@ -1,5 +1,7 @@
 package SW;
 
+import java.util.Iterator;
+import java.util.List;
 import java.util.TreeSet;
 
 /**
@@ -26,18 +28,18 @@ public class FeatureVector {
     /**
      * Method adds the Feature to the vector if not present
      * otherwise it does nothing
-     * @param word to be included as a feature
+     *
+     * @param toAdd to be included as a feature
      */
-    public void addFeatureToVector(String word) {
-        Feature searched = new Feature(word);
-        features.add(searched);
+    public void addFeatureToVector(Feature toAdd) {
+        features.add(toAdd);
     }
 
     /**
      * Method returns a vector containing all names of features
      * @return String array representation of all features
      */
-    public String getFeatureVector() {
+    public String getFeatureNamesVector() {
         StringBuilder sb = new StringBuilder("[");
 
         for(Feature f: features) {
@@ -46,5 +48,51 @@ public class FeatureVector {
         sb.append("]");
 
         return sb.toString();
+    }
+
+    /**
+     * Method returns a vector of Feature counts or values
+     * @param inputDocument
+     * @return vector of Feature counts or values
+     */
+    public double[] getFeatureVector(List<String> inputDocument) {
+        double[] result = new double[features.size()];
+        Feature tmp;
+        // looping through all words of document
+        for(String word: inputDocument) {
+            tmp = new Feature(word);
+            if(features.contains(tmp)) {
+                tmp = getFeature(tmp);
+                assert tmp != null;
+                tmp.incrementCount();
+            }
+        }
+
+        Iterator<Feature> it = features.iterator();
+        for (int i = 0; it.hasNext(); i++) {
+            result[i] = it.next().getCount();
+        }
+
+        nullifyFeatureVector();
+        return result;
+    }
+
+    /**
+     * Nullifies all counts and values of every Feature from the FeatureVector
+     */
+    private void nullifyFeatureVector() {
+        features.forEach(Feature::zeroCountAndValue);
+    }
+
+    /**
+     * Method iterates the TreeMap and returns the Feature
+     * @param searched Feature to be returned from the TreeMap
+     * @return Feature or null if not found
+     */
+    private Feature getFeature(Feature searched) {
+        for(Feature f: features) {
+            if(f.equals(searched)) return f;
+        }
+        return null;
     }
 }

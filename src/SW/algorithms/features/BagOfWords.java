@@ -1,6 +1,7 @@
-package SW.features;
+package SW.algorithms.features;
 
 import SW.DAClass;
+import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
@@ -12,6 +13,7 @@ import java.util.Map;
  * BagOfWords class - extends FeatureAlgorithm to create features from TextDocuments
  */
 public class BagOfWords extends FeatureAlgorithm {
+    /** Every DAClass type has its own vector of features */
     Map<DAClass, FeatureVector> vocabulary;
 
     /**
@@ -22,7 +24,7 @@ public class BagOfWords extends FeatureAlgorithm {
         super(textDocuments);
         for(Map.Entry<DAClass, FeatureVector> entry: vocabulary.entrySet()) {
             System.out.println();
-            System.out.println(entry.getKey().toString() + " : " + entry.getValue().getFeatureVector());
+            System.out.println(entry.getKey().toString() + " : " + entry.getValue().getFeatureNamesVector());
         }
     }
 
@@ -33,11 +35,15 @@ public class BagOfWords extends FeatureAlgorithm {
     protected void makeFeatures() {
         this.vocabulary = new HashMap<>();
         FeatureVector featVector;
+        Feature tmpFeature;
 
+        // loop through all documents to make FeatureVectors for every DAClass
         for(TextDocument document: textDocuments) {
             featVector = getFeatureVector(document.getType());
+            // adding Features to FeatureVector
             for(String word: document.getWords()) {
-                featVector.addFeatureToVector(word);
+                tmpFeature = new Feature(word);
+                featVector.addFeatureToVector(tmpFeature);
             }
         }
     }
@@ -50,8 +56,13 @@ public class BagOfWords extends FeatureAlgorithm {
      */
     private FeatureVector getFeatureVector(DAClass type) {
         if(vocabulary.containsKey(type)) return vocabulary.get(type);
-
+        // create new FeatureVector for new DAClass
         vocabulary.put(type, new FeatureVector());
         return vocabulary.get(type);
+    }
+
+    public double[] getFeatureVectorFromDocument(List<String> inputDocument) {
+        FeatureVector fv = vocabulary.get(DAClass.OR_QUESTION);
+        return fv.getFeatureVector(inputDocument);
     }
 }

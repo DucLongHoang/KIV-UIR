@@ -1,4 +1,4 @@
-package SW.features;
+package SW.algorithms.features;
 
 import SW.TextDocument;
 
