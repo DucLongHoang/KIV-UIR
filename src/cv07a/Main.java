@@ -46,7 +46,7 @@ public class Main {
 
         System.out.println();
         Classifier classifier = new Classifier(clusters);
-        classifier.classify(new Point(19, 49), -6);
+        classifier.classify(new Point(19, 49), 3);
     }
 
     /**

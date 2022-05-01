@@ -1,0 +1,1608 @@
+[
+    {
+        "dialog": [
+            "<BACKCHANNEL ah,> <INFORM i feel better already!> <INFORM now for a brisk walk to calm my jangled nerves!>"
+        ],
+        "narration": [],
+        "img_id": "0_3_4",
+        "dialog_bounding_boxes": [
+            [
+                30.0,
+                40.0,
+                291.0,
+                136.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                170.0,
+                214.0,
+                274.0,
+                304.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM the odds against the black panther are formidable!> <NOT_CLASSIFIABLE if he's defeated,> <INFORM we'll be trapped here--> <COMMIT it's time to take a risk!--> <INFORM an extremely chancy risk!--> <INFORM but, it could work in our favor!>"
+        ],
+        "narration": [],
+        "img_id": "0_28_3",
+        "dialog_bounding_boxes": [
+            [
+                55.0,
+                4.0,
+                426.0,
+                197.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                138.0,
+                165.0,
+                277.0,
+                295.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<NOT_CLASSIFIABLE fools!> <INFORM they've only exchanged one form of danger for another...>",
+            "<NOT_CLASSIFIABLE bothersome--fleas--!> <INFORM you--won't--escape--this--time!>",
+            "<YES-NO_QUESTION got any new ideas, mister little?> <INFORM we may only have time for one more!>",
+            "<ORDER w-we can't die, now!><INFORM --not when we're so close to our goal-!>"
+        ],
+        "narration": [
+            "but there is still another danger to be reckoned with! -- perhaps a greater menace anything the ancient past could unleash..."
+        ],
+        "img_id": "0_31_0",
+        "dialog_bounding_boxes": [
+            [
+                62.0,
+                138.0,
+                228.0,
+                246.0
+            ],
+            [
+                428.0,
+                1.0,
+                619.0,
+                86.0
+            ],
+            [
+                684.0,
+                4.0,
+                881.0,
+                81.0
+            ],
+            [
+                760.0,
+                103.0,
+                881.0,
+                181.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                2.0,
+                4.0,
+                326.0,
+                99.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                3.0,
+                267.0,
+                74.0,
+                346.0
+            ],
+            [
+                268.0,
+                43.0,
+                466.0,
+                297.0
+            ],
+            [
+                684.0,
+                130.0,
+                764.0,
+                205.0
+            ],
+            [
+                857.0,
+                204.0,
+                881.0,
+                265.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<BACKCHANNEL yes, that's so!> <INFORM abner little is prone to collector's syndrome,> <INFORM but he does keep his word!>",
+            "<FEEDBACK well, i made no such promise!> <INFORM i claim them as mine!>"
+        ],
+        "narration": [],
+        "img_id": "0_37_2",
+        "dialog_bounding_boxes": [
+            [
+                5.0,
+                4.0,
+                187.0,
+                124.0
+            ],
+            [
+                195.0,
+                4.0,
+                408.0,
+                84.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                14.0,
+                150.0,
+                151.0,
+                301.0
+            ],
+            [
+                285.0,
+                65.0,
+                404.0,
+                177.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM the ancient builders were too proud to leave an inoperable object behind them!> <INFORM this thing is ready to run!> <INFORM i can sense it!>",
+            "<INFORM there are just two hand bars with a button on each...>",
+            "<ORDER push one of the buttons!>"
+        ],
+        "narration": [],
+        "img_id": "0_38_3",
+        "dialog_bounding_boxes": [
+            [
+                2.0,
+                0.0,
+                224.0,
+                131.0
+            ],
+            [
+                264.0,
+                1.0,
+                421.0,
+                94.0
+            ],
+            [
+                309.0,
+                101.0,
+                425.0,
+                159.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                11.0,
+                157.0,
+                110.0,
+                261.0
+            ],
+            [
+                196.0,
+                129.0,
+                301.0,
+                254.0
+            ],
+            [
+                338.0,
+                171.0,
+                426.0,
+                264.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM i speak of a first strike, panther!> <INFORM i speak of a nuclear attack which will your peace lovers off the world map!>",
+            "<YES-NO_QUESTION y-you would dare resort to this!?>",
+            "<ORDER take it from abner little, young fellow--> <INFORM zanda will stop at nothing to get what she wants>"
+        ],
+        "narration": [
+            "to t'challa's astonishment, a great missile rises from its silo..."
+        ],
+        "img_id": "0_48_0",
+        "dialog_bounding_boxes": [
+            [
+                93.0,
+                246.0,
+                93.0,
+                246.0
+            ],
+            [
+                27.0,
+                38.0,
+                267.0,
+                171.0
+            ],
+            [
+                333.0,
+                47.0,
+                505.0,
+                135.0
+            ],
+            [
+                552.0,
+                34.0,
+                811.0,
+                141.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                2.0,
+                3.0,
+                753.0,
+                34.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "soon after, a great man-like hand emerges into view. its owner is as fearsome as the legends created by his image..."
+        ],
+        "img_id": "0_51_4",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                6.0,
+                4.0,
+                425.0,
+                83.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [
+            "<INFORM you've only aroused him to full fury!> <INFORM he'll crush us like mice!>",
+            "<FEEDBACK he'll finish us at any rate--> <NOT_CLASSIFIABLE if we don't find a way to get him first!>"
+        ],
+        "narration": [],
+        "img_id": "0_55_5",
+        "dialog_bounding_boxes": [
+            [
+                121.0,
+                2.0,
+                277.0,
+                102.0
+            ],
+            [
+                298.0,
+                5.0,
+                451.0,
+                119.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                200.0,
+                126.0,
+                263.0,
+                204.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM the panther has all the lowly virtues of the rat and the eel!>",
+            "<FEEDBACK i'll clear up your confusion,> <NOT_CLASSIFIABLE once i adjust this ritual hood!>"
+        ],
+        "narration": [],
+        "img_id": "0_69_0",
+        "dialog_bounding_boxes": [
+            [
+                5.0,
+                4.0,
+                160.0,
+                125.0
+            ],
+            [
+                346.0,
+                244.0,
+                454.0,
+                417.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                149.0,
+                70.0,
+                213.0,
+                121.0
+            ],
+            [
+                257.0,
+                230.0,
+                358.0,
+                131.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM i've neglected family and duty for lengthy involvements with the world...> <COMMIT this time i shall return to the land of the panther cult--where no man calls me--outsider!>",
+            "<FEEDBACK homesickness will not change the facts.> <INFORM your domain is rather small and remote!> <INFORM you're really an african provincial, my lad!>"
+        ],
+        "narration": [],
+        "img_id": "0_77_1",
+        "dialog_bounding_boxes": [
+            [
+                4.0,
+                5.0,
+                265.0,
+                205.0
+            ],
+            [
+                279.0,
+                36.0,
+                451.0,
+                309.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                133.0,
+                289.0,
+                254.0,
+                173.0
+            ],
+            [
+                238.0,
+                457.0,
+                351.0,
+                349.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<ORDER start running, panther!> <INFORM it's you they'll be after, now!> <ORDER send me a post card when you reach home!>"
+        ],
+        "narration": [],
+        "img_id": "0_86_2",
+        "dialog_bounding_boxes": [
+            [
+                236.0,
+                2.0,
+                456.0,
+                166.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                132.0,
+                147.0,
+                333.0,
+                401.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM death will be swift, zuni!> <INFORM that disguise can neither hide you nor spare you!>",
+            "<ORDER keep him at bay, cousin!> <INFORM i'm almost ready!>",
+            "<FEEDBACK that's small comfort, dolt!> <INFORM he's tearing my arms off!>"
+        ],
+        "narration": [],
+        "img_id": "0_108_3",
+        "dialog_bounding_boxes": [
+            [
+                5.0,
+                3.0,
+                154.0,
+                107.0
+            ],
+            [
+                174.0,
+                2.0,
+                294.0,
+                88.0
+            ],
+            [
+                299.0,
+                1.0,
+                429.0,
+                93.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                24.0,
+                107.0,
+                107.0,
+                187.0
+            ],
+            [
+                214.0,
+                85.0,
+                269.0,
+                143.0
+            ],
+            [
+                333.0,
+                80.0,
+                419.0,
+                147.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<YES-NO_QUESTION joshua itobo, are you injured?>",
+            "<FEEDBACK it seems impossible that any of us should have survived!>"
+        ],
+        "narration": [
+            "a moment of stunned silence follows the fading echoes of violence..."
+        ],
+        "img_id": "0_109_4",
+        "dialog_bounding_boxes": [
+            [
+                9.0,
+                51.0,
+                193.0,
+                94.0
+            ],
+            [
+                206.0,
+                52.0,
+                418.0,
+                123.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                3.0,
+                7.0,
+                433.0,
+                45.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                358.0,
+                112.0,
+                435.0,
+                208.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM it's the rulling family--!>",
+            "<BACKCHANNEL optimists!> <INFORM they greet the panther in triumph not yet achieved!>"
+        ],
+        "narration": [
+            "suddenly upon entering..."
+        ],
+        "img_id": "0_111_4",
+        "dialog_bounding_boxes": [
+            [
+                10.0,
+                61.0,
+                107.0,
+                123.0
+            ],
+            [
+                283.0,
+                4.0,
+                415.0,
+                110.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                3.0,
+                2.0,
+                164.0,
+                41.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                79.0,
+                144.0,
+                5.0,
+                361.0
+            ],
+            [
+                295.0,
+                238.0,
+                428.0,
+                430.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM jiru merely voices my own fears!> <INFORM this is not a common patient-- but an unknown force of mounting power!>",
+            "<FEEDBACK that's true...> <INFORM there are definite signs of a rising energy level!>",
+            "<YES-NO_QUESTION don't you see?> <INFORM jakarra is no longer human!>"
+        ],
+        "narration": [],
+        "img_id": "0_116_0",
+        "dialog_bounding_boxes": [
+            [
+                7.0,
+                5.0,
+                163.0,
+                159.0
+            ],
+            [
+                190.0,
+                4.0,
+                410.0,
+                73.0
+            ],
+            [
+                263.0,
+                62.0,
+                433.0,
+                139.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                29.0,
+                179.0,
+                125.0,
+                315.0
+            ],
+            [
+                142.0,
+                129.0,
+                283.0,
+                282.0
+            ],
+            [
+                315.0,
+                130.0,
+                419.0,
+                256.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<ORDER i say destroy him before he regains his senses!>",
+            "<FEEDBACK you forget that i'm a doctor, n'gassi!> <INFORM i cannot take a life!>",
+            "<INFORM let him live--and we all die!>"
+        ],
+        "narration": [
+            "at that very moment..."
+        ],
+        "img_id": "0_116_4",
+        "dialog_bounding_boxes": [
+            [
+                6.0,
+                35.0,
+                161.0,
+                105.0
+            ],
+            [
+                257.0,
+                19.0,
+                430.0,
+                107.0
+            ],
+            [
+                270.0,
+                110.0,
+                432.0,
+                154.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                5.0,
+                2.0,
+                245.0,
+                30.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                12.0,
+                112.0,
+                60.0,
+                161.0
+            ],
+            [
+                201.0,
+                108.0,
+                252.0,
+                159.0
+            ],
+            [
+                324.0,
+                133.0,
+                382.0,
+                190.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM i am your prisoner!> <ORDER come and get me!>"
+        ],
+        "narration": [],
+        "img_id": "0_119_5",
+        "dialog_bounding_boxes": [
+            [
+                84.0,
+                8.0,
+                208.0,
+                80.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                110.0,
+                108.0,
+                150.0,
+                154.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM he's gone!> <INFORM jakarra's broken out of his fortified chamber!>",
+            "<INFORM the cursed one has the power of fifty men!>",
+            "<INFORM i tried to warn the rulling family!> <INFORM but, they wouldn't listen!>",
+            "<FEEDBACK their disdain for the old ways have opened the door to disaster!> <NOT_CLASSIFIABLE i pray that we have the force to stop this demon!>",
+            "<INFORM the militia will do its best!>"
+        ],
+        "narration": [
+            "meanwhile, in the hidden domain of the panther cult..."
+        ],
+        "img_id": "0_123_0",
+        "dialog_bounding_boxes": [
+            [
+                7.0,
+                51.0,
+                226.0,
+                129.0
+            ],
+            [
+                8.0,
+                132.0,
+                154.0,
+                206.0
+            ],
+            [
+                367.0,
+                3.0,
+                581.0,
+                75.0
+            ],
+            [
+                618.0,
+                2.0,
+                866.0,
+                104.0
+            ],
+            [
+                790.0,
+                91.0,
+                868.0,
+                190.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                6.0,
+                6.0,
+                308.0,
+                47.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                262.0,
+                54.0,
+                321.0,
+                109.0
+            ],
+            [
+                99.0,
+                166.0,
+                247.0,
+                384.0
+            ],
+            [
+                380.0,
+                81.0,
+                438.0,
+                153.0
+            ],
+            [
+                541.0,
+                69.0,
+                603.0,
+                131.0
+            ],
+            [
+                690.0,
+                102.0,
+                787.0,
+                228.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<FEEDBACK no--not its slave--but its brother!> <INFORM he goes to become \"one\" with the great mound!>",
+            "<ORDER t'challa save us!> <ORDER that mustn't happen!>",
+            "<INFORM if he reaches it, the ancient warnings will come to pass!>"
+        ],
+        "narration": [],
+        "img_id": "0_124_3",
+        "dialog_bounding_boxes": [
+            [
+                7.0,
+                1.0,
+                180.0,
+                153.0
+            ],
+            [
+                234.0,
+                2.0,
+                423.0,
+                65.0
+            ],
+            [
+                310.0,
+                65.0,
+                430.0,
+                185.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                249.0,
+                219.0,
+                298.0,
+                270.0
+            ],
+            [
+                381.0,
+                207.0,
+                432.0,
+                270.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "\"--but his mercenaries seemed like demons as they mowed down our men!\"",
+            "it was an uneven slaughter, wakanda's first encounter with western style technology! the mark it left on our society was profound!"
+        ],
+        "img_id": "0_139_4",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                3.0,
+                62.0,
+                205.0,
+                4.0
+            ],
+            [
+                3.0,
+                344.0,
+                206.0,
+                435.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "... the man called windeagle!"
+        ],
+        "img_id": "0_151_5",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                4.0,
+                3.0,
+                168.0,
+                37.0
+            ],
+            [
+                168.0,
+                37.0,
+                168.0,
+                37.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [
+            "<INFORM my shield seems to have no effect on it!> <WHY_QUESTION what's this creature made of?!>",
+            "<ORDER get away, t'challa--> <ORDER warn the avengers!>",
+            "<FEEDBACK you're wrong about your shield, cap--> <INFORM it made the monster release me!>*"
+        ],
+        "narration": [
+            "if the panther were to reply, the answer would seem unbelievable!",
+            "as it is, the jungle king is too busy trying to think of a way to defeat a beast made of pure solidified sound!",
+            "*b.p#14--r."
+        ],
+        "img_id": "0_154_0",
+        "dialog_bounding_boxes": [
+            [
+                11.0,
+                4.0,
+                198.0,
+                88.0
+            ],
+            [
+                771.0,
+                7.0,
+                881.0,
+                79.0
+            ],
+            [
+                767.0,
+                483.0,
+                877.0,
+                625.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                5.0,
+                277.0,
+                168.0,
+                365.0
+            ],
+            [
+                461.0,
+                4.0,
+                756.0,
+                88.0
+            ],
+            [
+                756.0,
+                88.0,
+                756.0,
+                88.0
+            ],
+            [
+                753.0,
+                628.0,
+                874.0,
+                650.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                321.0,
+                109.0,
+                383.0,
+                168.0
+            ],
+            [
+                669.0,
+                104.0,
+                745.0,
+                170.0
+            ],
+            [
+                649.0,
+                549.0,
+                683.0,
+                589.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<BACKCHANNEL homelands!> <INFORM we uproot them from homes they thought they owned,> <INFORM give them scraps of veldt with no resources and then force them to work in our factories as aliens without rights!>"
+        ],
+        "narration": [],
+        "img_id": "1_164_2",
+        "dialog_bounding_boxes": [
+            [
+                4.0,
+                3.0,
+                164.0,
+                171.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM as for the beeper.. i'm afraid there's no place to put it with this outfit.>"
+        ],
+        "narration": [],
+        "img_id": "1_183_3",
+        "dialog_bounding_boxes": [
+            [
+                320.0,
+                5.0,
+                475.0,
+                103.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "his head hurts with a thousand thoughts"
+        ],
+        "img_id": "1_196_1",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                31.0,
+                244.0,
+                193.0,
+                295.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [
+            "<NOT_CLASSIFIABLE ...biting every hand that feeds him.> <ORDER get dressed.> <INFORM i've taken the liberty of buying you some new clothes.>"
+        ],
+        "narration": [],
+        "img_id": "2_208_5",
+        "dialog_bounding_boxes": [
+            [
+                198.0,
+                47.0,
+                316.0,
+                248.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                203.0,
+                14.0,
+                4.0,
+                450.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<YES-NO_QUESTION and me?> <YES-NO_QUESTION was i part of the journey?>",
+            "<FEEDBACK of course.> <INFORM but the journey continues.> <NOT_CLASSIFIABLE if i rest...> <NOT_CLASSIFIABLE if i stray...> <INFORM my people perish.> <ORDER you must understand that.>",
+            "<FEEDBACK -- -- i do.>"
+        ],
+        "narration": [],
+        "img_id": "2_211_2",
+        "dialog_bounding_boxes": [
+            [
+                270.0,
+                5.0,
+                402.0,
+                57.0
+            ],
+            [
+                36.0,
+                310.0,
+                220.0,
+                452.0
+            ],
+            [
+                315.0,
+                349.0,
+                377.0,
+                433.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                310.0,
+                104.0,
+                399.0,
+                210.0
+            ],
+            [
+                124.0,
+                81.0,
+                209.0,
+                194.0
+            ],
+            [
+                310.0,
+                105.0,
+                398.0,
+                209.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [],
+        "img_id": "2_222_4",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [],
+        "error_code": 1
+    },
+    {
+        "dialog": [
+            "<FEEDBACK not in the mood, queen.>",
+            "<ORDER look at me!> <INFORM at what they made me wear!>",
+            "<YES-NO_QUESTION does \"dora milaje\" mean \"ready for cocktail party at all times\"?*>"
+        ],
+        "narration": [
+            "*no, actually it means \"adored ones\". --tom"
+        ],
+        "img_id": "2_227_2",
+        "dialog_bounding_boxes": [
+            [
+                77.0,
+                8.0,
+                181.0,
+                58.0
+            ],
+            [
+                29.0,
+                73.0,
+                149.0,
+                154.0
+            ],
+            [
+                261.0,
+                239.0,
+                396.0,
+                333.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                400.0,
+                284.0,
+                531.0,
+                323.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                357.0,
+                4.0,
+                530.0,
+                225.0
+            ],
+            [
+                178.0,
+                67.0,
+                282.0,
+                219.0
+            ],
+            [
+                179.0,
+                68.0,
+                283.0,
+                220.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [],
+        "img_id": "2_234_2",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [],
+        "error_code": 1
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "then everybody went to bed.",
+            "we didn't find out what happened in texas until it was way too late."
+        ],
+        "img_id": "2_237_1",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                21.0,
+                17.0,
+                240.0,
+                43.0
+            ],
+            [
+                102.0,
+                78.0,
+                291.0,
+                139.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [
+            "<NOT_CLASSIFIABLE --but are illusory!> <INFORM human facades covering alien or perhaps eldritch reality!>",
+            "<INFORM you have not answered my question.> <WHY_QUESTION who are you?>"
+        ],
+        "narration": [],
+        "img_id": "2_257_3",
+        "dialog_bounding_boxes": [
+            [
+                7.0,
+                4.0,
+                157.0,
+                88.0
+            ],
+            [
+                33.0,
+                344.0,
+                174.0,
+                448.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                141.0,
+                71.0,
+                319.0,
+                347.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [],
+        "img_id": "2_272_4",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [],
+        "error_code": 1
+    },
+    {
+        "dialog": [
+            "<NOT_CLASSIFIABLE --of a dead king.>",
+            "<INFORM and i've already offered to give the black panther costume back to you-->",
+            "<FEEDBACK --in two days-- yes.> <INFORM when you'll no longer need it.> <INFORM when your suspension has ended.> <NOT_CLASSIFIABLE in the alley outside your bedroom-->"
+        ],
+        "narration": [],
+        "img_id": "2_299_4",
+        "dialog_bounding_boxes": [
+            [
+                32.0,
+                5.0,
+                132.0,
+                40.0
+            ],
+            [
+                250.0,
+                15.0,
+                111.0,
+                103.0
+            ],
+            [
+                5.0,
+                88.0,
+                172.0,
+                249.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                166.0,
+                5.0,
+                317.0,
+                418.0
+            ],
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                165.0,
+                7.0,
+                317.0,
+                418.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM sal seems to think you've got some kinda case about alluva-sudden.>",
+            "<NOT_CLASSIFIABLE wants us to do this and that...> <INFORM then he shakes us down for 85 large when his boy skip asked for less than half that.> <INFORM now i come in and find a panther at my desk.>"
+        ],
+        "narration": [],
+        "img_id": "2_317_2",
+        "dialog_bounding_boxes": [
+            [
+                5.0,
+                2.0,
+                96.0,
+                106.0
+            ],
+            [
+                187.0,
+                4.0,
+                529.0,
+                90.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                126.0,
+                27.0,
+                166.0,
+                71.0
+            ],
+            [
+                127.0,
+                27.0,
+                167.0,
+                71.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<BACKCHANNEL ...unprecedented>"
+        ],
+        "narration": [],
+        "img_id": "3_336_5",
+        "dialog_bounding_boxes": [
+            [
+                184.0,
+                17.0,
+                356.0,
+                60.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [
+            "you can be as free as you want to be-- if you're willing to pay the price"
+        ],
+        "img_id": "3_348_2",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [
+            [
+                100.0,
+                29.0,
+                312.0,
+                107.0
+            ]
+        ],
+        "face_bounding_boxes": [],
+        "error_code": 2
+    },
+    {
+        "dialog": [
+            "<INFORM i am calling on you--> <INFORM --two of my oldest and dearest friends-->",
+            "<INFORM --to take advantage of the neutral ground that wakanda provides.> <ORDER let the spirit of the day rekindle friendships that are deeper than whatever differences separate us.>"
+        ],
+        "narration": [],
+        "img_id": "3_355_1",
+        "dialog_bounding_boxes": [
+            [
+                306.0,
+                3.0,
+                606.0,
+                78.0
+            ],
+            [
+                774.0,
+                146.0,
+                881.0,
+                250.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                683.0,
+                8.0,
+                792.0,
+                146.0
+            ],
+            [
+                683.0,
+                8.0,
+                791.0,
+                145.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM i am doom!>",
+            "<BYE goodbye.>"
+        ],
+        "narration": [],
+        "img_id": "3_365_3",
+        "dialog_bounding_boxes": [
+            [
+                376.0,
+                36.0,
+                465.0,
+                89.0
+            ],
+            [
+                773.0,
+                18.0,
+                881.0,
+                54.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                -1.0,
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            [
+                675.0,
+                7.0,
+                752.0,
+                99.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<YES-NO_QUESTION still don't trust me?> <INFORM that's okay.> <INFORM i don't trust you either.> <NOT_CLASSIFIABLE as long as we understand each other.>"
+        ],
+        "narration": [],
+        "img_id": "3_382_1",
+        "dialog_bounding_boxes": [
+            [
+                155.0,
+                38.0,
+                361.0,
+                223.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                429.0,
+                60.0,
+                881.0,
+                464.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM life isn't a poem, my love.>",
+            "<INFORM and this isn't a storybook...>"
+        ],
+        "narration": [],
+        "img_id": "4_403_1",
+        "dialog_bounding_boxes": [
+            [
+                26.0,
+                29.0,
+                266.0,
+                171.0
+            ]
+        ],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [
+            [
+                613.0,
+                303.0,
+                298.0,
+                9.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [
+            "<INFORM no tracks!> <INFORM no bleedin' tracks!>",
+            "<FEEDBACK we'll find 'em,> <INFORM i tell you!> <ORDER shut up!>"
+        ],
+        "narration": [
+            "four hours passed -- four hours in a world in which nothing moved but the mist! mist with the faint acrid touch of smoke -- the smoke of powdered ivory!"
+        ],
+        "img_id": "102_15_6",
+        "dialog_bounding_boxes": [
+            [
+                1.0,
+                97.0,
+                150.0,
+                175.0
+            ],
+            [
+                225.0,
+                96.0,
+                393.0,
+                178.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                1.0,
+                9.0,
+                465.0,
+                89.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                85.0,
+                176.0,
+                147.0,
+                240.0
+            ],
+            [
+                252.0,
+                182.0,
+                331.0,
+                259.0
+            ]
+        ],
+        "error_code": 0
+    },
+    {
+        "dialog": [],
+        "narration": [],
+        "img_id": "103_51_1",
+        "dialog_bounding_boxes": [],
+        "narration_bounding_boxes": [],
+        "face_bounding_boxes": [],
+        "error_code": 1
+    },
+    {
+        "dialog": [
+            "<INFORM a magnesium flare!> <BACKCHANNEL ohhh!>"
+        ],
+        "narration": [
+            "as the string is plucked, the minstrel's banjo discharges a smal capsule that explodes into blinding brilliance..."
+        ],
+        "img_id": "1000_7_4",
+        "dialog_bounding_boxes": [
+            [
+                287.0,
+                106.0,
+                504.0,
+                178.0
+            ]
+        ],
+        "narration_bounding_boxes": [
+            [
+                15.0,
+                3.0,
+                570.0,
+                108.0
+            ]
+        ],
+        "face_bounding_boxes": [
+            [
+                277.0,
+                196.0,
+                363.0,
+                284.0
+            ]
+        ],
+        "error_code": 0
+    }
+]

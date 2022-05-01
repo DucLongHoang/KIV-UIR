@@ -1,0 +1,11 @@
+package SW;
+
+/**
+ * Dialogue acts enum - type of classes
+ */
+public enum DAClass {
+    BACKCHANNEL, BYE, CLOSE, COMMIT, FEEDBACK,
+    GREET, INFORM, NOT_CLASSIFIABLE, OFFER,
+    ORDER, OR_QUESTION, POLITENESS_FORMULA,
+    THANK, WHY_QUESTION, YES_NO_QUESTION
+}
