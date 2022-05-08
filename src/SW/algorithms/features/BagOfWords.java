@@ -1,15 +1,15 @@
 package SW.algorithms.features;
 
-import SW.DAClass;
 import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
 import java.util.List;
-import java.util.Map;
 
 /**
  * BagOfWords class - extends FeatureAlgorithm to create features from TextDocuments
+ * @author Long
+ * @version 1.0
  */
 public class BagOfWords extends FeatureAlgorithm {
 
@@ -19,10 +19,6 @@ public class BagOfWords extends FeatureAlgorithm {
      */
     public BagOfWords(List<TextDocument> textDocuments) {
         super(textDocuments);
-        for(Map.Entry<DAClass, FeatureVector> entry: vocabulary.entrySet()) {
-            System.out.println();
-            System.out.println(entry.getKey().toString() + " : " + entry.getValue().getFeatureNamesVector());
-        }
     }
 
     /**
@@ -30,16 +26,13 @@ public class BagOfWords extends FeatureAlgorithm {
      */
     @Override
     protected void makeFeatures() {
-        FeatureVector featVector;
-        Feature tmpFeature;
+        super.makeFeatures();
 
-        // loop through all documents to make FeatureVectors for every DAClass
-        for(TextDocument document: textDocuments) {
-            featVector = getFeatureVector(document.getType());
-            // adding Features to FeatureVector
-            for(String word: document.getWords()) {
-                tmpFeature = new Feature(word);
-                featVector.addFeatureToVector(tmpFeature, false);
+        // make document frequency for every word of every DAClass type
+        for(FeatureVector fv: vocabulary.values()) {
+            // setting up value for every Feature, in BoW it is its count
+            for(Feature f: fv.getFeatures()) {
+                f.setValue(f.getCount());
             }
         }
     }

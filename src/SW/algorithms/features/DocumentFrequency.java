@@ -26,20 +26,9 @@ public class DocumentFrequency extends FeatureAlgorithm {
 
     @Override
     protected void makeFeatures() {
-        FeatureVector tmpVector;
-        Feature tmpFeature;
+        super.makeFeatures();
 
-        // loop through all documents to make FeatureVectors for every DAClass
-        for(TextDocument document: textDocuments) {
-            tmpVector = getFeatureVector(document.getType());
-            // adding Features to FeatureVector, and increase occurrence count of Feature
-            for(String word: document.getWords()) {
-                tmpFeature = new Feature(word);
-                tmpVector.addFeatureToVector(tmpFeature, true);
-            }
-        }
-
-        // make document frequency for every word of every type
+        // make document frequency for every word of every DAClass type
         for(FeatureVector fv: vocabulary.values()) {
             // setting up document frequency value for every Feature
             for(Feature f: fv.getFeatures()) {

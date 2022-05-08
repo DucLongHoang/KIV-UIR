@@ -6,10 +6,15 @@ import java.util.Objects;
 
 /**
  * Feature class - consists of a word and number of occurrences
+ * @author Long
+ * @version 1.0
  */
 public class Feature implements Comparable<Feature>{
+    /** A word this Feature encapsulates */
     private final String word;
+    /** Number of occurrences in a given text document */
     private int count;
+    /** Arbitrary value of a Feature, used by some FeatureAlgorithms */
     private double value;
 
     /**
@@ -23,13 +28,6 @@ public class Feature implements Comparable<Feature>{
     }
 
     /**
-     * Method increments occurrence by one
-     */
-    public void incrementCount() {
-        this.count++;
-    }
-
-    /**
      * Getter for word
      * @return word of this Feature
      */
@@ -38,18 +36,18 @@ public class Feature implements Comparable<Feature>{
     }
 
     /**
+     * Method increments occurrence by one
+     */
+    public void incrementCount() {
+        this.count++;
+    }
+
+    /**
      * Getter for count
      * @return number of occurrence for the word
      */
     public int getCount() {
         return count;
-    }
-
-    /**
-     * Method returns the count and value to 0
-     */
-    public void zeroCountAndValue() {
-        this.count = 0;
     }
 
     /**

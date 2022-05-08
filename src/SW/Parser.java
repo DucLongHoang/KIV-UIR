@@ -56,11 +56,13 @@ public class Parser {
     private void makeTextDocuments() {
         ArrayList<String> words;
         DAClass type;
+        String[] classAndTheRest;
 
         for(String line: lines) {
+            classAndTheRest = line.split(" ");
+            type = DAClass.getDAClass(classAndTheRest[0]);   // first word is da-class
             words = new ArrayList<>(Arrays.asList(line.split(DELIM)));
-            type = DAClass.valueOf(words.get(0));   // first word is da-class
-            words.remove(0);    // remove it, the rest is the document
+            words.remove(0);    // remove class, the rest is the document
             textDocuments.add(new TextDocument(type, words));
         }
     }
