@@ -1,5 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'dokumentace.blg'
-[198] biber-MSWIN64:340> INFO - === 
-[914] Utils.pm:411> ERROR - Cannot find 'dokumentace.bcf'!
-[914] Biber.pm:132> INFO - ERRORS: 1

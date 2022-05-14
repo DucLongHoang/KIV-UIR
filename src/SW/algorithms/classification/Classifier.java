@@ -30,7 +30,7 @@ public abstract class Classifier {
     public Classifier(FeatureAlgorithm algorithm) {
         this.algorithm = algorithm;
         this.vocabulary = algorithm.getVocabulary();
-        this.uniqueFeatures = getUniqueFeatures();
+        this.uniqueFeatures = algorithm.getUniqueFeatures();
         trainOnData();
     }
 
@@ -45,16 +45,4 @@ public abstract class Classifier {
      * @return the guessed DAClass
      */
     public abstract DAClass classify(TextDocument document);
-
-    /**
-     * Method returns a Set of unique Features
-     * @return a Set of unique Features
-     */
-    private Set<Feature> getUniqueFeatures() {
-        Set<Feature> result = new HashSet<>();
-        for (FeatureVector fv: vocabulary.values()) {
-            result.addAll(fv.getFeatures());
-        }
-        return result;
-    }
 }

@@ -5,9 +5,7 @@ import SW.algorithms.classification.NaiveBayes;
 import SW.algorithms.features.BagOfWords;
 import SW.algorithms.features.DocumentFrequency;
 import SW.algorithms.features.TFIDF;
-
-import java.util.Arrays;
-import java.util.List;
+import kotlin.jvm.JvmStatic;
 
 /**
  * Main class - run app from here
@@ -15,11 +13,11 @@ import java.util.List;
  * @version 1.0
  */
 public class Main {
-    private final static String INPUT_FILE_PATH = "train.txt";
+    private final static String TRAIN_DATA_FILE_PATH = "train.txt";
     private final static String TEST_DATA_FILE_PATH = "test.txt";
 
     public static void main(String[] args) {
-        Parser p = new Parser(INPUT_FILE_PATH);
+        Parser p = new Parser(TRAIN_DATA_FILE_PATH);
 
         // Feature making algorithms
         BagOfWords featAlgo = new BagOfWords(p.textDocuments);
@@ -27,8 +25,8 @@ public class Main {
 //        TFIDF featAlgo = new TFIDF(p.textDocuments);
 
         // Classification algorithms
-        NaiveBayes classAlgo = new NaiveBayes(featAlgo);
-//        K_NN classAlgo = new K_NN(featAlgo);
+//        NaiveBayes classAlgo = new NaiveBayes(featAlgo);
+        K_NN classAlgo = new K_NN(featAlgo).setK(1);
 
         // Classifying test data
         ClassifyingHandler handler = new ClassifyingHandler(TEST_DATA_FILE_PATH);

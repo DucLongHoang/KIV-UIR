@@ -1,8 +1,15 @@
-package SW;
+package SW_new;
+
+import SW_new.document.DAClass;
+import SW_new.document.Document;
 
 import java.io.IOException;
 import java.nio.file.Paths;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Scanner;
+import java.util.stream.Collectors;
 
 /**
  * Parser class - handles input file
@@ -20,8 +27,8 @@ public class Parser {
             DOT + TAB +
             STAR + QUOTE + SLASH + "]+";
 
-    List<String> lines;
-    List<TextDocument> textDocuments;
+    public List<String> lines;
+    public List<Document> documents;
 
     /**
      * Constructor for Parser
@@ -29,9 +36,9 @@ public class Parser {
      */
     public Parser(String inputFilePath) {
         this.lines = new ArrayList<>();
-        this.textDocuments = new ArrayList<>();
+        this.documents = new ArrayList<>();
         handleInputFile(inputFilePath);
-        makeTextDocuments();
+        makeDocuments();
     }
 
     /**
@@ -54,17 +61,46 @@ public class Parser {
      * Method creates a TextDocument for every line
      * assigning the DAClass and the words to it
      */
-    private void makeTextDocuments() {
-        ArrayList<String> words;
+    private void makeDocuments() {
+        List<String> words;
         DAClass type;
-        String[] classAndTheRest;
 
         for(String line: lines) {
-            classAndTheRest = line.split(" ");
-            type = DAClass.getDAClass(classAndTheRest[0]);   // first word is da-class
+            // first word is da-class
+            type = DAClass.getDAClass(line.split(" ")[0]);
+
             words = new ArrayList<>(Arrays.asList(line.split(DELIM)));
             words.remove(0);    // remove class, the rest is the document
-            textDocuments.add(new TextDocument(type, words));
+
+            words = words.stream()
+                    .map(String::toLowerCase)
+                    .collect(Collectors.toList());
+
+            checkLastChar(words);
+            documents.add(new Document(type, words));
+        }
+    }
+
+    private void checkLastChar(List<String> words) {
+        String lastWord = words.get(words.size() - 1);
+        char lastChar = lastWord.toCharArray()[lastWord.length() - 1];
+        char toBeAdded = '\0';
+
+        switch (lastChar) {
+            case EXCLAMATION -> {
+                toBeAdded = EXCLAMATION;
+                lastWord = lastWord.substring(0, lastWord.length() - 1);
+            }
+            case QUESTION -> {
+                toBeAdded = QUESTION;
+                lastWord = lastWord.substring(0, lastWord.length() - 1);
+            }
+        }
+
+        if (toBeAdded != '\0') {
+            words.remove(words.size() - 1);
+            words.add(lastWord);
+            words.add(String.valueOf(toBeAdded));
         }
     }
 }

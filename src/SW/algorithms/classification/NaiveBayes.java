@@ -68,19 +68,26 @@ public class NaiveBayes extends Classifier {
         List<String> words = document.getWords();
         double wordOccurrence, denominator;    // NUMERATOR and DENOMINATOR
         double conditionalProb, oldProbability, newProbability;
-        Feature tmp;
+        Feature tmpFeature;
 
         // calculating probabilities for all DAClasses
         for(Map.Entry<DAClass, FeatureVector> entry: vocabulary.entrySet()) {
-            wordOccurrence = 0;
+//            System.out.println();
+//            System.out.println(entry.getKey().toString() + " " + entry.getValue().getFeatureNamesVector());
+
             for(String word: words) {
+                wordOccurrence = 0;
+
                 // NUMERATOR
-                tmp = entry.getValue().getFeature(new Feature(word));
-                if (tmp != null) wordOccurrence+=tmp.getValue();
+                tmpFeature = entry.getValue().getFeature(new Feature(word));
+                if (tmpFeature != null) {
+                    wordOccurrence = tmpFeature.getValue();
+                }
                 wordOccurrence++;   // Laplace smoothing, K = 1
 
                 // DENOMINATOR
-                denominator = entry.getValue().getTotalWords() + uniqueFeatures.size();
+                denominator = entry.getValue().getTotalVectorValue() + uniqueFeatures.size();
+//                denominator = 1;
 
                 // CONDITIONAL PROBABILITY
                 conditionalProb = wordOccurrence / denominator;

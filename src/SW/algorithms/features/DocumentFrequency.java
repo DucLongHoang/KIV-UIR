@@ -7,6 +7,7 @@ import SW.TextDocument;
 
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * Document Frequency class - extends FeatureAlgorithm
@@ -35,5 +36,10 @@ public class DocumentFrequency extends FeatureAlgorithm {
                 f.setValue( (double) f.getCount() / fv.getTotalWords() );
             }
         }
+    }
+
+    @Override
+    public Set<Feature> getUniqueFeatures() {
+        return null;
     }
 }

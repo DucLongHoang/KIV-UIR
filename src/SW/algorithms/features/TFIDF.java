@@ -1,12 +1,12 @@
 package SW.algorithms.features;
 
-import SW.DAClass;
 import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
+import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
+import java.util.Set;
 
 /**
  * Term-Frequency Inverse Document Frequency class - extends FeatureAlgorithm
@@ -66,5 +66,20 @@ public class TFIDF extends FeatureAlgorithm {
         }
         double fraction = ( (double) numberOfDocs / docsContaining );
         return Math.log(fraction);
+    }
+
+    @Override
+    public Set<Feature> getUniqueFeatures()  {
+        Set<Feature> result = new HashSet<>();
+        Feature featToAdd;
+
+        for (FeatureVector fv: vocabulary.values()) {
+            for (Feature f: fv.getFeatures()) {
+                featToAdd = new Feature(f.getWord());
+                featToAdd.setValue(getIDF(f));
+                result.add(featToAdd);
+            }
+        }
+        return result;
     }
 }

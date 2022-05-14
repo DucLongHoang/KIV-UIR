@@ -5,6 +5,8 @@ import java.util.stream.Collectors;
 
 /**
  * TextDocument class - defined by its type and the words it is made of
+ * @author Long
+ * @version 1.0
  */
 public class TextDocument {
     private final DAClass type;

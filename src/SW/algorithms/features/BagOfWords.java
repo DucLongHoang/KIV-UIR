@@ -4,7 +4,9 @@ import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * BagOfWords class - extends FeatureAlgorithm to create features from TextDocuments
@@ -35,5 +37,14 @@ public class BagOfWords extends FeatureAlgorithm {
                 f.setValue(f.getCount());
             }
         }
+    }
+
+    @Override
+    public Set<Feature> getUniqueFeatures() {
+        Set<Feature> result = new HashSet<>();
+        for (FeatureVector fv: vocabulary.values()) {
+            result.addAll(fv.getFeatures());
+        }
+        return result;
     }
 }

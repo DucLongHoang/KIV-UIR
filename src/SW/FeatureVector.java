@@ -59,7 +59,7 @@ public class FeatureVector {
 
         for(Feature f: features) {
             sb.append(f.getWord()).append(":");
-            sb.append(f.getCount()).append(",");
+            sb.append(f.getValue()).append(",");
         }
         sb.append("]");
 

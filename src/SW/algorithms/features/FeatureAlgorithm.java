@@ -5,9 +5,7 @@ import SW.Feature;
 import SW.FeatureVector;
 import SW.TextDocument;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * FeatureAlgorithm abstract class
@@ -19,6 +17,7 @@ import java.util.Map;
 public abstract class FeatureAlgorithm {
     /** Every DAClass type has its own vector of features */
     protected Map<DAClass, FeatureVector> vocabulary;
+
     /** Reference to all text documents */
     protected List<TextDocument> textDocuments;
 
@@ -36,6 +35,17 @@ public abstract class FeatureAlgorithm {
 //            System.out.println();
 //            System.out.println(entry.getKey().toString() + " : " + entry.getValue().getFeatureNamesVector());
 //        }
+    }
+
+    /**
+     * Method returns a Set of unique Features
+     * @return a Set of unique Features
+     */
+    public abstract Set<Feature> getUniqueFeatures();
+
+
+    public List<TextDocument> getTextDocuments() {
+        return textDocuments;
     }
 
     /**

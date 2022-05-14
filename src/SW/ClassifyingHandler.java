@@ -42,10 +42,13 @@ public class ClassifyingHandler {
             guessedClass = classifier.classify(td);
             if (guessedClass.equals(td.getType())) {
                 correct++;
+//                if (guessedClass != DAClass.INFORM) {
+//                    System.out.println(guessedClass + " recognized");
+//                }
             }
         }
 
         correctPercentage = (double) correct / total;
-        System.out.format("Correctly classified %d out of %d documents => %f", correct, total, correctPercentage);
+        System.out.format("\nCorrectly classified %d out of %d documents => %f", correct, total, correctPercentage);
     }
 }
