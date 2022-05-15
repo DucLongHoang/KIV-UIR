@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Feature class - consists of a word and number of occurrences
  * @author Long
- * @version 1.0
+ * @version 2.0
  */
 public class Feature implements Comparable<Feature>{
     /** A word this Feature encapsulates */
@@ -45,6 +45,10 @@ public class Feature implements Comparable<Feature>{
         return this.word.compareTo(other.word);
     }
 
+    /**
+     * Method creates a copy of this Feature
+     * @return copy of this instance
+     */
     public Feature copy() {
         Feature newFeature = new Feature(this.word);
         newFeature.count = this.count;

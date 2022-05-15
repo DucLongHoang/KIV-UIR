@@ -9,19 +9,31 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * AbstractFeaturizer abstract class - to be extended by classes that can featurize a Documents
+ * @author Long
+ * @version 2.0
+ */
 public abstract class AbstractFeaturizer {
     public Collection<Document> docs;
     public Map<DAClass, FeatureVector> featuresByClassMap;
 
+    /**
+     * Constructor for AbstractFeaturizer
+     * @param docs to be featurized
+     */
     public AbstractFeaturizer(Collection<Document> docs) {
         this.docs = docs;
         this.featuresByClassMap = new HashMap<>();
         this.makeFeatures();
 
-        this.printDocsFeatureValues();
-        this.printClassFeatureValues();
+//        this.printDocsFeatureValues();
+//        this.printClassFeatureValues();
     }
 
+    /**
+     * Method makes Features for all docs and DAClasses
+     */
     public void makeFeatures() {
         makeFeaturesForDocs();
         makeFeaturesForClasses();
@@ -36,9 +48,7 @@ public abstract class AbstractFeaturizer {
      * Make features for every Document
      */
     public void makeFeaturesForDocs() {
-        for (Document doc: docs) {
-            featurizeDoc(doc);
-        }
+        for (Document doc: docs) featurizeDoc(doc);
     }
 
     /**
@@ -54,9 +64,9 @@ public abstract class AbstractFeaturizer {
     }
 
     /**
-     *
-     * @param type
-     * @return
+     * Method returns FeatureVector by DAClass
+     * @param type of DAClass whose FeatureVector we want
+     * @return FeatureVector of DAClass
      */
     public FeatureVector getFeatureVectorByDAClass(DAClass type) {
         if(featuresByClassMap.containsKey(type))
@@ -67,6 +77,9 @@ public abstract class AbstractFeaturizer {
         return featuresByClassMap.get(type);
     }
 
+    /**
+     * Method prints Feature values of all DAClasses
+     */
     public void printClassFeatureValues() {
         System.out.println();
 
@@ -83,6 +96,9 @@ public abstract class AbstractFeaturizer {
         System.out.println();
     }
 
+    /**
+     * Method prints Feature values of all Documents
+     */
     public void printDocsFeatureValues() {
         System.out.println();
 

@@ -10,11 +10,20 @@ import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.*;
 
+/**
+ * NaiveBayesClassifier class - extends AbstractClassifier
+ * Uses Bayes theorem as its core principle
+ * @author Long
+ * @version 2.0
+ */
 public class NaiveBayesClassifier extends AbstractClassifier {
     public final static double LAPLACE_SMOOTHING = 0.00000000001;
+    public Map<DAClass, Integer> classCount;
 
-    Map<DAClass, Integer> classCount;
-
+    /**
+     * Constructor for NaiveBayesClassifier
+     * @param featurizer see super
+     */
     public NaiveBayesClassifier(AbstractFeaturizer featurizer) {
         super(featurizer);
     }
@@ -55,15 +64,11 @@ public class NaiveBayesClassifier extends AbstractClassifier {
             }
         }
 
-        DAClass result = probabilities.entrySet()
+        return probabilities.entrySet()
                 .stream()
                 .max(Map.Entry.comparingByValue())
                 .map(Map.Entry::getKey)
                 .orElseThrow();
-
-        if (probabilities.get(result) == 0) result = DAClass.INFORM;
-
-        return result;
     }
 
     @Override
@@ -81,6 +86,10 @@ public class NaiveBayesClassifier extends AbstractClassifier {
         }
     }
 
+    /**
+     * Method initializes prior probabilities according to stats file
+     * @return Map of DAClasses and their prior probabilities
+     */
     private Map<DAClass, Double> initPriorProbabilities() {
         Map<DAClass, Double> probabilities = new HashMap<>();
         Scanner sc;

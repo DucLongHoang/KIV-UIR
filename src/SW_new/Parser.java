@@ -13,7 +13,9 @@ import java.util.stream.Collectors;
 
 /**
  * Parser class - handles input file
- * and creates a TextDocument for each line
+ * and creates a Document for each line
+ * @author Long
+ * @version 2.0
  */
 public class Parser {
     /** all regex characters */
@@ -24,20 +26,22 @@ public class Parser {
             SLASH = '/';
     /** initializing main regex delimiter */
     private final static String DELIM = "[" + SPACE + PLUS + DASH +
-            DOT + TAB +
-            STAR + QUOTE + SLASH + "]+";
+            DOT + TAB + STAR + QUOTE + SLASH + "]+";
 
     public List<String> lines;
     public List<Document> documents;
 
     /**
      * Constructor for Parser
-     * @param inputFilePath path to the input file
+     * @param input path to the input file
      */
-    public Parser(String inputFilePath) {
+    public Parser(String input, boolean isFile) {
         this.lines = new ArrayList<>();
         this.documents = new ArrayList<>();
-        handleInputFile(inputFilePath);
+
+        if (isFile) handleInputFile(input);
+        else lines.add(DAClass.TO_BE_CLASSIFIED + " " + input);
+
         makeDocuments();
     }
 
@@ -68,9 +72,10 @@ public class Parser {
         for(String line: lines) {
             // first word is da-class
             type = DAClass.getDAClass(line.split(" ")[0]);
-
+            // split into List of Strings
             words = new ArrayList<>(Arrays.asList(line.split(DELIM)));
-            words.remove(0);    // remove class, the rest is the document
+            // remove da-class, the rest is the document
+            words.remove(0);
 
             words = words.stream()
                     .map(String::toLowerCase)
@@ -81,6 +86,11 @@ public class Parser {
         }
     }
 
+    /**
+     * Method checks last char of a Document
+     * if it's an exclamation or question mark then make it a separate Feature
+     * @param words of a Document
+     */
     private void checkLastChar(List<String> words) {
         String lastWord = words.get(words.size() - 1);
         char lastChar = lastWord.toCharArray()[lastWord.length() - 1];

@@ -12,13 +12,30 @@ import java.util.TreeMap;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+/**
+ * KNNClassifier class - extends AbstractClassifier
+ * Works by calculating the Euclid distance to every train Document
+ * and sort in ascending order. Choose K nearest and democratically
+ * choose a DAClass
+ * @author Long
+ * @version 2.0
+ */
 public class KNNClassifier extends AbstractClassifier {
     public int K;
 
+    /**
+     * Constructor for KNNClassifier
+     * @param featurizer see super
+     */
     public KNNClassifier(AbstractFeaturizer featurizer) {
         super(featurizer);
     }
 
+    /**
+     * Hack for chained constructor call
+     * @param k number of nearest neighbours
+     * @return this instance
+     */
     public KNNClassifier setK(int k) {
         K = k;
         return this;
@@ -49,6 +66,12 @@ public class KNNClassifier extends AbstractClassifier {
                 .map(Map.Entry::getKey).orElseThrow();
     }
 
+    /**
+     * Method calculates Euclid distance of 2 Documents
+     * @param trainedDoc document already featurized
+     * @param toCompare document to calculate distance to
+     * @return Euclid distance
+     */
     private double euclidDistance(Document trainedDoc, Document toCompare) {
         Map<String, Double> allWords = new TreeMap<>();
         double oldVal, sum;
@@ -78,5 +101,4 @@ public class KNNClassifier extends AbstractClassifier {
 
         return Math.sqrt(sum);
     }
-
 }

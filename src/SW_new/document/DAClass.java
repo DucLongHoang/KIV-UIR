@@ -7,13 +7,14 @@ import java.util.Map;
 /**
  * Dialogue acts enum - type of classes
  * @author Long
- * @version 1.0
+ * @version 2.0
  */
 public enum DAClass {
     BACKCHANNEL("BACKCHANNEL"), BYE("BYE"), CLOSE("CLOSE"), COMMIT("COMMIT"), FEEDBACK("FEEDBACK"),
     GREET("GREET"), INFORM("INFORM"), NOT_CLASSIFIABLE("NOT_CLASSIFIABLE"), OFFER("OFFER"),
     ORDER("ORDER"), OR_QUESTION("OR_QUESTION"), POLITENESS_FORMULA("POLITENESS_FORMULA"),
-    THANK("THANK"), WHY_QUESTION("WHY_QUESTION"), YES_NO_QUESTION("YES-NO_QUESTION");
+    THANK("THANK"), WHY_QUESTION("WHY_QUESTION"), YES_NO_QUESTION("YES-NO_QUESTION"),
+    TO_BE_CLASSIFIED("TO_BE_CLASSIFIED");
 
     /** Name taken from text file */
     private final String className;
