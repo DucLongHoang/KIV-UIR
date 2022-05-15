@@ -32,8 +32,8 @@ public class Main {
 
     private final static int NEIGHBOUR_COUNT = 13;
 
-    private final static String TRAIN_DATA_FILE_PATH = "train.txt";
-    private final static String TEST_DATA_FILE_PATH = "test.txt";
+    private final static String TRAIN_DATA_FILE_PATH = "test.txt";
+    private final static String TEST_DATA_FILE_PATH = "train.txt";
 //    private final static String TRAIN_DATA_FILE_PATH = "myTrain.txt";
 //    private final static String TEST_DATA_FILE_PATH = "myTest.txt";
 
@@ -98,7 +98,7 @@ public class Main {
     private static void showGui() {
         JFrame win = new JFrame();
         win.setTitle("UIR - GUI");
-        win.setPreferredSize(new Dimension(500, 300));
+        win.setPreferredSize(new Dimension(600, 500));
         makeGui(win);
 
         win.pack();
@@ -146,7 +146,7 @@ public class Main {
         cIndex = C_BUTTONS.indexOf(cSelected);
 
         // prepare doc/s
-        Parser p = new Parser(trainFile.getAbsolutePath(), true);
+        Parser p = new Parser(trainFile.getName(), true);
 
         // prepare featurizers
         AbstractFeaturizer[] af = new AbstractFeaturizer[]{
@@ -159,7 +159,7 @@ public class Main {
         // classify
         ClassificationHandler ch;
         if (inputText.getText().isBlank())
-            ch = new ClassificationHandler(testFile.getAbsolutePath(), true);
+            ch = new ClassificationHandler(testFile.getName(), true);
         else ch = new ClassificationHandler(inputText.getText(), false);
 
         ch.classifier = ac[cIndex];
@@ -187,7 +187,7 @@ public class Main {
         chooseFilePanel.add(testDataLabel);
 
         chooseTrainDataBtn.addActionListener(e -> {
-            JFileChooser fileChooser = new JFileChooser(new File("."));
+            JFileChooser fileChooser = new JFileChooser(new File("S:/Git/KIV-UIR"));
             int option = fileChooser.showOpenDialog(chooseFilePanel);
             if(option == JFileChooser.APPROVE_OPTION){
                 trainFile = fileChooser.getSelectedFile();
@@ -198,7 +198,7 @@ public class Main {
         });
 
         chooseTestDataBtn.addActionListener(e -> {
-            JFileChooser fileChooser = new JFileChooser(new File("."));
+            JFileChooser fileChooser = new JFileChooser(new File("S:/Git/KIV-UIR"));
             int option = fileChooser.showOpenDialog(chooseFilePanel);
             if(option == JFileChooser.APPROVE_OPTION){
                 testFile = fileChooser.getSelectedFile();

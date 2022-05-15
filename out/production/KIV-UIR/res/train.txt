@@ -1,0 +1,1932 @@
+INFORM the odds against the black panther are formidable!
+NOT_CLASSIFIABLE if he's defeated,
+YES-NO_QUESTION got any new ideas, mister little?
+INFORM we'll be trapped here--
+COMMIT it's time to take a risk!--
+INFORM an extremely chancy risk!--
+INFORM but, it could work in our favor!
+NOT_CLASSIFIABLE fools!
+INFORM they've only exchanged one form of danger for another...
+NOT_CLASSIFIABLE bothersome--fleas--!
+INFORM you--won't--escape--this--time!
+INFORM we may only have time for one more!
+ORDER w-we can't die, now!
+INFORM --not when we're so close to our goal-!
+BACKCHANNEL yes, that's so!
+INFORM abner little is prone to collector's syndrome,
+INFORM but he does keep his word!
+FEEDBACK well, i made no such promise!
+INFORM i claim them as mine!
+INFORM the ancient builders were too proud to leave an inoperable object behind them!
+INFORM this thing is ready to run!
+INFORM i can sense it!
+INFORM there are just two hand bars with a button on each...
+ORDER push one of the buttons!
+INFORM i speak of a first strike, panther!
+INFORM i speak of a nuclear attack which will your peace lovers off the world map!
+YES-NO_QUESTION y-you would dare resort to this!?
+ORDER take it from abner little, young fellow--
+INFORM zanda will stop at nothing to get what she wants
+INFORM you've only aroused him to full fury!
+INFORM he'll crush us like mice!
+INFORM he'll finish us aa any rate-- if we don't find a way to get him first!
+INFORM the panther has all the lowly virtues of the rat and the eel!
+FEEDBACK i'll clear up your confusion,
+NOT_CLASSIFIABLE once i adjust this ritual hood!
+INFORM i've neglected family and duty for lengthy involvements with the world...
+COMMIT this time i shall return to the land of the panther cult--where no man calls me--outsider!
+FEEDBACK homesickness will not change the facts.
+INFORM your domain is rather small and remote!
+INFORM you're really an african provincial, my lad!
+ORDER start running, panther!
+INFORM it's you they'll be after, now!
+ORDER send me a post card when you reach home!
+INFORM death will be swift, zuni!
+INFORM that disguise can neither hide you nor spare you!
+ORDER keep him at bay, cousin!
+INFORM i'm almost ready!
+FEEDBACK that's small comfort, dolt!
+INFORM he's tearing my arms off!
+YES-NO_QUESTION joshua itobo, are you injured?
+FEEDBACK it seems impossible that any of us should have survived!
+INFORM it's the rulling family--!
+BACKCHANNEL optimists!
+INFORM they greet the panther in triumph not yet achieved!
+INFORM jiru merely voices my own fears!
+INFORM this is not a common patient-- but an unknown force of mounting power!
+FEEDBACK that's true...
+INFORM there are definite signs of a rising energy level!
+YES-NO_QUESTION don't you see?
+INFORM jakarra is no longer human!
+ORDER i say destroy him before he regains his senses!
+FEEDBACK you forget that i'm a doctor, n'gassi!
+INFORM i cannot take a life!
+INFORM let him live--and we all die!
+INFORM i am your prisoner!
+ORDER come and get me!
+INFORM he's gone!
+INFORM jakarra's broken out of his fortified chamber!
+INFORM the cursed one has the power of fifty men!
+INFORM i tried to warn the rulling family!
+INFORM but, they wouldn't listen!
+FEEDBACK their disdain for the old ways have opened the door to disaster!
+NOT_CLASSIFIABLE i pray that we have the force to stop this demon!
+INFORM the militia will do its best!
+FEEDBACK no--not its slave--but its brother!
+INFORM he goes to become "one" with the great mound!
+ORDER t'challa save us!
+ORDER that mustn't happen!
+INFORM if he reaches it, the ancient warnings will come to pass!
+INFORM my shield seems to have no effect on it!
+WHY_QUESTION what's this creature made of?!
+ORDER get away, t'challa--
+ORDER warn the avengers!
+FEEDBACK you're wrong about your shield, cap--
+INFORM it made the monster release me!
+NOT_CLASSIFIABLE homelands!
+INFORM we uproot them from homes they thought they owned,
+INFORM give them scraps of veldt with no resources and then force them to work in our factories as aliens without rights!
+INFORM as for the beeper..
+INFORM i'm afraid there's no place to put it with this outfit.
+NOT_CLASSIFIABLE ...biting every hand that feeds him.
+ORDER get dressed.
+INFORM i've taken the liberty of buying you some new clothes.
+YES-NO_QUESTION and me?
+YES-NO_QUESTION was i part of the journey?
+FEEDBACK of course.
+INFORM but the journey continues.
+NOT_CLASSIFIABLE if i rest...
+NOT_CLASSIFIABLE if i stray...
+INFORM my people perish.
+ORDER you must understand that.
+FEEDBACK -- -- i do.
+FEEDBACK not in the mood, queen.
+ORDER look at me!
+INFORM at what they made me wear!
+YES-NO_QUESTION does "dora milaje" mean "ready for cocktail party at all times"?*
+NOT_CLASSIFIABLE --but are illusory!
+INFORM human facades covering alien or perhaps eldritch reality!
+INFORM you have not answered my question.
+WHY_QUESTION who are you?
+NOT_CLASSIFIABLE --of a dead king.
+INFORM and i've already offered to give the black panther costume back to you--
+FEEDBACK --in two days-- yes.
+INFORM when you'll no longer need it.
+INFORM when your suspension has ended.
+NOT_CLASSIFIABLE in the alley outside your bedroom--
+INFORM sal seems to think you've got some kinda case about him alluva-sudden.
+INFORM wants us to do this and that...
+INFORM then he shakes us down for 85 large when his boy skip asked for less than half that.
+INFORM now i come in and find a panther at my desk.
+INFORM ...unprecedented.
+INFORM i am calling on you--
+INFORM --two of my oldest and dearest friends--
+INFORM --to take advantage of the neutral ground that wakanda provides.
+ORDER let the spirit of the day rekindle friendships that are deeper than whatever differences separate us.
+INFORM i am doom!
+BYE goodbye.
+YES-NO_QUESTION still don't trust me?
+FEEDBACK that's okay.
+INFORM i don't trust you either.
+INFORM as long as we understand each other.
+INFORM life isn't a poem, my love.
+INFORM and this isn't a storybook...
+INFORM no tracks!
+INFORM no bleedin' tracks!
+FEEDBACK we'll find 'em,
+INFORM i tell you!
+ORDER shut up!
+INFORM a magnesium flare!
+BACKCHANNEL ohhh!
+INFORM you can slow it down now, mister little!!
+INFORM we've definitely lost them!!
+FEEDBACK very well.
+INFORM my landing pad is not far from this area!
+BACKCHANNEL oh,
+BACKCHANNEL huh!
+ORDER enough, you to!
+INFORM we've got to make the most of each.
+INFORM minute!
+INFORM there are dicisions to be made!
+INFORM there's work to be done!!
+ORDER don't crowd me, mister little!
+INFORM i don't know what this thing can do!
+INFORM if i push the wrong button, i could possibly blow us and this wagon to kingdom come!
+INFORM however, time is short!
+INFORM here we go!!
+INFORM he's stopped in his tracks -- but he won't go down!
+FEEDBACK a few more shots will tell the tale!
+INFORM he must have a vital spot!
+WHY_QUESTION and who but a true king can dispense justice that settles an issue?
+WHY_QUESTION what are you up to, t'challa?
+WHY_QUESTION what are you going to do!?
+BACKCHANNEL wow...
+INFORM some smart alec is projecting hundred of images.
+INFORM my spider webs can't catch what's not real...
+WHY_QUESTION but how to tell which is the real villain?
+INFORM when i gave the order to isolate jakarra for study, i knew there were risks involved --
+INFORM -- but to kill him would've violated my oath as a doctor!
+YES-NO_QUESTION did you also consider yout duty as a member of the ruling family?
+INFORM i'm gonna hafta cut you --
+BACKCHANNEL hey!
+WHY_QUESTION what's that hum?
+BACKCHANNEL holy crud --
+ORDER lookit his face!
+FEEDBACK his face?
+FEEDBACK i'll show you what i think about his face!
+INFORM man, levon, i knew you were goin' soft!
+INFORM maybe it's time li'l herbie took over the t-bolts!
+INFORM it's tabby!!
+INFORM ... is you!
+BACKCHANNEL uh-oh...
+INFORM the panther has defeated them!
+INFORM there can be no more proof needed than this!
+INFORM he is our king!
+INFORM the session's already started:
+INFORM i can just hear that madman raving on again about --
+INFORM -- we did not argue.
+INFORM the blood of out brothers is a holy thing, and their bondage blasphemy.
+YES-NO_QUESTION you got any tuna?
+FEEDBACK pantry.
+INFORM think i'll grab a sandwich.
+YES-NO_QUESTION you want -- ?
+FEEDBACK sure.
+INFORM -- remember, here in america, you are not to kill.
+BACKCHANNEL so,
+INFORM i suppose i'm calling to tell you ross has been kidnapped by someone posing as you.
+INFORM and you will pretend that you don't already know.
+GREET it is a rare pleasure to hear from you monica--
+INFORM well, that was productive.
+INFORM as with a great many americans, director henry peter gyrich can be given to excesses of emotion.
+NOT_CLASSIFIABLE and secretary ross--?
+INFORM black jack took risks, kasper...
+INFORM ... your father.
+ORDER look where it got him.
+INFORM kevin -- i distinctly asked for penne --
+COMMIT fine, ma, i'll go get it.
+INFORM -- how merciful of you, Officer Cole.
+INFORM Riot-control ordinance is rather expensive, though --
+INFORM -- for a man on a limited budget.
+INFORM i'd ask how you got in here, hunter --
+INFORM actually, it is. my guess though, is that you're not after us so much as you're afther him-- sal anthony.
+INFORM let's say i join your team.
+WHY_QUESTION if these wakandans are all you say they are, what are our chances of success?
+FEEDBACK pretty good.
+INFORM i've already killed one black panther 15 years ago.
+INFORM i almost killed his son then.
+INFORM ... you've told us a lot about wakanda, everett.
+INFORM they've got incredible natural resources, technology on par with the u.s.a. --
+BACKCHANNEL ah.
+INFORM right on time.
+GREET crystal.
+ORDER give my regards to ororo.
+ORDER tell her i'm sorry i couldn't stay.
+INFORM if you would at least consider a conversation, it might be worth a lot to both of us.
+INFORM my door is always open.
+WHY_QUESTION what happened to the lights?
+WHY_QUESTION what?
+INFORM i can't hear you!
+INFORM my hearing aid isn't working!
+INFORM looks like someone cut your puppets' strings, doom.
+BACKCHANNEL damn,
+INFORM i can't... stay lit!
+YES-NO_QUESTION daddy, that true?
+BACKCHANNEL sssssh!!!
+INFORM but you wil find the panther a most uncooperative target!
+WHY_QUESTION what's this all about
+INFORM i didn't pursue that man
+INFORM i sense that his capture is certain
+FEEDBACK because he's the real mccoy
+INFORM a living warrior plucked from antiquity and transplanted this century!
+GREET mister little!
+ORDER look out!!
+BACKCHANNEL ugh--!
+INFORM that creature wouldn't be on our hands
+INFORM if it werent't for zandas's meddling
+INFORM and her insatiable greed!!
+NOT_CLASSIFIABLE you horrible little ant!
+NOT_CLASSIFIABLE when this is over -- i'll -- i'll..!!
+ORDER save it!
+INFORM we're gliding into africa!!
+INFORM you must have read your map wrong!
+INFORM we'll crash into that mountain wall
+NOT_CLASSIFIABLE if i don't pull up the nose of this plane
+FEEDBACK no! i'm never wrong!
+INFORM it is imperative that we maintain this precise altitude!
+BACKCHANNEL ugh--!
+OFFER let's make tracks!
+OFFER you shall fight again with the fist against one schooled in the art.
+NOT_CLASSIFIABLE win or loose
+INFORM they're leaving!
+INFORM this is the opportunity i've been waiting for!
+ORDER let us see to our duties, senji.
+INFORM it is a trust we can now carry out with renewed vigor!
+INFORM i should have left you in that flaming wreckage, scarpa!
+INFORM let us hope i can get to your partner before the tanks blow!
+YES-NO_QUESTION you mean he isn't on of us?
+WHY_QUESTION but, that costume?
+FEEDBACK costume, shmostume!
+INFORM i found him crawlong in the desert -- almost dying of fatigue!
+FEEDBACK that goes double for his friend--
+INFORM the guy's not only dehydrated but wounded as well.
+POLITENESS_FORMULA poor man!
+INFORM drink some more of this cold milk--it's very refreshing...
+THANK thank you, miss...
+POLITENESS_FORMULA you're very kind...
+INFORM this way, ladies and gentlemen.
+ORDER hurry, fools!
+INFORM you know the black panther must not be seen without an honor guard-- especially now!
+INFORM so now we take the fight to him.
+INFORM we're going into wakanda.
+INFORM he is one of t'challa's order of the panther-- i know they're up to something!
+INFORM i know they hate our adherence to the old ways...
+WHY_QUESTION and now that the omens fall against t'challa, they seek to-- to do what?
+FEEDBACK is seeing the black panther groveling before a white man for all the world to see!
+ORDER oh, look!
+INFORM the dancers are re-enacting your triumph over the supremacists!
+INFORM so it shall, great one -- if unworthiness lies in me.
+FEEDBACK we shall see, mortal ..
+INFORM i still don't understand..
+WHY_QUESTION how could you lose to the panther.
+YES-NO_QUESTION spirit and still win?
+INFORM don't tell me you argued him out of it!
+FEEDBACK malaika--
+ORDER get back to new york.
+INFORM you've got 24 hours to get king t'challa to retract his statement, or you're shipping out to --
+INFORM the challenge is the beginning of the journey, not the end
+BYE pardon me, psychopaths
+NOT_CLASSIFIABLE t'challa -- i need a plane
+INFORM -- you install her as your tribal "queen" -- a leader you know the panther could never take up arms against -- -- and she, in turn legitimizes you as chieftain--
+FEEDBACK enough!
+GREET --thor!!
+THANK thank god--
+THANK thank the gods-- you're here!!
+YES-NO_QUESTION the avengers send you to rescue us?
+INFORM train's more'n two hours late--
+INFORM they got dre, scruggs
+INFORM think his vest caught the slugs
+ORDER gimme the suit
+FEEDBACK man, you trippin.
+ORDER gimme the suit, kasper
+NOT_CLASSIFIABLE trust me
+INFORM you don't want none of this.
+INFORM i need it man
+INFORM just for a few days
+INFORM so long as it is the right choice. not like lew. never like lew.
+NOT_CLASSIFIABLE so what better way to skip the kid out of town than to flush down the supply route between here and chi-town.
+INFORM using panther's wakandan central net to hack into dea files, we got a list of safe houses
+ORDER look for one that most recently had the utilities turned on.
+INFORM It's vanishing into the source from which it came!
+INFORM His brain!!
+INFORM He was dreaming!
+FEEDBACK And we were witness to it!
+INFORM we did it, by george!
+INFORM we're alive!
+INFORM you're infallible, mister little!
+INFORM i'll-- eradicate--you!--like--yermin--!
+BACKCHANNEL yeoow!!
+YES-NO_QUESTION hasn't it sunk into your clouded minds that this plice is one big mine field?!!
+INFORM each ornament here may strike us with lethal force at any given moment!
+ORDER each of us must help the others keep their head!
+WHY_QUESTION what does he mean, mister little?
+INFORM i detect a grudge fight in the offing!
+INFORM it's nothing you can't handle t'challa!
+INFORM in the land of the ronin we live by shinzu's word!
+INFORM i'm claiming diplomatic immunity to save your miserable hide, abner little!
+ORDER now, give me that water jug!
+FEEDBACK no--! no!!
+INFORM when this is over, i'm going home, mister little--home to the wakandas!
+WHY_QUESTION --and where can you find a people who would dedicate their future to keep all men from the harmful effects of an alien infection!
+FEEDBACK ah, yes... we come to the profitable venture which your family created: the panther cult!
+INFORM he sought power--and found it-- in the strangest of ways!
+ORDER look out, men!
+INFORM he's got the strength of a tank!
+INFORM that power has driven you mad!
+INFORM you're a menace to all of humanity!
+INFORM i am honored by this gathering of royal panthers!
+INFORM destiny demands that one of you must take command of a dangerous situation!
+INFORM i'm involved in high finance, n'gass!
+YES-NO_QUESTION can you possibly imagine me dashing about with spear and shield?
+INFORM i hear we've been summoned to deal with some provincial demon!
+FEEDBACK it's something like that!
+FEEDBACK a local prankster, no doubt!
+INFORM the demon is real indeed!
+INFORM and, in t'challa's absence, there must be a black panther at the helm in this crisis!
+YES-NO_QUESTION are you suggesting that I fit this image of demon-fighter?!
+INFORM how i wish for his swift return!
+INFORM there has been fighting in the streets!
+NOT_CLASSIFIABLE perhaps the militia has finally finished jakarra!
+INFORM we'd have had the news at this hour, noble one...
+ORDER listen, jackie
+INFORM --you got the electronic know-how to build me the weapon i need!
+ORDER you gonna build it, dig?
+FEEDBACK y-yes
+INFORM i condemn the masters of azania who, for generations have infucted pain and death on an innocent populace because of their race--
+ORDER seek not to sway me with words, o king--
+INFORM --neither the cleverness of the warrior nor the cat is with words!
+INFORM well, he can't have got far!
+ORDER show yourself panther!
+OR_QUESTION so, does the one true black panther wish to go over trade reports.. or just have an early breakfast?
+INFORM -- that factions within the u.s. intelligece community have effected a coup d'etat in my homeland.
+INFORM my friends-- this constitutes an act of war.
+GREET your highness--
+INFORM --you've got to help me with this--!
+FEEDBACK to blazes with all of you--!!
+ORDER i want achebe-- now!!!
+FEEDBACK c'mon, t'challa... let me kill him.
+POLITENESS_FORMULA please.
+INFORM you've got to call the state department
+OFFER -- get this cleared up--!!
+INFORM nikki -- nobody said this job would be permanent!!
+ORDER ross--calm down--
+FEEDBACK i least of all--
+INFORM --w'kabi, your true regent!
+INFORM my lord, this travesty with the american has gone on far too long!
+YES-NO_QUESTION you--?!
+YES-NO_QUESTION hunter?
+YES-NO_QUESTION kill me?
+FEEDBACK in a heart-beat.
+FEEDBACK on my lunch break.
+NOT_CLASSIFIABLE hell, them, scruggs.
+ORDER do ya job.
+INFORM i'm serious, hunter.
+FEEDBACK i know.
+FEEDBACK it's why he chose you.
+INFORM -that's his dog.
+NOT_CLASSIFIABLE margie--
+INFORM --spell it backwards for his home security code.
+BACKCHANNEL gasp!
+NOT_CLASSIFIABLE mother!
+ORDER look at what is happening in dakenia!
+INFORM wakanda is a small country in africe notable for never having been conquered in its entire history.
+INFORM and i thought my hand was dangerous.
+INFORM between the two of us, the black panther doesn't stand a chance!
+GREET oh hi!
+INFORM i'm tigra, we haven't really met.
+INFORM just kind of in those big rooms with every avenger assembled now and then...
+INFORM your time is over.
+GREET amandla... brothers and sisters.
+ORDER so tell me what do you know.
+INFORM your task won't be easy
+INFORM the tug of the afterlife is very strong.
+INFORM the longer one stays there, the more powerful its gravity.
+INFORM there!
+INFORM it can be nothing more than the chariot itself!
+COMMIT if we can make it work...!
+FEEDBACK why not!
+INFORM everything works only too well in this tomb!
+INFORM you don't understand, stranger...
+INFORM to lose one's sword so shamefully is a total disgrace!
+FEEDBACK sorry -- but it must stay in my keeping!
+INFORM poor fellow.
+INFORM i know what he means by shabby treatment!
+INFORM that is a well conceived jest, but, totally unworthy of your mettle.
+INFORM it cannot save you!
+FEEDBACK if that is so, i wait for the strike of the sword!
+INFORM but, i see doubt in the eyes of mighty shinzu.
+INFORM he knows that i speak the thruth!
+INFORM a king rules wherever he stands!
+POLITENESS_FORMULA forgive us, n'gassi -- we follow your orders, now!
+INFORM the people must be warned to avoid all contact with jakarra!
+INFORM e's the carrier of a grave infection!
+INFORM you can handle this one, too!
+ORDER the the vial!
+WHY_QUESTION what in blazes!?
+INFORM he's chosen to attack!
+ORDER cut him down!
+ORDER save your ammunition!
+INFORM the new jakarra is made of sterner substance, than the man you knew!
+INFORM i'd still be airborne and in sight of wakanda territory if i hadn't chanced upon this spoiler!
+INFORM he caused the wreck of my helicopter!
+INFORM the vibranium change has given jakarra a new advantage!
+INFORM he's invulnerable to our weapons!
+INFORM and that's not the only change!
+ORDER watch his hands!
+INFORM his palms are glowing like white got coals!
+ORDER open your granite jaws, great pather! --
+ORDER and take a wandering cub to the safety of your heart!
+WHY_QUESTION what should we tell the secretary?
+BACKCHANNEL yes!
+ORDER nail 'em your high --
+INFORM and, you're naked.
+INFORM and if i don't, i'll probably die.
+FEEDBACK correct.
+FEEDBACK correct.
+ORDER -- take it like a man.
+INFORM y'know, for a tall guy raised in harlem -- you play ball like a girl.
+INFORM all that muscle makes your trip over your own feet.
+INFORM makes me wonder how you managed to beat t'challa so many times.
+FEEDBACK every time.
+FEEDBACK whatever.
+FEEDBACK "grown"?!
+INFORM i'm only 16, gramps.
+INFORM in our culture, you would be married by now!
+INFORM we do not infantilize our young!
+FEEDBACK ... obviously ...
+ORDER and you shall address me as mama!
+INFORM that's the third phone today.
+POLITENESS_FORMULA please tell me you've found something.
+INFORM ross -- if you act as an agent of a foreign power -- it can be viewed as, well, treason --
+INFORM -- you can be denied u.s. citizenship.
+INFORM you need to see the king.
+NOT_CLASSIFIABLE beloved...
+INFORM that... that creep!
+COMMIT he's got to be stopped!!
+BACKCHANNEL hey!!
+FEEDBACK you wrinkled it, you bought it, pal!!
+INFORM -- everything's negotiable.
+INFORM my mother's death, for instance. a woman you rarely gave any thought to.
+INFORM and your legacy... which, now that faida's dead, dwells inside this mortal shell!
+ORDER name your price, you doddering old fool!
+WHY_QUESTION what the sam elliot is taking him so long?!
+INFORM i figured somebody'd be flung through a window by now.
+YES-NO_QUESTION i mean it's not like they're gonna let a jamaican cleavon little join their little lynch party -- eh -- ?!
+INFORM we don't have any "purpose" here, t'challa.
+INFORM i'm certain that dope's gonna spit in my eggs.
+NOT_CLASSIFIABLE t'challa...
+YES-NO_QUESTION you are certain of this, yes?
+INFORM they're untouchable --
+INFORM protected at the highest levels.
+INFORM and here you go, rookie of the year, with his meow suit, kicking them in the shin.
+INFORM kasper-- if they find out you're the guy in the panther suit, they'll kill your mother.
+INFORM they'll kill gwen.
+ORDER then come to terms with who the black pather is.
+INFORM the panther studies his prey. and waits.
+INFORM such that, when the panther strikes --
+INFORM his name is t'challa.
+INFORM son of t'chaka.
+WHY_QUESTION then why go at all, t'challa?
+FEEDBACK because you asked me to, logan.
+INFORM you could think that... ..there are no facts to support it, but you could think that.
+INFORM even if they can't, you can take panther-training...
+INFORM maybe xavier -- even emma -- maybe they can help ...
+WHY_QUESTION whatya think, t'charlie?
+FEEDBACK looks pretty real.
+INFORM i've read reed's manuals on skrull technology. i should be able to pilot us home.
+NOT_CLASSIFIABLE sounds like a great read at the beach.
+FEEDBACK actually, yes.
+YES-NO_QUESTION you mean time for us to go home.
+INFORM it's a man, all right! -- a man from the "sixth era" -- wherever that may be in time!
+INFORM he's man as he will be in the far distatn future -- all brain!
+FEEDBACK then, that's the spot to shoot at!
+INFORM he's not going to make it!
+INFORM our only chance may be to run!
+WHY_QUESTION what are you up to now!?
+FEEDBACK i'm testing another of these objects!
+ORDER don't interfere, princess zanda!
+YES-NO_QUESTION is something wrong with the chariot?
+FEEDBACK yes...
+WHY_QUESTION what's all this pushing and shoving about?
+YES-NO_QUESTION have you gone mad!?
+INFORM this old tub is making engine noies i don't like!
+ORDER now follow the princess!
+INFORM there's not much time!
+BACKCHANNEL ssskmf!
+BACKCHANNEL uughh!
+INFORM i-i'm free -!
+INFORM that took every ounce of my strength!
+INFORM but, it worked!
+INFORM this is the traditional welcome given to outsiders who foolishly trespass in our secret land!
+FEEDBACK but, we havent't come here as enemies!
+YES-NO_QUESTION doesn't that count?!?
+FEEDBACK stars and comets!
+INFORM that swing almost scalped me!!
+YES-NO_QUESTION my king -- are you all righ?
+INFORM we have to get more information about it
+ORDER -- find out whatever else your source might know --
+ORDER and act, act before it's --
+INFORM a baby-buggy like this won't get us from the center of africa to its southern tip in six months!
+FEEDBACK ordinarily, yes --
+INFORM -- but slip a few bars of wakandan vibranium into the engine housing --
+INFORM if you will pull that missile back into its silo, siphon off its fuel as a token of your good will, i will surrender myself to you and make any statement to the world press you want me to make.
+INFORM i will also, naturally, not tear out your living heart as i had intended.
+INFORM you do not frighten me.
+FEEDBACK i agree to your temrs.
+INFORM you could be a little cheerier, t'challa.
+INFORM people might think you're not having a good time --!
+FEEDBACK i mean, nick, there are practical limits to what i can tell a head of state to do or not to do --
+NOT_CLASSIFIABLE and, so...
+INFORM ... you've pled your case before the global council, declared war on the mightiest nation on the planet --
+INFORM -- and scarcely do the winds of change blow.
+INFORM how the mighty have fallen.
+INFORM i thougnt we had a deal, t'challa.
+INFORM i thought after my royal dumping, i'd be through with this kind of thing.
+INFORM i've been kidnapped, made into a human bomb, arrested, trailed by spy-guys, shot at, and "detained" by that creepy white wolf
+ORDER ... go home.
+INFORM i am home.
+INFORM i was home.
+NOT_CLASSIFIABLE -- this plane --!
+INFORM c'mon, oxford -- ya run like a girl.
+FEEDBACK sorry.
+INFORM it's my first jail break!
+YES-NO_QUESTION i suppose i should ask why you're doing this...?
+BACKCHANNEL ... aw, geez ...
+INFORM the closet --!
+INFORM i get a loyal worker bee here in the states while i rebuild my province in wakanda.
+NOT_CLASSIFIABLE kasper...
+NOT_CLASSIFIABLE seriously...
+YES-NO_QUESTION ... think you could stop hurling anytime soon...?
+WHY_QUESTION who sent you?
+FEEDBACK a friend.
+FEEDBACK someone who knows you two are in way over your heads.
+YES-NO_QUESTION need a lift?
+FEEDBACK sure sailor.
+YES-NO_QUESTION are we going to see him soon?
+YES-NO_QUESTION is there a regular meeting of super-powered monarchs that we'll be attending?
+FEEDBACK well, not a "regular meeting," no.
+INFORM but i thought it would be a good idea for us to visit some of the larger centers of global power.
+WHY_QUESTION you were saying?
+INFORM we lost her.
+INFORM my sword sister is gone.
+COMMIT you may as well look for camelot or the lost aztec city of gold!!
+INFORM king solomon was not a myth.
+INFORM he lived a fabulous life and accumulated fantastic treasures!
+INFORM the brass frog was among them.
+INFORM at last it's mine!
+INFORM the doorway to time itself--!
+INFORM compact and secure within this humble object!
+FEEDBACK but it cannot be controlled highness!
+INFORM it!s dangerous to use!!
+INFORM Curse this thing from the ages to come!
+INFORM this is some kinda trick!
+FEEDBACK if what i suspect is true... this may be my last one!
+WHY_QUESTION wh-what's happening!?
+INFORM this craft has suddenly become as hot as a furnace!
+ORDER look trough the window!!
+INFORM we're on fire!!
+BACKCHANNEL yes!
+INFORM we know!
+COMMIT we also know that the samurai code forbids the slaying of unarmed opponents!
+FEEDBACK that is so, fat little fly!
+INFORM but destiny has changed its meaning!
+INFORM a flashing star has fallen upon our land!
+INFORM it is a thing of great wonder!
+FEEDBACK though it shakes the ground and fills the air with sounds of thunder, we fear it not--!
+INFORM two men in a raft!
+COMMIT i've got no choice but to pick them up--!
+INFORM count on the unexpected to erect a roadblock when you're hurrying home!
+INFORM i don't know what possessed me to call upon the ruling family in this crisis!
+ORDER look at these expenditures!
+INFORM costumes-- smoke guns-- chemicals-- adhesive--
+FEEDBACK they've been very secretive these past days.
+INFORM mighty t'challa would never have staked the lives of his people on such a foolish hope!
+COMMIT we must prepare for possible disaster!
+FEEDBACK i believe you're overdramatizing the risks, n'gassi!
+COMMIT i'll keep him under control until a cure is found.
+INFORM to shot the black panther is to strike at the wind!
+YES-NO_QUESTION and the shockwave from the bullet put him into this stasis, eh?
+FEEDBACK it's a theory.
+INFORM the experts in wakanda will make the final analysis!
+YES-NO_QUESTION in wakanda?
+YES-NO_QUESTION after all these years you want to take him back there?
+FEEDBACK yes!
+FEEDBACK it's about time!
+INFORM wakandan scientists will find a way to revive klaw and he can start trial...
+COMMIT oh, we'll stop all right--
+INFORM i am shocked to learn of brutal murder of governor fugard in his home two days ago.
+INFORM although a member of goverment all just men must condemn, he fought long and hard for equality and representative rule.
+INFORM i condemn his murderer.
+THANK th-thank the all-father you've come...
+BACKCHANNEL heyyy!
+WHY_QUESTION and just who the hell do you think you are?!
+FEEDBACK i'm a-talkin' t'yew, sundance!
+OR_QUESTION or is ya deaf as well as stupid?!
+POLITENESS_FORMULA i'm afraid i must ask you gentlemen to leave immediately.
+BACKCHANNEL oh.
+FEEDBACK well, then.
+FEEDBACK long as you asked.
+FEEDBACK like i done "asked" for your money, boy.
+INFORM and mebbe i'll take them fancy shoes and gold watch while i'm at it--
+BACKCHANNEL --buzzard gulch-- noon.
+INFORM and here we be.
+INFORM still no sign of the blasted train...
+INFORM ...maybe the whole deal's a ruse!
+YES-NO_QUESTION "the story thus far"?
+POLITENESS_FORMULA beg pardon--?
+WHY_QUESTION who are you?
+INFORM santa claus, stranger.
+WHY_QUESTION what of it?
+INFORM i know your name, officer kevin "kasper" cole
+INFORM ...bad dog
+INFORM --which only leaves about a hundred other details to this mess i gotta clean up.
+FEEDBACK understood.
+COMMIT i'll send the envelope through sandy.
+INFORM our friends appreciate your help on this.
+BACKCHANNEL okay.
+CLOSE g'nite, your honor.
+INFORM i am a child, now.
+INFORM you protect an old man-- tell him lies and half-truths.
+BACKCHANNEL pop --
+FEEDBACK street cop for 20 years, boy.
+BACKCHANNEL oh no!
+ORDER call clean-up!
+WHY_QUESTION and who's in this "super hero army"?
+FEEDBACK well, the core members are panther, storm, dr. doom and namor.
+INFORM the new "frightful four."
+YES-NO_QUESTION are you saying they call themselves that?
+INFORM i--i think he intends to snatch this copter out if the air!!
+POLITENESS_FORMULA sorry about this!
+INFORM as a collecting enthusiast, i bow to a clever but unscrupulous colleague!
+INFORM i lost five good mechanics before i learned the secret!
+ORDER postpone the small talk! we've got to get on with the search!
+INFORM you fools are wasting precious time! that's and ancient wizards lock! i have one in my collection of rare artifacts!
+FEEDBACK that's fine, princess...
+YES-NO_QUESTION but, can you open it!?
+FEEDBACK a fair question...
+POLITENESS_FORMULA wouldn't you say so, my dear zanda?
+ORDER it must be done!
+INFORM i've got to put this behemoth down!
+INFORM i-it ins't fair! that thing will destroy everything!
+FEEDBACK not if we can find the twin to the brass frog mister little carries on his person!
+INFORM it's real enough!
+INFORM this samurai's body will soon join the other oddities that grace my collection!
+FEEDBACK cold blooded female!!
+ORDER see here, collector!
+INFORM i'm cold and wet and miserable--and scarcely in the mood for further conversation!
+BACKCHANNEL ulp!!
+INFORM y-you dont't--understand--!
+FEEDBACK that is--if you're truly what you claim to be!
+INFORM the ronin samurai are known to have died centuries ago!
+FEEDBACK your tongue is as oily as your purpose here!
+INFORM you know that we have survived the centuries!
+INFORM you're mad as a hatter!
+INFORM you won't live another five minutes in this sea of swords!
+INFORM whatever chance we had of staying alive is gone!
+FEEDBACK that remains to be seen!
+WHY_QUESTION if my family profited by this, then why have thay never been known to die in bed!?
+INFORM i've seen the others.
+INFORM they seem unlikely candidates for the task we face.
+INFORM it demands a warrior's hand, sire!
+OFFER perhaps mine..
+FEEDBACK yours would do fine, jiru...
+INFORM if it coursed with the blood of royalty!
+FEEDBACK wrong, n'gassi!
+INFORM your unlikely candidates for t'challa's job have done his work!
+INFORM we are proud to say that the task was accomplished with high risk and minimal injury.
+INFORM joshus itobo refers to my backside... it's really too well padded to suffer badly in a fall!
+FEEDBACK in short, you old leopard..
+INFORM we've brought in jakarra! and put an end to his rampage!
+NOT_CLASSIFIABLE t'challa--!
+INFORM it's t'challa!
+INFORM i'll take over now!
+WHY_QUESTION but what are you going to do?
+OFFER we want to help!
+FEEDBACK you know what will happen if he reaches the mound!
+INFORM i know what will happen if we reach him!
+INFORM well, we can't stay here and do nothing!
+ORDER all right, mister-- turn around, slow.
+INFORM we don't wanna hurt ya, we only want your money.
+INFORM young jackals, i have something to give you-- but it isn't money!
+ORDER c'mon man-- hand it over!
+INFORM hey, levon-- the dude look like he want to put up a fight!
+WHY_QUESTION what sort of system is that?
+FEEDBACK alas, it is the one we have.
+WHY_QUESTION what's this?
+WHY_QUESTION a security lock?
+INFORM only the king could have done this--
+WHY_QUESTION but why keep it secret, unless--
+INFORM now is the time when all i am is called into question.
+INFORM but not your soul alone.
+INFORM --as i demonstrate thusly--
+FEEDBACK hey-- that's an open wound mister!!
+INFORM --he keeps it in a kitchen drawer with hes keys.
+INFORM this man who is causing you so much grief--
+YES-NO_QUESTION --shall i kill him for you, officer cole--?
+OFFER thought you might like some coffee.
+YES-NO_QUESTION is there someone here who can give us some accurate intel on these people?
+GREET you men!
+INFORM the cannon is destroyed.
+INFORM the warriors you enslaved are free and are all looking for you.
+YES-NO_QUESTION are you really going to stand here in an attempt to protect a dead man?
+INFORM he's been blown to bits!!
+INFORM the blast almost took us with him!
+INFORM I'm surprised that your copter still has all its rivets!!
+FEEDBACK it's a sturdy craft, i assure you!
+INFORM abner little's equipment is unequalled for quality!
+INFORM they want us to land, mister little.
+INFORM they mean business!
+NOT_CLASSIFIABLE my head!!
+INFORM he'll twist it completely off my shoulders----if i don't use it-- now!!
+INFORM the gateway to the hidden samurai city can't be far!
+INFORM our lives depend on finding it!
+NOT_CLASSIFIABLE if only the map hadn't been lost that--
+ORDER hold it--!
+INFORM we may have a guide!
+INFORM t'challa seems to have seized controll of the battle!
+INFORM home-grown propaganda, dear fellow!
+INFORM every nation breeds it to keep its people united as well as interested!
+FEEDBACK then, tell me why that mound produces a metal found nowhere else on earth!
+INFORM i gave you full warning of what would befal your precious wakandas if you failed me!
+ORDER look--!
+FEEDBACK yes, i see it--
+INFORM the missile still waits on its launching pad ready to be fired!
+INFORM but we did!
+INFORM your plan was perfection itself!
+INFORM it was an act of madness, carried out by four unfit for battle!
+INFORM you mean four of will and courage!
+NOT_CLASSIFIABLE i've got to--ugh!
+ORDER wait!
+NOT_CLASSIFIABLE one of those people...
+NOT_CLASSIFIABLE blasted holy men...
+INFORM they're half crazy to begin with!
+INFORM --you're more enslaved than the azanians!
+NOT_CLASSIFIABLE attention!
+INFORM t'challa kins of the wakanda's, the black panther, shall give a public address at the temple square in twenty minutes!
+INFORM all wakandans are welcome!
+INFORM the citizens of azania put their faith in you--to protect our way of life... to live up to your pledge!
+NOT_CLASSIFIABLE for duty-- for honor-- for country!
+INFORM we koff koff fight you, murderer! to the end!
+INFORM you never conquer our people!
+INFORM a kid.
+INFORM i almost killed a kid.
+WHY_QUESTION but why me?
+WHY_QUESTION why can't he continue to deal with you?
+INFORM his unstructions were explicit.
+INFORM you came along, or no deal.
+NOT_CLASSIFIABLE attention!
+ORDER delay the launch ten minutes!
+ORDER await further instructions!
+ORDER ghaaaaaahhh--put me downnn--!!
+INFORM --i think the meeting's over.
+INFORM --regardless of the circumstances.
+INFORM t'challa--let's cut the bull.
+INFORM ross is in danger because of you.
+INFORM and better him than me.
+INFORM so, you've seen through my deception, shaman--
+WHY_QUESTION when?!
+WHY_QUESTION when, you pathetic fool?
+INFORM t'chaka handed you the rule when you were a child!
+INFORM my father was murdered--butchered before my eyes..
+INFORM something you obviously will never understand--
+INFORM --any more than you'd comprehend my love for you-- and your mother--!!
+INFORM i got enuff of your worthless markers to build a barn, sundance!
+INFORM and none of 'em cover what you did with my wife.
+YES-NO_QUESTION wife?!
+WHY_QUESTION whoa-- what wife?!
+INFORM i don't know any wife!
+NOT_CLASSIFIABLE Officer--
+FEEDBACK sheriff.
+INFORM --there must be some mistake?!
+INFORM four hunnert dollars, sundance.
+INFORM and my pride.
+WHY_QUESTION --and what makes you think yourself worthy of the habit of a king.
+FEEDBACK got a lot of habits. maybe be more specific...
+FEEDBACK habit,
+POLITENESS_FORMULA officer.
+INFORM as in raiment-- clothing--
+YES-NO_QUESTION --a certain panther fetish?
+NOT_CLASSIFIABLE bull.
+INFORM i was careful--
+INFORM you underestimate my powers, officer--
+WHY_QUESTION god, what mutts these dirtbags are--
+NOT_CLASSIFIABLE bernie scruggs.
+INFORM your operative in the 74th precinct.
+INFORM 66 bridges pays him a license fee to operate in south brooklyn.
+INFORM you do remember...
+INFORM 66 bridges originated in chicago, growing out of a gandowned record company.
+INFORM new york supplies their friends in chicago--
+INFORM the wakandans have a warrior spirit that makes the vietnamese look like, well, the french.
+INFORM they have also maintained a technological superiority that defies explanation.
+WHY_QUESTION where'd they get their tech from soviets?
+YES-NO_QUESTION am i clear?
+COMMIT let's do this.
+INFORM ...about registration.
+INFORM but you seem right at home down here.
+INFORM perhaps queely feel easily to your blade--
+INFORM you must be joking!
+INFORM he looks upon us as we regard pet monkeys!
+INFORM it's a gap we'll have to narrow somehow!
+INFORM we've got to send him back to his own time!
+INFORM and there is only one way to do it!
+INFORM Here it is, you insufferable little pipsqueak!
+INFORM my men should have aimed at this, insted of your chest!
+NOT_CLASSIFIABLE princess zanda!
+INFORM so--you and your scurrilous knaves were waiting in ambush for us!
+ORDER and if you intend to include me in your plans, i'd advise you to forget it!
+INFORM as a leader of your people you should learn more about the uses of power, t'challa!
+INFORM but as long as we're commited, let us make the most of this bold venture!
+BACKCHANNEL huh!
+INFORM a flight to nowhere...
+INFORM a land of old stohned and bones!
+INFORM we samurais have not passed the centuries without keeping abreast of yout technical achievements!
+FEEDBACK incredible!
+INFORM an ancient culture has kept its traditions intact in a world of modern wonders!
+INFORM the laser ray is making contact with that exposed device!
+INFORM that's the largest gong i've ever seen.
+ORDER stay back, outsiders!
+INFORM this must be done!
+INFORM death to those who serve the ruler!
+NOT_CLASSIFIABLE no!
+ORDER don't!
+INFORM this is treason!
+ORDER warn the regent!
+BACKCHANNEL ugh--!
+ORDER let me go, you mound of muscle!
+INFORM i've dropped the jug!!
+INFORM the thing is made of metal --it won't spill a drop!
+ORDER don't test my patience panther!
+INFORM you collectors are so devious that wouldn't know the truth if you heard it!
+ORDER make him talk, zanda!
+NOT_CLASSIFIABLE behold, wise one!
+INFORM the riddle of jakarra is now ours to solve without danger to others!
+INFORM there's only one way to solve this!
+NOT_CLASSIFIABLE -- yes!
+INFORM klaw, the master of sound..
+INFORM my oldest and most deadly foe!
+INFORM there's not a mark on him--
+INFORM but he seems to be in a coma!
+INFORM that's not logical though.
+ORDER face it, avenger--
+INFORM you're wearing down!
+INFORM not even your android body can withstand constant pounding sound assaults!
+FEEDBACK perhaps--
+WHY_QUESTION but how long can you sustain such an energy output?
+INFORM -- i condemn this fruitless revolt, and plead that both sides lay down their arms in truce.
+INFORM it is you who are the traitor, ndebele!
+INFORM i thing the government itselt set this revolt up to consolidate their power!
+INFORM and i will not desert my king at the first bad omen!
+FEEDBACK no.
+INFORM you are mine.
+POLITENESS_FORMULA kevin, dear-- please do something about her...
+WHY_QUESTION if this guy is all that, who can handle him?
+INFORM good choice.
+WHY_QUESTION when should i come back?
+NOT_CLASSIFIABLE of course not.
+INFORM in a worst-case scenario, the panther god could consume your immortal soul, but that's pretty unlikely.
+INFORM you're not joking.
+NOT_CLASSIFIABLE no.
+WHY_QUESTION what the hell?!
+ORDER look at your wife.
+INFORM that collar neutralizes her powers, making them as useful as a bosom ona a brood queen.
+INFORM you have no more options.
+ORDER accept that you've lost.
+ORDER tell your people to stand down.
+ORDER finish the count ya bum!
+WHY_QUESTION how did you wall-crawler?
+INFORM never mind the count!
+INFORM i'll finish the referee, alias the foe.
+INFORM you're the only ref i know know who can only count to two.
+INFORM so enjoy the fudgy icing while you can ref
+INFORM because you're going from a ring to a square.
+INFORM a square witch bars on it.
+ORDER see here, young fellow!
+INFORM you've no right to snatch that artifact!
+INFORM it's mine -- by right of possession!
+INFORM you two collectors have meddled enough with the objects in this tomb!
+INFORM i'm not in the mood to listen to anything...
+INFORM except the word goodbye!
+INFORM i've had all i can take of this place!
+FEEDBACK not yet, panther!
+INFORM we didn't test you without reason!
+ORDER you will stay and listen to us!
+INFORM that was a real samurai you fought!
+INFORM his kind still exists!
+YES-NO_QUESTION don't you see?!
+INFORM we're not alone!
+INFORM there are others here!!
+INFORM by the great panther totem!!
+INFORM it was wasted on one such as t'challa!
+INFORM it's time for the wakanda name to achieve new and greated prominence!
+FEEDBACK your cursed envy of t'challa will lead us all to destruction!
+INFORM i warn you -- be content with the rank you've earned!
+ORDER forget that silly brawl, t'challa!
+ORDER let's get out of here!
+ORDER stop him--!
+FEEDBACK this is sacrilege!
+INFORM he's seized a vase of the sacred water!
+INFORM it means his death!
+INFORM that greedy little collector has done it again!
+INFORM anything can happen now--!
+INFORM instead of rushing to mister little's aid i should join these samurai! in huntings him down!
+ORDER close in on the stranger!!
+ORDER never fear! we've got hin trapped!
+INFORM that tiny maggot is a thief without honor!
+INFORM yet you would defend him with you life!
+INFORM he is a warmless victim of his own greed!
+YES-NO_QUESTION must he die for this?
+INFORM even now he clings to a flask of our sacred water!
+FEEDBACK the gnat stole it--!
+FEEDBACK the grat shall die for it!
+ORDER forget your home-- wherever that is!
+ORDER just do as you're told and stay alive!
+INFORM we've reached the african coast!
+INFORM i won't turn back for death himself!
+FEEDBACK that's sound advice, fly-boy!
+INFORM your next mistake will be fatal!
+INFORM as you can see, we lean heavily on costumes and specialized equipment!
+INFORM i like your fleet of trucks and jeeps.
+INFORM that's a fair-sized motor pool.
+INFORM those two will blister the air with some choice phrases when they awaken!
+INFORM but i'll be well out of earshot when that moment comes!
+NOT_CLASSIFIABLE well, t'challa...
+INFORM only in business a week, and i see you've already gotten some pretty high-powered visitors.
+FEEDBACK right.
+INFORM old aubrey pearson's one of cyrus vance's toughest negotiators.
+INFORM oh he went pretty easy on me, cap.
+WHY_QUESTION and this has exactly what to do with my question--?
+FEEDBACK context, nikki
+INFORM you will by assassinated before dawn, t'challa
+INFORM we both know it.
+FEEDBACK we both know you need me now.
+NOT_CLASSIFIABLE if it wasn't for me--
+BACKCHANNEL ah,
+NOT_CLASSIFIABLE finally--my cue--
+INFORM ...maybe he thinks i'm his friend...
+FEEDBACK whatever.
+INFORM hey here's an idea...
+INFORM y'know, with a little bit of work--we might actually be onto something here...
+INFORM sundance--you were instructed to go to alberdene--
+INFORM -- to give that claim check to a man on a white horese.
+WHY_QUESTION why are you still here...?
+INFORM --the trickster god obviously intends to kill us all.
+INFORM without idunn's apples, the gods fall into the death sleep.
+COMMIT i must return to asgard to face my end.
+WHY_QUESTION why was he talking to me?
+WHY_QUESTION why would he ever talk to me?
+INFORM you'll make a fine detective, kasper. a good cop.
+YES-NO_QUESTION hey-- you and tork are going over by pitkin, right?
+INFORM my wife's clock is ready at the watch store on euclid.
+INFORM obviously a presidential pardon is appealing.
+YES-NO_QUESTION t'challa...?
+YES-NO_QUESTION t'challa...?
+ORDER c'mon, don't take it personal.
+INFORM it was just a business.
+INFORM our"business" is concluded.
+INFORM your trial will be short and death, an example.
+INFORM i like it!
+YES-NO_QUESTION does this sister have a sister?
+FEEDBACK very well!
+INFORM you've taken the gun!
+ORDER now use it!
+ORDER use it on him before it's too late!!
+FEEDBACK no!
+INFORM we've got to face this as civilized human beings!
+INFORM diamonds, pearls, jeweled crowns and cups of gold!
+INFORM there is enough treasure here to ransom a hundred kingdoms!
+FEEDBACK by the stars!
+INFORM each artifact in this crypt is of priceless value!
+YES-NO_QUESTION have you two gone mad!?
+YES-NO_QUESTION don't you realize that death is at our very heels!?
+INFORM we've got work to do!
+INFORM i've had a fantastic time in your company, mister little, but i think it's time that i moved on to other pursuits.
+YES-NO_QUESTION does princess zanda know that you're checking out of these plush diggings?
+INFORM hundreds of years ago, his clan was driven into exile to an area so remote it was not discovered until this day!
+INFORM the capture of the samurai by one of my raiding parties revealed what the collectors have always suspected!
+FEEDBACK the collectors, eh?
+ORDER stop right there!
+INFORM i'll have no part in your schemes!
+ORDER silence!
+INFORM we've got to move quickly, t'challa!
+INFORM we must locate the prize we came for -- and depart before these rituals kill us!
+INFORM the rituals don't concern me anymore...
+ORDER turn around, mister little.
+INFORM and this is a task which requires the immediate appliance of the mental agility i'm so famous for.
+INFORM i've still got my pistol and time enough to get what i came for!
+NOT_CLASSIFIABLE and now, when i most need the strength and surety that comes from my god
+YES-NO_QUESTION has he, in fact, deserted me?
+YES-NO_QUESTION has he?
+ORDER stand aside!
+INFORM this is our country!
+INFORM the revolt in azania is a ghastly failure!
+INFORM it is precisely the excuse the government needs to exterminate the natives in that country!
+FEEDBACK even so,
+INFORM our king should have demonstrated solidarity with the rebels
+INFORM their cause is a just one!
+WHY_QUESTION what's all the ruckus over here?
+GREET guys!
+YES-NO_QUESTION have you got the panther yet?
+INFORM you are already under censure and arrest for interfering with sacret ritual
+ORDER don't make it harder on yourself!
+INFORM a message was transmitted to wakanda from europe
+INFORM and it has been traced to you!
+INFORM i know nothing about a message, ndebele.
+NOT_CLASSIFIABLE "-- atomic attack imminent --"
+BACKCHANNEL oh, my g--
+INFORM he's broken free -- but that bite took out a fair chunk of his arm.
+INFORM so that's what happened in azania -- the panther spirit took another person's form and led the revolt. it seems almost beyond belief.
+NOT_CLASSIFIABLE mightn't be instead, bomwana --
+FEEDBACK whatever you say.
+INFORM -- this trap, or the fact achebe must have been planning to put you in it for months.
+INFORM i mean you don't exactly buy one of these things from k-mart...
+FEEDBACK ah, yes.
+INFORM i know that...
+INFORM y'know, your highness, i don't know what's scarier --
+FEEDBACK oh, yes, t'challa
+INFORM m'baku has ferreted out the truth -- the true reason you have quarantined these lands!
+INFORM it has nothing to do with any white gorillas or handfuls of starry-eyes cultists!
+INFORM it is your secret -- long buried here in the crystal forest --
+INFORM and thus, with a heavy heart, i end the illusion of mortality -- to die as i have ever lived --
+POLITENESS_FORMULA ...please...
+POLITENESS_FORMULA please, man...
+NOT_CLASSIFIABLE and..?
+WHY_QUESTION and what?
+YES-NO_QUESTION and so you'll pay the light bill, right?
+YES-NO_QUESTION you won't leave your mother and your pregnant girlfriend stranded in the dark, right?
+INFORM it would have been so easy, sal...
+INFORM we must be sure and tell prince namor "thank you" for use of this island.
+INFORM it's uncharted, but more important...
+WHY_QUESTION so what happens when this bad information blows up like yellow cake?
+INFORM i have a feeling wakanda will blow up first.
+GREET so we meet again...
+GREET ah, my "secret weapon."
+INFORM i've thought about you a lot since katrina.
+INFORM i'd really like to... work with you more.
+INFORM develop my abilities.
+INFORM i think i could learn a lot from you.
+INFORM i'm glad to hear that, monica.
+INFORM i appreciate that you came to the wedding.
+INFORM it was hard, i'll tell you that.
+WHY_QUESTION speaking of which, where is your wife...?
+INFORM at the embassy.
+FEEDBACK oh.
+FEEDBACK no... no...
+ORDER fear not, daughter.
+INFORM we will reconnect you to your essence.
+ORDER don't worry.
+INFORM you won't be needing this craft.
+INFORM you're going home to earth alright.
+FEEDBACK oh no!
+FEEDBACK the frogs!!!
+YES-NO_QUESTION you know these cats?
+INFORM i mean fr
+ORDER move away before--
+NOT_CLASSIFIABLE foolish fellow!
+INFORM you acted before i could warn you!
+INFORM king solomon's tomb is secured by complex forces
+FEEDBACK high voltage forces i'd say!
+INFORM if not for my protective gloves, i'd be dead at this moment!
+NOT_CLASSIFIABLE very well...
+INFORM i shall leave you to your silly old map!
+CLOSE goodbye, mister little!
+FEEDBACK wait, black panther!
+INFORM this map is authentic!
+INFORM the samurai city is not a myth!
+INFORM i can do that --with one such as you!
+YES-NO_QUESTION can you ??
+YES-NO_QUESTION can you really give instead of take!?
+YES-NO_QUESTION a rather impressive title, eh n'gassi?
+INFORM although i lost the larger flask to the samurai, i managed to retain a small amount of the miracle water in this vial--!
+FEEDBACK you sawed-off schemer! i knew you were holding out on us!
+INFORM i'll take that!
+INFORM i can't zero in on him, boss!
+INFORM not while he's shaking this tub to pieces!
+ORDER don't shoot to kill!
+ORDER just make him bleed a little!
+INFORM we need him alive!
+ORDER you took the injector!
+ORDER return it to me, t'challa!
+INFORM only i can use it properly--!
+FEEDBACK wrong, cousin!
+INFORM n'gassi briefed me on what you were up to!
+INFORM spirits of the ancestors-- one would almost think he wanted to be assaulted!
+NOT_CLASSIFIABLE fool!
+INFORM i don't need my soni-claw to defeat the likes of you!
+INFORM as you can see, i am qeuipped to return force for force!
+FEEDBACK so-- you would use my own power against me!
+INFORM i am well acquainted with the uses of sonic feedback as a defensive weapon
+NOT_CLASSIFIABLE but let us see if you can defend yourself against this!
+FEEDBACK spirits of the ancestors!
+INFORM klaw's strength is more than i'd expected
+FEEDBACK --see. by the white ape--!
+ORDER "red alert. all systems stand by--"
+BACKCHANNEL HOLY--!
+INFORM you shall be tried by fang and claw, and your sinew and blood shall be torn by my judgement, t'challa son of t'chaka
+INFORM since i am no longer on active duty with the avengers, the have a vacancy in their roster -- -- one which i hope will be filled by -- the panther!
+FEEDBACK i wish to consider it, my friend --
+NOT_CLASSIFIABLE --giving you family and communty and purpose!
+INFORM without her-- you're nothing!
+INFORM you're a bald guy in a gorilla suit with a cheap hustle! a chieftain wannabe--disgraced and lost!
+INFORM i toldya ta never coma back here, Sundance.
+INFORM Toldya what would happen.
+INFORM Ya done brought this on yerself.
+FEEDBACK no--
+ORDER wait--
+INFORM i'm not sundance--
+INFORM i'm ross!!
+INFORM just ask--
+BACKCHANNEL ...dammit...
+INFORM ...freaking maniac...
+INFORM i am new to your lands.
+INFORM your ways are alien to me--
+INFORM hear there was some drama with Dre and them.
+INFORM some dudes dressed like a kitty.
+BACKCHANNEL tork--
+WHY_QUESTION who is it?
+INFORM tony, i've listened to you.
+ORDER now listen to me:
+INFORM this cancer that is eating away the soul of your country, it has no home here.
+ORDER tell them to go to hell, honey.
+ORDER go to hell, you bastards.
+INFORM we have beeaten the pride out of greater kings than you.
+NOT_CLASSIFIABLE you-! you did -- this -- to -- me--! little animal--!
+INFORM i-it was only meant to calm you, sir-- so we could-- heh heh --communicate-!
+FEEDBACK i'm afreaid he wasn't too thrilled by that reply!
+INFORM we did it none too soon! there were only seconds to spare!
+INFORM flashing comets!! this was too close for comfort!!
+INFORM our lives meant nothing to him! we would have died like insects!
+CLOSE let's face it. the man belonged to another time-- another place--! let's hope that he stays there!
+INFORM i pay my army of servitors well!
+INFORM they are always on hand when they're needed!
+NOT_CLASSIFIABLE you-you scheming female!
+INFORM you intended to hijack whatever we found in the burial chamber!
+INFORM you've got it, mister little, the ball is yours!
+FEEDBACK i-it's mad,
+COMMIT but i'll do it!
+INFORM i am t'challa, ruler of the wakandas! it is no disgrace to lose a fight at my hands! besides... you were merely deceived by a desperate ruse!
+FEEDBACK no matter!
+INFORM i've failed in my duty! i must die--!
+INFORM the echoes from tha gong are bursting my skull! i must find surcease from these devilish customs!
+INFORM personally, i look forward to a six month headache!
+BACKCHANNEL by jupiter's myriad moons!
+INFORM it is time, senji!
+ORDER fill your cup and live as a ronin for the next hundred years!
+ORDER begone!
+NOT_CLASSIFIABLE by the sacred panther fetish!
+GREET hail, cousin
+INFORM now he's no longer human! a deadly thing to be dealt with at great risk!
+INFORM fortunately, i can escape the pressures in my own way -- up here...
+INFORM ... as far beyond telephones and meetings as i would be in africa's most remote jungle wilderness
+INFORM it's a shame that new york's inhabitants can't see their city from this perspective!
+INFORM it's so beautiful -- almost fragile looking!
+WHY_QUESTION how long o panther spirit? how long before you hear our cries?
+INFORM and the answer is-- not unless you stop that missile.
+ORDER give the order now.
+ORDER yes! run!
+INFORM the chase will be good! the chase will be quick!
+WHY_QUESTION t'challa-- what do you want from me?!
+INFORM nicole... it is not our time.
+INFORM first in my life is to defend and serve the wakandans. for me to truly lead, i must be more than king--
+INFORM -- i must be chieftain of the panther clan. my studies here are part of that pilgramage.
+INFORM yeah, well, get me the president-- after all, i was action on his orders!
+INFORM no, not that president, the old one--
+INFORM i do not fear your treachery, hunter!
+INFORM no treachery, erik, i vow to not interfere.
+NOT_CLASSIFIABLE would all please leave--!!
+BACKCHANNEL hey--!!
+ORDER watch the delicate flower of afrosiatic youth--!
+INFORM look, w'kabi-- he's your king, but he's my client--
+INFORM this is exactly my point--!
+YES-NO_QUESTION say you that you are a telepath?
+INFORM I am!
+ORDER i pray thee therefore, o king-- listen to my thoughts...
+INFORM ... that thou wouldst know mine heart is pure...
+INFORM --you, detective scruggs, are a police officer, sworn to protect the innocent--
+INFORM --but they prey upon the-- sacrifice your very soul--
+INFORM --for this.
+INFORM for worthless paper.
+OR_QUESTION did he? or did his lieutenant try to work him a little-- setting him up to run some nonsense errand?
+INFORM kasper's been in narcotics long enough to recognize a hype when he sees one.
+INFORM you really are a cannibal.
+INFORM i prefer the term--
+FEEDBACK whatever,
+INFORM so now you're a woman.
+WHY_QUESTION how does it feel?
+INFORM then you agree to the ritual.
+FEEDBACK you first
+WHY_QUESTION who--?
+ORDER but you must see this through, my friend!
+INFORM i don't intend to keep the brass frog.
+INFORM it must be returned to its original resting place--king solomon's burial chamber!!
+WHY_QUESTION w-what!?
+FEEDBACK you've gone crazy, mister little!
+INFORM an army of fools has died following that fairy tale!!
+ORDER get down. i said!
+INFORM it's your weird band of collectors who should be kept as curiousities in these tanks!
+INFORM you're no longer human!
+BACKCHANNEL oh,
+INFORM we're human,
+FEEDBACK all right!
+INFORM none of us look forward to eventual death!
+INFORM this is the true meaning of power!
+INFORM as ruler of an oil-rich emirate, i have the means to enforce my every wish!
+INFORM my people ... help hostage ... by a group of mad collectors!
+INFORM a strange destiny indeed!
+ORDER stand where you are, n'gassi!
+COMMIT we're taking charge --and stripping you of your duties!
+FEEDBACK only t'challa can do that! until he returns, i alone am entrusted with the affairs of this domain!
+NOT_CLASSIFIABLE however, if t'challa does win this match, it would be sporting of you to give us a sample of your water of immortality!!
+INFORM it is the vain dream of all outsiders who seek out this domain!
+ORDER behold, shinzu --
+INFORM i return this priceless water to its rightful guardians.
+INFORM you are wise to give freely what we could easily take!
+INFORM well, well... the old man has come at last!
+INFORM he dresses rather simply for an administrator of high office!
+INFORM a wise man needn't be a fashion plate.
+BACKCHANNEL hunh!
+INFORM i knew the old leopard when he had less wisdom and more spirit!
+INFORM i present n'gassi, first regent and aid to the mighty t'challa!
+INFORM this era of mobility has played havoc with our heritage! even mighty t'challa is out of reach in this grave hour...
+INFORM he is sorely needed, noble one!
+INFORM b-but this can't be jakarra --not this repellent creature!!
+INFORM you see me as vibranium made me, zuni!
+INFORM n'gassi told the truth! you won't stop him with band-aids, doctor!
+INFORM young one--the panther spirit is our nation--!
+FEEDBACK no!
+INFORM it's a club you hold over our heads!
+INFORM i should have told you about school-- about t'challa and me.
+INFORM ross-- it was a long time ago.
+NOT_CLASSIFIABLE you-- son of a--!!
+INFORM priority transmission from the u.s., my lord! coded presonal.
+ORDER put ms. lynne through to my chambers, taku.
+FEEDBACK immediately, my lord.
+NOT_CLASSIFIABLE ...yes...
+INFORM ...yes... your father loves you...
+FEEDBACK oh, for god's sake, t'challa--
+NOT_CLASSIFIABLE aw, no, man--
+ORDER don't--!
+INFORM we will have an understanding between us.
+ORDER speak of it to no man...
+NOT_CLASSIFIABLE kasper--?!
+YES-NO_QUESTION do they want us?
+FEEDBACK i dunno, grace...
+INFORM let me see what's goin'--
+ORDER dump 'em in the river.
+ORDER don't get in with this guy, kasper.
+INFORM and hello-- you are not the black panther.
+NOT_CLASSIFIABLE too ugly and too broke.
+INFORM we're the #$%*& united states of%*$%#$ america!
+YES-NO_QUESTION where do a bunch of jungle bunnies get off telling us they've got a "no fly" zone over their thatched hut?
+YES-NO_QUESTION look, are you okay?
+INFORM because i'm going to look for reed now.
+FEEDBACK oh...i'm fine.
+COMMIT i need to look for my husband, too.
+ORDER don't leave me, beloved.
+NOT_CLASSIFIABLE please...
+ORDER explain yourself!
+INFORM if you mock the code in hope of deceiving us, your heart shall be swiftly pierced!
+FEEDBACK then, look upon t'challa, ruler of the wakandas, a people of honor equal to your samurai!
+ORDER look out for exploding fuel drums, soldiers!
+INFORM he's wrecking the air-field!
+INFORM so! you had the smarts all this time!
+FEEDBACK i recognized your face the moment it appeared in the open hatch--scarpa!
+INFORM it's got everything we need -- lots of fuel -- a good pilot -- and this heater for insurance!
+INFORM didn't know i was packing one,
+YES-NO_QUESTION did you!?
+FEEDBACK i was thinking of home too.
+POLITENESS_FORMULA it was a mistake!
+INFORM don't scoff at a clown until you catch his entire act!
+NOT_CLASSIFIABLE devious dog!
+COMMIT i'll crush you and that device to pulp!
+ORDER surrender to us!
+INFORM you're our prisoner!
+FEEDBACK that remains to be seen, gentlemen--
+INFORM if the sudanese authorities want me for questioning, they'll have to wait for a more favorable time!
+FEEDBACK don't be a fool!
+INFORM we can shoot you for resisting arrest!
+INFORM from an intensive study of microscopic samples of jakarra's tissue, i was able to make a chemical breakdown of the vibranium infection!
+INFORM you're also ruling panthers!
+INFORM --and despite this fact, you must move while hope remains!
+FEEDBACK that's the good news!
+INFORM we've got one slim chance to avert this catastrophe: my anti-sonic toxin!!
+ORDER never mind those civilians!
+ORDER get the special squad up here on the double!
+INFORM they're ready!
+ORDER stand back-- let them do their job!
+INFORM a giant shock wave will come next!
+NOT_CLASSIFIABLE traitor!!
+INFORM by this you have given public support to that cursed regime! no wonder the panther spirit deserted you-- it can't stomach traitors!
+INFORM -- has never survived on faith!
+BACKCHANNEL arrrrgh!
+NOT_CLASSIFIABLE my ear-- the pain--!
+INFORM this is as far as we dare go.
+INFORM from here i must go alone.
+INFORM ... i'll kill you... you ...
+INFORM y'know-- -- i don't think i like you.
+FEEDBACK c'mon, erik killmonger--
+NOT_CLASSIFIABLE big chief n'jadaka-- the michael milken of the african continent-- toughest guy in the town--
+OR_QUESTION let's see... do i feel like tribal or tribal--?
+WHY_QUESTION whose closet am i digging through --?
+INFORM yours.
+INFORM you will find they are all in your size--
+YES-NO_QUESTION realy--?
+INFORM well--i may have found somethink i like--
+POLITENESS_FORMULA excuse me-- sir?
+YES-NO_QUESTION are you still here?
+INFORM behind the smiles and the gifts lurks fear.
+INFORM people look at us as a couple and quiver.
+INFORM too much power, too much wealth, too well connected.
+INFORM they think we might take over the world.
+FEEDBACK exactly.
+FEEDBACK so you want to do a goodwill tour to assuage their fears.
+BACKCHANNEL wow,
+CLOSE what a finish!
+YES-NO_QUESTION wow, did you know he was that strong?
+FEEDBACK i mean, he's hercules, but stil--
+FEEDBACK i don't think he's going to need our assistance on this one.
+WHY_QUESTION and you, mister little?!
+POLITENESS_FORMULA most noble friend and companion...
+YES-NO_QUESTION you knew about this!!?
+ORDER do it, panther!
+NOT_CLASSIFIABLE not because you have no choice..
+ORDER do it because men say it can't be done!
+NOT_CLASSIFIABLE you and i shall seek and find the water of immortality!!
+COMMIT i won't be handsome,
+INFORM that's for certain!
+ORDER be cautious, men!
+INFORM this won't be an ordinary capture!
+WHY_QUESTION what on earth is all that racket in the hall --?!
+ORDER forget it.
+INFORM it's probably drums.
+INFORM i've been in wakanda long enough to know these folks love drums.
+ORDER go on -- take a look.
+ORDER look, son...
+COMMIT i'll stop him!
+NOT_CLASSIFIABLE zanda!!
+ORDER drop it and run!
+INFORM he's got a disintegrator eye in the back of his head!
+INFORM we've done it, mister little!
+INFORM you can come out now!
+INFORM time is on my side,
+NOT_CLASSIFIABLE puny one!
+FEEDBACK crow if you like,
+INFORM but this isn't over yet!
+WHY_QUESTION yet, who will fight harder for his life than the wakandan warrior...
+INFORM though his body is taken from him cell by cell, his spirit yields no ground to the demons of darkness!
+ORDER stand by me, lady luck!
+INFORM a man needs you most when the road ahead looks clear!
+ORDER keep moving!
+INFORM only one of them can climb through this vent at a time -- and they don't dare attack us alone!
+NOT_CLASSIFIABLE but --
+WHY_QUESTION what's ahead?
+WHY_QUESTION where's this vent lead to?!
+FEEDBACK irrelevant, agent 13 --
+INFORM there is no turning back!
+COMMIT whatever awaits us at the other end -- we will overcome!
+INFORM -- you asked me about that business with the avengers --
+FEEDBACK yes, since the president of the united states called you on the carpet about it --
+FEEDBACK -- and gave you 24 hours to get king t'challa on the leash --
+YES-NO_QUESTION "low profile," monica?
+YES-NO_QUESTION low profile...?
+YES-NO_QUESTION may i present exhibit "a"--?
+INFORM can't wait to hear this one, sundance.
+ORDER shut the hell up, sundance.
+FEEDBACK i'm not sundance -- he's --
+INFORM i hafta tell ya a'gin, i start bouncin' ya off them walls.
+ORDER now, hush, varmint --
+INFORM -- none can stand against him.
+FEEDBACK yeah, and none of this is legal,
+INFORM hunter-- it'll never stand up in court.
+INFORM matters of law are ephemeral.
+INFORM justice is universal.
+YES-NO_QUESTION and murder--?
+POLITENESS_FORMULA put us down here, please.
+INFORM but the ship won't fly.
+FEEDBACK it will.
+INFORM the vibranium hull protected it from the effect of the emp.
+INFORM he can't keep his eye on all off us!!
+ORDER pick him off with a careful shot!!
+FEEDBACK he moves like a jungle cat, highness, but i'll do my best!
+INFORM i-it's certainly dark in there-!
+INFORM i can't see a thing!
+INFORM she did it!
+INFORM the door is opening!
+INFORM we've got it made!
+ORDER well bless my stars!!
+INFORM the lady is not without talent, after all!
+INFORM the treasure!
+COMMIT nothing can keep me from it!
+INFORM i-it's all there!
+INFORM --for the taking!
+ORDER forget your greed!
+INFORM if our friend here regains his full faculties, we're doomed!
+FEEDBACK but, we've been instucted to keep you here!
+WHY_QUESTION why not relax and watch us shoot this film.
+INFORM by the sacred panther --you've created another world in this desert!
+INFORM it's fantactic!
+INFORM i didn't expect this kind of pursuit...
+INFORM but it may be more to my advantage than thiers.
+ORDER keep moving!
+ORDER keep moving!
+INFORM the militia must have room to maneuver!
+INFORM they'll never stop jakarra!
+ORDER hurry, children!
+INFORM he's comming this way
+INFORM the black panther should be here!
+WHY_QUESTION where is he when his people have need of his mighty arm!??
+INFORM our host certainly seems to be of mercurial temperament tonight!
+FEEDBACK he may act abruptly, but not without reason, ambassador inouye!
+INFORM i condemn the man who arrogates to himself the panthers spirit's name and so gives the evil men who rule azania nothing less than an excuse to commit genocide--
+INFORM and, while i condemn aparthed as a blot on the face of all humanity that must be erased--
+FEEDBACK --in order to see with certainty whether the panther spirit yet dwells within you--
+INFORM you know i could have the gun empty ist chambers, and return it to you before you had a chance to pull the trigger
+FEEDBACK that's not the point t'challa!
+FEEDBACK you can't continue to run out on your country!
+FEEDBACK malaika--there is a force leading a black revolt against the ruling whites in azania in my name.
+INFORM my right to wear the sacred panther garb is being disputed.
+INFORM and, a member of my shadow cabinet tells me some lunatic has a missile pointed at the heart of my kingdom!
+YES-NO_QUESTION did you expect me to sit in council and debate ways and means?
+FEEDBACK i knew you would come.
+INFORM you had to come.
+FEEDBACK okay, ross, your report is starting to make a little sence now.
+INFORM which could mean i'm just crazy.
+BACKCHANNEL hey,
+WHY_QUESTION why should i be the only one?
+INFORM so the client caught the bad guy, droped him with that cop tork--
+INFORM --and was free to head home and deal with achebe -- the creep who'd stolen his country.
+WHY_QUESTION Then what --?!
+INFORM which means, you should get dressed.
+NOT_CLASSIFIABLE --?!?
+WHY_QUESTION why?
+INFORM i'm not leaving--
+INFORM beloved--station yourself on the southern perimeter to prevent the fuel from freezing.
+FEEDBACK understood my lord.
+NOT_CLASSIFIABLE --?!?
+INFORM it's not good, kevin.
+FEEDBACK yeah-- i know-- the lights--
+FEEDBACK no. gwen.
+INFORM she's very upset. which means i catch all the hell,
+YES-NO_QUESTION understand?
+INFORM --they don't even pump it.
+COMMIT sure ya do!
+FEEDBACK you might have erased every image of me when i tore this little playhouse down years ago, but you know who i am and what i did to you!
+INFORM my p.r.i.d.e. has uncovered some very disturbing links between the weapons used in the attack on me and an old friend of yours.
+BACKCHANNEL oh?
+WHY_QUESTION who?
+FEEDBACK prince namor.
+ORDER shuri... tell me everything.
+INFORM i admit that your strategy of distracting him with conversation was well planned! --but clumsily carried out! i trust that you realise the value of my sterling assistance!
+WHY_QUESTION who would criticize such flawless timing?
+INFORM we should have disobeyed the ruling family and des-troyed that thing while it was in our hands! we should have destroyed it--!
+FEEDBACK it's too late for hindsight,jiru!
+INFORM my country is not in the market for advisors -- either cuban or american! we merely wish to know -- the world outside!
+BACKCHANNEL oh,
+NOT_CLASSIFIABLE great panther-spirit,
+ORDER hear my prayer and bring deliverance--
+ORDER ll right, into the staging area with the lot of them!
+INFORM they'll be no trouble at all!
+INFORM they know what'l happen if they lift a finger!
+NOT_CLASSIFIABLE gutless wonders!
+INFORM if their black panther shows, we�l cut him down like the animal he--
+INFORM -- i'm impressed.
+INFORM it's just what i would have done.
+INFORM you should destroy those choppers, lord king.
+OFFER make an example of them.
+ORDER teach your enemies the error of underestimatins liege.
+FEEDBACK excellent!
+INFORM you've hidden the n'yami in the rier!
+INFORM i should have suspected--
+YES-NO_QUESTION are you-- -- are you -- -- my mother--?
+NOT_CLASSIFIABLE t-t'challa--?!
+FEEDBACK see,
+INFORM i figure maybe sal is becoming an expense we don't need. the nypd has 40,000 officers across 8 borough commands in 76 precincts.
+INFORM if only one half of one percent of those officers are available for freelance work? that's 200 opportunities. 200 sal anthonys, dog. it's a buyer's market.
+INFORM i'm so happy for storm she seems so happy. i mean--
+ORDER do try to contain yourself, katherine.
+NOT_CLASSIFIABLE i wonder what this will mean for her obligations as an x-man?
+ORDER how about ya just relax and enjoy the ceremony first, cyke?
+FEEDBACK so.
+WHY_QUESTION to what do i owe this visit?
+INFORM we need to talk, reed...
+INFORM pilot to base
+INFORM i've spotted mister little's copter...
+INFORM all i have to do is scoop him up!
+NOT_CLASSIFIABLE by all the devils of the pit!
+INFORM we've been joined by some infamous company!
+INFORM i've never seen an aircraft like tht before!
+WHY_QUESTION who does it belong to?
+FEEDBACK no deal, princess!!
+FEEDBACK find another travel guide!!
+NOT_CLASSIFIABLE the frog!!
+INFORM he kicked the frog form my hands!
+WHY_QUESTION wh-what was that!?
+NOT_CLASSIFIABLE what happened to the guardian of the tomb!!
+INFORM he's gone!
+NOT_CLASSIFIABLE by the moons of jupiter, so he is--
+NOT_CLASSIFIABLE my thousand to one chance--
+INFORM it paid off!
+INFORM to think that all this was begun by nine ronin who'd fled ancient wars--
+INFORM it's almost inconceivable!!
+FEEDBACK i'm certain there's more to this story!
+INFORM this way...
+ORDER follow me!
+FEEDBACK never!
+INFORM i was not only born small and frail, but the king's wife-- my mother-- was from another tribe!
+YES-NO_QUESTION do you know how it feels to be t'challa's half-brother?
+YES-NO_QUESTION -- to be kept out of sight in foreign military schools-- to return and live in t'challa's shadow?!?
+INFORM long ago, i knew this was in your heart-- but i said nothing!
+NOT_CLASSIFIABLE fool!
+INFORM the collectors are everywhere!
+INFORM princess zanda's men are probably combing this are for us right now!
+FEEDBACK good!
+INFORM while they keep busy, i'll be on my way!!
+INFORM i'm well aware that your metal is sold to research laboratories for astronomical prices!
+INFORM but it is handled by qualified scientists of the highest caliber!
+INFORM there is more to do that recapture old memories!
+INFORM i must see and touch and work with my people once again!
+NOT_CLASSIFIABLE what's that!?
+INFORM something's afloat in the sea below!
+INFORM still, there's no way i can ignore my resposibilities or my unique power.
+INFORM i'm gonna--!
+ORDER no, herbie--
+INFORM he's already dead!
+ORDER we gotta get outta here-- now!
+NOT_CLASSIFIABLE the avengers, eh?!
+INFORM i'm not surprised--
+INFORM now i won't have to go looking for you!
+INFORM i'll just kill you here!
+INFORM bravado is wasted on me, klaw...
+INFORM you have yet to retrieve your weapon, and i intend to prevent you from ever doing so!
+INFORM the countries rattling their sabres are all to the north-- they have nothing to lose!
+INFORM our azanian brothers are not propaganda tools--
+INFORM they are living, breating souls who are being slaughtered!
+INFORM malakia--you know what to do.
+INFORM everything goes according to the plan.
+FEEDBACK i am of the order of the panther, t'challa.
+FEEDBACK i will not fail you.
+POLITENESS_FORMULA will you please admit the tribal delegate.
+INFORM yo, you best step off, 'fore i pop a cap in yo' jug--
+BACKCHANNEL i...
+INFORM i don't believe it--
+INFORM it's healed!
+GREET mister--
+INFORM you've got yourself a deal!
+INFORM i'll bring that fella with the white horse to--
+INFORM --ye seven-- in the face of thousands-- and a loki invigorated by idunn's apples!
+WHY_QUESTION what-- is murder a wakandan virtue, hunter?
+FEEDBACK depends on whose tribe you're in.
+FEEDBACK personal vengeance is permissible, officer cole... under tribal law.
+WHY_QUESTION why do they not include me in these important matters?
+INFORM i turn fifteen soon!
+INFORM if it involves dakenia, i should know!
+INFORM someone reming him he is merely keeping the throne warm for me!
+INFORM i am the rightful king!
+FEEDBACK you're right mr. ross, that is not your are of expertise.
+INFORM you just keep providng accurate information.
+INFORM besides, this conflict would not be appropriate for conventional forces.
+INFORM this is a job for special forces.
+INFORM if we don't put some fast mileage between us and that tin shark, you can postpone your trip to king solomon's tomb!
+WHY_QUESTION how about it, mister little!?
+FEEDBACK never fear, panther!
+INFORM in my dealings with competitors i've learned to prepare for any contingency!
+INFORM missiles!
+YES-NO_QUESTION you're not exactly playing games, are you?!
+ORDER flaps down!
+ORDER wheels down!
+INFORM we're going in for a landing!
+INFORM there's plenty of space!
+INFORM this hidden chamber is immense by any standard!
+INFORM the ancient map is uncannily accurate!
+INFORM we're right on target and making good time!
+INFORM i'm truly overwhelmed!
+INFORM the efficiency of zanda's hardware is beyond comparison!!
+INFORM that is the depth of my disgrace, mighty shinzu...
+INFORM i can upon your wisdom to decide in what manner my dignity may be restored!
+INFORM let me begin by returning this sword where it belongs!
+FEEDBACK in the hands of a ronin!
+YES-NO_QUESTION will you accept it sir?
+FEEDBACK i shall!
+INFORM this may be the last chance i'll get to solve my travel problem -- and to miss it is unthinkable!
+INFORM --to be caught by the panther is to struggle without hope!
+INFORM and of course, he'll be right, as usual!
+INFORM the ills of the world belong to the world!
+INFORM now, only wakandan problems are mine to share!
+INFORM if i have let my people down -- i'll make up for it tenfold!
+BYE good bye, gentlemen!
+THANK thanks for the use of the plane!
+INFORM that one almost got me!
+INFORM if i know that old leopard he's probably digging at the roots of some pressing state crisis -- or inventing one!
+YES-NO_QUESTION and the shockwave from the bullet put him into this statis, eh?
+INFORM it's a theory.
+INFORM the experts in wakanda will make the final analysis!
+YES-NO_QUESTION in wakanda?
+YES-NO_QUESTION after all these years you want to take him back there?
+NOT_CLASSIFIABLE yes!
+NOT_CLASSIFIABLE it's about time!
+INFORM wakandan scientists will find a way to revive klaw, and he can stand trial...
+INFORM he's animated the thing!
+INFORM i can avoid getting hit -- but sooner or later the beast will tear the building down on top of us all!
+INFORM i've got to lure it out of the tenement and find a way to destroy it!
+WHY_QUESTION but how do i defeat a creature made of solid sound?!
+INFORM here he comes again!
+INFORM that was close!
+INFORM the boy is gaining more control over his creation...
+INFORM cmens and signs!
+INFORM cats are cats --
+ORDER if you don't approve of t'challa, vote him down!
+INFORM thats all!
+INFORM because you would arrive and be here for awhile--
+YES-NO_QUESTION --and then leave again?
+INFORM but the black panther's responsibility extends further and deeper-- to the south, into the hearts of all my brothers-- and my accomplishments there have not been so certain.
+FEEDBACK and the jungle is not satisfied with and old explanation, my friend.
+INFORM it requires proof again and again.
+INFORM sir -- sir -- firing me, a lov-level ocp handler, will just make you look worse.
+INFORM what u need is spin!
+INFORM this must go.
+INFORM this wants to go!!
+FEEDBACK boys... boys...
+INFORM --you aren't even chieftain yet, killmonger!
+YES-NO_QUESTION are you delirious hunter?!
+INFORM i won the challenge--
+INFORM we must hurry--he may be in grave danger.
+FEEDBACK w-what--?!
+YES-NO_QUESTION y-you said the g-girls were in n-no danger--?
+FEEDBACK the women are not.
+NOT_CLASSIFIABLE however--
+POLITENESS_FORMULA i'm sorry-- you were saying?
+ORDER shut ip 'n grab th' keys.
+INFORM the same can be said of you and your men!
+INFORM i am a telepath-- yet i detect no sentient thought from any herein!
+INFORM moreover, they have no scent!
+INFORM ergo, they do not truly exist--
+INFORM there are thirty hoodlums on the other side of this door...
+INFORM registration presumes criminal behavior.
+INFORM it's called profiling, tony and it's a slippery slope.
+INFORM i won't have any part of it.
+INFORM the black panther is more tehn just the head of our military, shuri.
+INFORM he is the focal point of the spiritual grounding that has allowed us to thrive as a people for centuries.
+INFORM without a black panther...
+INFORM ...wakanda cannot survive
+WHY_QUESTION where is my mother?
+INFORM she can't be here
+WHY_QUESTION why do you do thus?
+INFORM i-i've got his attention!
+INFORM he knows this is not a hostile move.
+INFORM but, he can't decide what it means!
+BACKCHANNEL wha-!?
+INFORM that thing just faded away!
+FEEDBACK naturally, my dear.
+INFORM it was simply disintegrated by the power in this ancient ornamental box!
+INFORM a disintegrator!
+WHY_QUESTION who'd have guessed that the old civilations had it!
+INFORM if you don't fear for your won safety, the fate of the wakandas may give you pause to reflect!
+ORDER have a care zanda!
+INFORM you tread on dangerous ground!
+WHY_QUESTION what are you pointing at!?
+NOT_CLASSIFIABLE mangy old dog!
+YES-NO_QUESTION are you blind to these weapons?!
+INFORM your authority is meaningless once we choose to fire!
+ORDER do as you're ordered and save your hide!
+ORDER think, traitor!
+YES-NO_QUESTION don't you realize what it means to shatter the structure of the panther cult?
+WHY_QUESTION who led you to this sorry act?!
+INFORM if the wakandas seek to destroy me, they will never do it with a costumed clown in a fast car!
+INFORM khanata, of the rulling family, has his own method of dealing with your kind!
+INFORM the once frail body of jakarra is gone!
+INFORM it is the power of the unknown you face this day!
+INFORM our people have faced it before..
+INFORM and destroyed those who abused it!
+ORDER ... make it!
+BACKCHANNEL cap!
+INFORM I know you didn't want any help, I challa..
+INFORM ..but I sometimes have hunches, myself.
+INFORM the creature--released me!
+INFORM have to hang on to-consciousness!
+INFORM --and we shall see now!
+INFORM it's him!!
+INFORM it's him!!
+NOT_CLASSIFIABLE guard!!
+NOT_CLASSIFIABLE guard!!
+INFORM it's the guy-- the sundance guy!!
+NOT_CLASSIFIABLE attica!!
+NOT_CLASSIFIABLE attica!!
+INFORM that's it -- next time, i make the call!
+INFORM ..all right, that's it, lady..
+INFORM ...no sausages for bad dogs!
+BACKCHANNEL c'mon.
+INFORM dump 'em in the river.
+ORDER don't get in with hunter kasper.
+INFORM and hello-- you are not the black panther.
+BACKCHANNEL ooh!
+INFORM nice hit!
+ORDER keep looking!
+INFORM time's running out!
+WHY_QUESTION where is it -- where is it!?
+INFORM we've done it!
+INFORM by connecting these two brass frogs, a complete circuit was created that could send him back to his own time!
+ORDER sound the traditional drums!
+ORDER alert all tribes in the territory to the danger of contamination!
+INFORM one of the ruling panthers has come, n'gassi --
+FEEDBACK good!
+INFORM we'll need a strong hand at the heml until t'challa returns!
+ORDER keep moving!
+ORDER keep moving!
+INFORM the militia must have room to maneuver!
+INFORM they'll never stop jakkara!
+NOT_CLASSIFIABLE nurry!
+NOT_CLASSIFIABLE children!
+INFORM he's coming this way!
+INFORM the black panther should be here!
+WHY_QUESTION where is he when his people have need of his mighty arm!??
+INFORM and now, i have one more task to attend to -- retrieving klaw's sound horn!
+ORDER wait, panther --
+INFORM this sounds like an avengers-sized job--
+FEEDBACK he's not listening, iron man.
+INFORM he wants to do it alone --
+WHY_QUESTION and who are we to stop him?
+INFORM i accept your decision, mendinao.
+FEEDBACK t'challa -- i can't -- i won't let you throw your life away by following an old superstition!
+INFORM i've got to do something!
+ORDER at my command, blow the bloody lunatic away!
+NOT_CLASSIFIABLE ready--!
+YES-NO_QUESTION has he indeed lost the mantle of the panther-spirit -- and his sanity along with it?
+FEEDBACK i have nothing to say...
+FEEDBACK that's it -- you've hit on the head, there.
+NOT_CLASSIFIABLE hunter.
+INFORM i'm faking annoyance just to manipulate you.
+INFORM the cops and the spies invading my life have zero to do with it.
+YES-NO_QUESTION anything else i should know about you --?
+INFORM i waive the ascension rite.
+ORDER let n'jadaka be confirmed as chieftain.
+WHY_QUESTION what?!
+YES-NO_QUESTION you think i fear the rite--?!
+FEEDBACK you are grieving the loss of your friend, n'jadaka -- not thinking clearly.
+INFORM for, if you were, you would see --
+WHY_QUESTION what do you want, m'baku?
+FEEDBACK you.
+NOT_CLASSIFIABLE dead.
+WHY_QUESTION no -- what do you really want --?
+NOT_CLASSIFIABLE sanctuary.
+NOT_CLASSIFIABLE but...
+INFORM i'm getting ahead of myself.
+ORDER let's start again,
+YES-NO_QUESTION shall we?
+WHY_QUESTION who are you --
+WHY_QUESTION and why do you wear the raiment of a king...?
+INFORM ...i mean it, margie...
+INFORM ...keep this up, and you're going back to obedience school...
+INFORM they can't do that!
+FEEDBACK i understand.
+YES-NO_QUESTION does this make it worth your while?
+GREET hello?
+YES-NO_QUESTION anyone here?
+ORDER hold it!
+INFORM i-i detect another presence here.
+INFORM in fact, there are many others.
+FEEDBACK impossible!!
+INFORM this place is impossible to find--yet, princess zanda might have the resources to--
+INFORM and handsome, indeed... you've aroused my interest.
+INFORM I would do much to gain you as a willing ally!
+FEEDBACK you've done enough.
+INFORM princess zanda... you've robbed me of a friend!
+NOT_CLASSIFIABLE never!
+YES-NO_QUESTION do you hear me, zanda?
+NOT_CLASSIFIABLE never!!
+FEEDBACK precisely...
+INFORM and i shall be there to claim this vehicle when you land it!
+ORDER wait!
+INFORM i think we'd better join the princess in her copter!
+NOT_CLASSIFIABLE militia!
+YES-NO_QUESTION so, you've come for me,
+BACKCHANNEL eh?
+ORDER don't resist, Jakarra!
+INFORM you've got to be confined!
+COMMIT if you put up a fight.. we'll open fire!
+INFORM if i recall my baedecker's guide book, the nearest town should be only minutes away!
+INFORM ... the world will be mine for the taking!
+YES-NO_QUESTION still dreaming of conquest klaw?
+NOT_CLASSIFIABLE so!
+NOT_CLASSIFIABLE the cursed king of the wakandas!
+ORDER come meet your doom, t'challa!
+YES-NO_QUESTION does that mean-- a mission general moorbecx?
+FEEDBACK it does.
+INFORM all conventional efforts to stop the black panther's murder-spree have failed.
+INFORM he probably just melts over the border.
+INFORM you shall have your channel.
+ORDER do not bring my name into this moise.
+FEEDBACK agreed.
+INFORM he simply vanished!
+INFORM he's gone!
+INFORM y'know, i'm not sure what's more humiliating: that i can't beat you--
+INFORM --or that i'm actually beginning to understand you...
+FEEDBACK it is a disgrace that you should even require that translator.
+INFORM even a small child can learn english--
+INFORM --surely a grown woman could learn so simple a tongue as hausa.
+INFORM --the white wolf is setting you up.
+INFORM if you take the ascension rite, you'll be dead before dawn.
+YES-NO_QUESTION is that a threat?
+FEEDBACK it is a theory.
+NOT_CLASSIFIABLE you men--
+ORDER --lay down your weapons immediately or--
+FEEDBACK can't do that, black panther!
+NOT_CLASSIFIABLE cuz i reckon, if i did--
+INFORM and now i've made myself his pet project.
+FEEDBACK and any of this is my problem beeee-cause...?
+FEEDBACK 'cause it wouldn't do for i.a.b to find panther's bullets at kasper's crib.
+ORDER so dump 'em in the river.
+ORDER don't get in with this guy kasper.
+GREET and hello--
+INFORM you are not the black panther.
+INFORM too ugly and too broke.
+FEEDBACK but, tork... sal anthony--
+INFORM and nypd lieutenant and your boss--
+INFORM --probably set me and my whole crew up.
+INFORM i end up with a five-day suspension...
+INFORM ...while my boys end up in i.c.u.
+FEEDBACK sal anthony is i.a.b.'s problem kasper.
+ORDER don't make him yours.
+ORDER don't make i.a.b. yours.
+WHY_QUESTION who am i- joe pushead now?
+FEEDBACK been on this job a while, tork.
+INFORM i can handle it.
+WHY_QUESTION so, what?
+FEEDBACK you keep the kitty suit a while longer...
+INFORM accept gifts from hunter--
+YES-NO_QUESTION the real black panther's arch enemy?
+INFORM ...by the hand of
+YES-NO_QUESTION you'll visit all the time right?
+YES-NO_QUESTION are you kidding me?
+INFORM i'll swing by in the black-bird every weekend!
+NOT_CLASSIFIABLE and if he don't?
+FEEDBACK eggplant salad, i guess!
+INFORM i will be at the hospital if you need me.
+YES-NO_QUESTION are you ready to give up now?
+NOT_CLASSIFIABLE damn, your eyes, black panther!
+ORDER be still, i say--!
+INFORM it would be take but one more word from your treacherous mouth to snap what bit of control is left to me!
+FEEDBACK i'll risk it!
+INFORM the sound of that horn was faint-- but unmistakeably clear!
+INFORM these vessels are fully automated --one will take you to an area beyond this domai.
+INFORM ou are not to be aboard when it returns to this place!
+FEEDBACK Have no fear of that!
+INFORM we found this location quite suitable for simulating the effect of an alien planet!
+INFORM our story is based on the work of a famous science-fiction writer!
+FEEDBACK your audience will be most impressed with the job you've done!
+ORDER test number four camera again, sid!
+INFORM it's no use!
+INFORM he won't go down!
+ORDER don't stop firing!
+ORDER give him all we've got!
+POLITENESS_FORMULA well, i am not as ignorant as bomwanna might think--
+INFORM i remember the access codes--
+INFORM --tryin' t'be some kinda supercop--
+FEEDBACK gwen-- enough already.
+INFORM look they don't give grade bumps out like party favors.
+INFORM the only way i'm gonna get us out of here is to stand out-- take risks--
+INFORM i once said those words.
+INFORM i sed to fight in the arena.
+INFORM i escaped.
+INFORM you can do it, too.
+INFORM you have no idea, what you don' know.
+CLOSE and so it goes...
+INFORM i've done what your laws have demanded of me.
+INFORM as ruler of the wakandas, i request that you honor mine!
+ORDER permit us to leave in peace and friendship!
+FEEDBACK only your departure will bring us peace!
+ORDER samurai! send these two on their way by our swiftest route!
+COMMIT still, there's no way i can ignore my responsibilities or my unique power.
+INFORM glory!
+INFORM honor!
+INFORM the thrill of the hunt!!
+FEEDBACK you miss my meaning--
+INFORM --this is not your place-- or even your time.
+BACKCHANNEL so...
+INFORM this is how the samurai keep in touch with modern cultures!
+YES-NO_QUESTION is that all you can think about?
+INFORM immortality was withon our grasp -- and you threw it away!
+INFORM behold the miracle wrought by the effect of vibranium on the human structure!
+INFORM i stand unouched by your very assault!
+INFORM you should have seen his eyes pop when we met, mister gerard!
+INFORM i suppose he must have taken me for some sort of tin mirage!
+INFORM a robot would get the same raction in times square!
+ORDER now, high-tail it, will you,
+INFORM i'd like to talk to him in private!
+WHY_QUESTION about what?
+INFORM my situation was obvious!
+INFORM you're violating our air space!
+ORDER identify yourself--
+INFORM or we'll open fire--!
+INFORM lady luck, you're not fickle, you're downright mean!
+INFORM it's this kind of timing that could drive a man into paranoia!
+INFORM --i'm under a missile assault at the very doorstep of my home!
+INFORM it was a set-up
+NOT_CLASSIFIABLE pop

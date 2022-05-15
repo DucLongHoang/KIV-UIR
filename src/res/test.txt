@@ -1,0 +1,1392 @@
+INFORM im afraid they re gone for good !
+ORDER don't give up so easily, sir!
+INFORM you've got woozy winks, one-man bureau of missing persons at your service!
+INFORM creepy's gotta ironclad alibi!
+INFORM he's a patient at city hospital room 812 -- but i seen him at the stick-up!
+ORDER we've got to work fast, gypo.
+INFORM son, the sheriff would like to see you...
+INFORM only for a moment.
+POLITENESS_FORMULA i know it's painful, but we must do everything we can to help.
+INFORM he's dead!
+INFORM shot in the back!
+ORDER hey, get off me, you fancy flea bag!
+NOT_CLASSIFIABLE woof woof!
+GREET oh boy!
+INFORM the day for the big race is finally here!
+BACKCHANNEL oh
+POLITENESS_FORMULA pardon me!
+INFORM i was looking for the bath
+INFORM the next door stupid!
+FEEDBACK this time, champ, i'm ready for you
+INFORM bully for ludwig!
+FEEDBACK he did not fail us
+FEEDBACK so this is the precious instrument that six nations are after
+FEEDBACK oh dear!
+YES-NO_QUESTION you fight each other because you are dissatisfied -- because your morale is weak because you cannot win the war, no?
+FEEDBACK sure!
+INFORM we're fed up with the whole deal!
+WHY_QUESTION wha?
+INFORM this!
+POLITENESS_FORMULA here master reggie as you ordered...
+BACKCHANNEL well-- he hee!
+FEEDBACK very good alec!
+FEEDBACK it worked!
+INFORM soon your spell will be gone and you'll be yourself again!
+BACKCHANNEL heh-heh!
+INFORM but you won't remember any of this!
+INFORM shinto was the decent japanese who wanted to redeem his country's honor!
+INFORM if he dies, captain nippo will pay for it!
+INFORM there -- it is finished!
+NOT_CLASSIFIABLE and now --
+BACKCHANNEL oh-hh!
+INFORM you surprised everyone but me, fritz!
+INFORM what a guy!!!-
+INFORM today's action was one or the cleverest bits of strategy pulled off in this war!
+WHY_QUESTION and how!
+FEEDBACK very well
+OFFER we shall besin the first lesson with the proper way to rattle chains!
+INFORM i've got some here, teacher
+GREET amy!
+FEEDBACK that's terrible!
+INFORM i -- i couldn't do that to any one!
+ORDER die -- vile beast! and take your curse with you to the depths of hades from which you came
+BACKCHANNEL erryowww!
+CLOSE goodbye darling!
+POLITENESS_FORMULA have a nice day... be safe
+CLOSE goodbye, dear!
+POLITENESS_FORMULA take care of yourself and little alice...
+INFORM now all i've got to do is make it back!
+FEEDBACK you will! keep going- you lucky stiff!
+INFORM here goes i'm wishing!
+FEEDBACK maybe i should have stayed home!
+BACKCHANNEL y-o-o-o-w-w!
+FEEDBACK all thes complaints about crosse lines are driving me crazy!
+ORDER locate the trouble, somebody.
+INFORM or everybody is fired - including myself!
+OFFER let's beat it.
+FEEDBACK you said it.
+INFORM we're lucky to be alive
+INFORM if you're not areful, i'm going to change my mind!
+FEEDBACK good idea!
+INFORM it needs improvement!
+WHY_QUESTION why not replace it with the mind of a ten-year-old?
+INFORM anytime you feel too bad to go fishing, you must be plenty sick!
+INFORM some of my snaps are worth a lot of trouble!
+FEEDBACK the ungrateful wretch - and to think that i paid her in full today!
+FEEDBACK well, we simply must have a cook,
+OFFER "chickie so pick one up in town tomorrow!
+FEEDBACK yes, dear!
+FEEDBACK it's hopeless!
+INFORM we can't fight quiquern!
+ORDER help!
+INFORM quiquern is attacking my mother and father
+WHY_QUESTION why don't the u.s. authorities do some - thing -
+FEEDBACK yes,
+INFORM and if you want to keep this job you'll recover them!
+INFORM there's the missing passenger liner venusa!
+INFORM and there is the freighter m-16 that disappeared last month but not a sign of life
+BACKCHANNEL oh,
+WHY_QUESTION why did he have to show up just then?!
+INFORM now you can't play tomorrow!
+FEEDBACK woe is me!
+FEEDBACK i-i- let the whole team down!
+WHY_QUESTION how do you like this one pop - gun jim?
+FEEDBACK i-i feel so queer-- so old...!
+FEEDBACK swell idea to get start in business!
+INFORM ives us quite an assortment!
+FEEDBACK yup and your idea to use paper furniture rugs and drapes was good too!
+BACKCHANNEL oh,
+YES-NO_QUESTION my-- are you a real bandit?
+YES-NO_QUESTION ain'tcha scared?
+FEEDBACK caramba!
+INFORM soldiers!
+ORDER quiet, pedro!
+INFORM they're after our friend, here!
+INFORM the answer is -
+FEEDBACK i can't!!
+BACKCHANNEL so-o-o...
+GREET hey
+ORDER not so fast!
+ORDER you can't go in there!
+FEEDBACK don't be too sure you old fool!!
+BACKCHANNEL ha --
+INFORM i was hoping they'd come to this store for developing!
+INFORM this is the best time i've ever seen made in a slalom!
+ORDER hurry, chapman..
+FEEDBACK i feel uneasy!
+FEEDBACK a few minutes more
+POLITENESS_FORMULA don't worry, maisie.
+INFORM i ain't gonna kill you, but you ain't goin' nowhere till the landlady finds you tomorrow mornin'!
+BACKCHANNEL ee ii iii!
+ORDER say, old man!
+WHY_QUESTION where is this valley of were-wolves that everyone fears so much?
+INFORM  it is there beyond the forest.
+INFORM the evil creatures lurk in the trees ready to pounce upon anyone who travels in the shadows
+INFORM you're gonna be okay now, thanks to this blood plasma!
+BACKCHANNEL whew!
+FEEDBACK it worked!
+INFORM i'm not dead yet!!
+INFORM i must've been so sore at kane, i swiped her shoe instead of her head!
+GREET hey call --
+FEEDBACK i cannot help myself--
+INFORM i must go-
+FEEDBACK safe!
+FEEDBACK i can t believe it!
+INFORM help!
+BACKCHANNEL ahhhh!
+FEEDBACK it must have been same sort of ghost...
+INFORM said my hands were really his...
+INFORM and now this blood...
+WHY_QUESTION what does it mean?
+BACKCHANNEL oh - oh
+GREET goody - goody
+INFORM here comes santa claus.
+FEEDBACK that was good work!
+FEEDBACK but not good enough!
+INFORM i haven't found the plans yet
+INFORM or who slipped them to the janitor!
+FEEDBACK no!
+FEEDBACK no!
+FEEDBACK no!
+OFFER i'll capture you, without using a gun on you!
+FEEDBACK incredible!
+FEEDBACK a bad dream!
+FEEDBACK -nightmare you mean!
+INFORM haste requires a speedy entrance!
+GREET hullo ---
+NOT_CLASSIFIABLE brrfsk ahem
+FEEDBACK hoky cats!
+WHY_QUESTION what is it
+WHY_QUESTION what happened?
+ORDER speak up!
+YES-NO_QUESTION will ya?
+FEEDBACK good boy, rex!!
+FEEDBACK that was close but we made!
+THANK thanks to you.
+INFORM skyman!
+INFORM i'm fed up on this whole circus idea of junior's
+BACKCHANNEL ---- hey---
+WHY_QUESTION what does that mutt want?
+ORDER hold it_
+ORDER  look, mamie!
+INFORM just like they do in the circus!
+BACKCHANNEL mmm!
+FEEDBACK these flowers are delicious!
+GREET  hey,
+ORDER cranberry wait a minute!!!
+POLITENESS_FORMULA sorry, but i feel it necessary to keep you from using your arms for awhile!
+BACKCHANNEL aha!
+FEEDBACK you shall have a taste of your own medicine!
+BACKCHANNEL oh!
+ORDER help!
+INFORM i never was more eager to come to grips with anyone before!
+THANK thanks joan mason!
+POLITENESS_FORMULA i'm sorry , sir,,,
+FEEDBACK i told you...
+GREET hey happy!
+INFORM i'm going to meander out to that barn and have another look!
+ORDER you wait here...
+FEEDBACK shore will, tim
+BACKCHANNEL (p-too!)
+INFORM i got ya now-w-wow!
+FEEDBACK careful with that club junior!
+YES-NO_QUESTION do you own this dump, bud?
+BACKCHANNEL oof---
+FEEDBACK i certainly do!
+WHY_QUESTION what is the meaning of this outrage?
+WHY_QUESTION who are you?
+WHY_QUESTION what do you want?
+INFORM wait-i just got an idee!
+INFORM colonel duncan has brought his rodeo to cimarron city!
+INFORM he oughtta pay a fair price for a blickin' hoss like this one!
+FEEDBACK whatever we got would be better than nothin'!
+INFORM you're too quick to reach for your gun, lucky!
+YES-NO_QUESTION lucky?
+FEEDBACK you know me sheriff!
+INFORM my name ain't lucky!
+FEEDBACK nothing...
+INFORM is the... matter
+INFORM something is worrying that boy!
+INFORM i'm going to follow him, bob!
+POLITENESS_FORMULA so sorry
+INFORM if i jump this gun!
+FEEDBACK yup--
+INFORM this question ought to get a rise out of him
+INFORM a pistol is too dangerous a toy to play with
+GREET phooey.. phooey.. phooeym!!
+FEEDBACK what a life!
+FEEDBACK there's something very strange about that weapon!
+INFORM --and i'm going to know what!
+INFORM robert courtney is dead!
+YES-NO_QUESTION isn't that a shame, mike!
+INFORM he was such a gifted artist!
+ORDER hurry beetle jump!
+INFORM  you are safe, lura, my mate!
+BACKCHANNEL wow!
+INFORM i'm off!!
+GREET dick!
+ORDER stop!
+WHY_QUESTION what's all excitement chief?
+FEEDBACK this is a lucky break!
+INFORM the cons probably had this car ready for use but discovered they didnt need it!
+INFORM i hope it has plenty of speed!..
+INFORM i'll need it!
+INFORM that's easily arranged, too,
+ORDER on your guard!
+BACKCHANNEL ho!
+INFORM this will be good!
+INFORM i still can't believe that billings could be so short-sighted!
+INFORM instead of seeing the good of my bill - all he could see was the expense!
+INFORM no wonder the juvenile courts of our city are jammed with cases!
+FEEDBACK you have disgraced us!!!
+FEEDBACK good for you!
+POLITENESS_FORMULA but i want you to do me a favor
+INFORM while i'm trailin' the hombre who killed the sheriff of saddle butte!
+YES-NO_QUESTION old jud conrady?
+YES-NO_QUESTION you mean he's dead?
+YES-NO_QUESTION going somewhere, mister headless horror?
+BACKCHANNEL huh,
+YES-NO_QUESTION me?
+FEEDBACK but spike o'toole was the one!
+FEEDBACK i feel a little bit embarrassed riding on a horse that carries on a conversation	with me!
+BACKCHANNEL wha...
+BACKCHANNEL hey!
+INFORM this heavy curtain will stop them!
+FEEDBACK no--no don't tak the kono
+BACKCHANNEL ohhhhhh
+INFORM am i happy!
+INFORM we're safe!
+INFORM we're free!
+OFFER now to find some way to get out o this blasted country.
+INFORM shortly after the episode!
+INFORM she certainly is a remarkable person!
+BACKCHANNEL owooh!
+FEEDBACK hit twice!
+FEEDBACK i won't be much good now!
+INFORM i better get home while i can!
+INFORM there he is -- holy smokes!
+INFORM it's a mummy --
+ORDER hey you -- stop!
+INFORM and the only way to protect them, is to fight back at their murderers...
+FEEDBACK yes!
+FEEDBACK FEEDBACK yes!
+BYE so long ranger!
+INFORM and finally this --token to man's best friend--!!
+FEEDBACK oh boy!
+FEEDBACK this feels good!
+FEEDBACK yeah!!
+BACKCHANNEL oh!
+POLITENESS_FORMULA mr. reynolds, you were magnificen---
+FEEDBACK and you dance so divine!!
+FEEDBACK i bet you tell that to all the boys...
+INFORM no time to waste!
+BACKCHANNEL gulp!
+INFORM this will finish you--
+BACKCHANNEL oooomp!
+INFORM ... i bought it with the five dollars i saved!
+INFORM the language is incredibly ancient, but luckily, l under-stand it!
+INFORM seems to be a kind of encyclopedia!
+INFORM it contains information that i never knew existed!
+FEEDBACK things... getting... worse!
+INFORM molasses freezing...
+FEEDBACK hurray!
+FEEDBACK it worked!
+INFORM pater will never hire me again!
+THANK thanks, jonah, for getting me fired!
+INFORM i'm out of a job again!
+FEEDBACK guess i'll go too
+BACKCHANNEL oooh!
+BACKCHANNEL ha!
+FEEDBACK you lie!
+INFORM but we shall see who is the better man!
+OFFER if you love miss weatherby you will fight for her, no?
+BACKCHANNEL awah!
+INFORM and now for the machine itself-
+GREET captain marvel!
+INFORM guilty!
+INFORM i sentence jagga to the electric chair!
+ORDER depress third button...
+INFORM kitanic force will break collar weld...
+ORDER hurry!
+FEEDBACK i never thought i'd see the liner again.
+INFORM looks as though we're going to have something to study instead of being studied.
+ORDER courage!
+INFORM we will save you!
+INFORM bridge is down and we are lost.
+FEEDBACK boy, this vs some thing!
+FEEDBACK most delicious thing ever'et!
+FEEDBACK this is some chow!
+FEEDBACK three cheers for matzi nogi!
+INFORM here it is boss!
+INFORM no trouble at all!
+FEEDBACK good work boys!
+INFORM one more haul like this one and we can take it easy!
+FEEDBACK wow!
+FEEDBACK it's about time those guys had enough--
+INFORM i'm played out myself!
+NOT_CLASSIFIABLE is... is
+GREET young man!
+INFORM just for being an hour late, you won't get your supper.
+ORDER now go right up to your room and stay there!
+BACKCHANNEL aw,
+FEEDBACK ma!
+ORDER stop him--
+ORDER stop him!
+INFORM i'm gonna make you apologize to miss millie!
+INFORM the curse of the queen of the nile has been exacted!
+INFORM and the unjust murder of my kinswoman avenged!
+FEEDBACK easy does it...
+INFORM more suitable moment for explanations will come later!
+INFORM hasty departure from unpleasant place more appropriate now!
+GREET keeno!
+BACKCHANNEL hmm-
+FEEDBACK you found that dog collar!!
+INFORM you sneaking little--!
+FEEDBACK so you're working with that chinese detective chan!
+WHY_QUESTION n-now what the world could've frightened him?
+POLITENESS_FORMULA i hope you're right, sir!
+FEEDBACK i hope so too, lieutenant!
+COMMIT all right men--
+INFORM you'll return to your commands and begin the advance!
+ORDER try to reach the valley floor by darkness.
+ORDER send up green rockets when you've made your positions!
+FEEDBACK shame!
+INFORM you two grls fighting over a man.
+ORDER i think now cisco take a walk!
+ORDER listen gran'papa...
+INFORM i have an idea
+BACKCHANNEL oh..
+ORDER look!
+INFORM he took a dive!
+GREET boy!
+FEEDBACK this is something!
+INFORM good thing this message was intercepted!
+WHY_QUESTION what's the nature of it, sir?
+GREET officer,
+INFORM i demand that you do some-thing to get my car back
+BACKCHANNEL gulp
+NOT_CLASSIFIABLE jeepers!
+INFORM it's rainin' guys!
+FEEDBACK wow!
+FEEDBACK what a wallop that was!....
+WHY_QUESTION what the?
+INFORM that must have been the same gang mentioned in that news flash!
+INFORM my lampshade is gone!!!
+INFORM great thunder!
+GREET kitty!
+INFORM now that it's over i could kiss that big guy for savin' us from makin' muggs of ourselves!
+FEEDBACK we musta been crazy-
+INFORM and big jc feels glad too-
+INFORM he slept tonight for the first time in da
+COMMIT i'm on my way, major!
+POLITENESS_FORMULA good luck!
+POLITENESS_FORMULA sorry--
+INFORM but i'd like my ship back--
+GREET gosh,
+YES-NO_QUESTION can i see the diploma and the sled and the..
+GREET wal,
+NOT_CLASSIFIABLE y'see son-
+INFORM them washington folk put the sled in the smithsonian institute!
+INFORM and the diploma wal one day i changed amuk into a goat - and he et it up!
+INFORM perhaps they're glad to see someone, and will properly greet...
+BACKCHANNEL ouch!
+INFORM see what i mean!!
+BACKCHANNEL ha!!..
+FEEDBACK your misery is so enjoyable..
+INFORM i hesitate to destroy you so easily..!
+FEEDBACK insurance man!
+YES-NO_QUESTION you mean the guy i just met down stairs?
+GREET darling!
+FEEDBACK you voted no!
+INFORM you love me!
+INFORM now i know you do!
+GREET boy..
+INFORM they sure are pumping plenty of lead!
+BACKCHANNEL whew!
+YES-NO_QUESTION and have you found out how she kills her victims ?
+FEEDBACK no, that's part of your job.
+INFORM when you catch her-
+INFORM here's where she's staying now---
+FEEDBACK guess it's just too big for me to get off the ground!
+INFORM but there must be a way!
+INFORM i'll never live it down if my kite is a failure!
+BACKCHANNEL hmm!
+INFORM i just feel in the mood to win a few packs of cavity-clinch chewing gum!
+INFORM no trace of buck lanyard!
+INFORM but where he's least suspected, he's apt to be most active!
+INFORM the mayor here and i are worried!
+INFORM there's lots of money in town, but no bank
+INFORM only in this office is there a safe!
+INFORM i'll destroy him with his own greed!
+INFORM in his own style!
+BACKCHANNEL owww!
+INFORM now to move this danger sign to solid ice!
+INFORM a hardmore skater is sure to be in front and will head right for the thin ice!
+BACKCHANNEL heh, heh
+POLITENESS_FORMULA congratulations, mr. thompson
+POLITENESS_FORMULA i hope you and your charming wife will be very happy!
+FEEDBACK charming!
+BACKCHANNEL humph!
+INFORM i'd sooner call a stick charming!
+INFORM but she makes a very respectable front for my real business!
+INFORM she's homely as sin!
+WHY_QUESTION what- ever did thompson see in that ugly duckling?
+FEEDBACK i like the way you talk, kid!
+INFORM you'll get your chance to show me!
+INFORM i'm goin' to send you out with one of my men!
+GREET hey, kramer!
+BACKCHANNEL uh-uhh!
+BACKCHANNEL -h!!
+YES-NO_QUESTION cops?
+INFORM i thought of that, but if they come around, they might scare the guilty party away.
+INFORM i'd rather have a private eye work on this and clear it up.
+FEEDBACK all right.
+POLITENESS_FORMULA i'll see what we can do for you.
+INFORM i'm worried about the lieutenant, marty!
+INFORM he should've contacted us by now!
+OFFER maybe if we cruise around the block, we can locate the car that picked him up!
+FEEDBACK okay!
+ORDER get out the tommmy guns-
+INFORM we might run into trouble!
+INFORM the flaw is this.
+INFORM your blood to medical research and practice, is a priceless commodity and-
+INFORM in the present instance...
+INFORM we must use all of it
+FEEDBACK it's your fault, you meddler!
+INFORM you're one who has ruined my plan that i've worked on for all these years.
+BACKCHANNEL ohh...
+FEEDBACK my wrist!
+INFORM you are truly an evil one!
+INFORM the jungle would never breed such a monster as GREET you!
+GREET you!
+NOT_CLASSIFIABLE the sight of the whip brings
+FEEDBACK i'm frightened joey!
+POLITENESS_FORMULA please,
+ORDER quit before something happens!
+INFORM that mike lomak is a--a bully!
+POLITENESS_FORMULA there--there honey!
+INFORM i gotta work!
+ORDER relax now!
+POLITENESS_FORMULA every-thing's going to be all right!
+BACKCHANNEL oh!
+BACKCHANNEL oh!
+INFORM they must have radioed from the ship!
+BACKCHANNEL ow-o-o!
+INFORM they're callin' meatball!!
+FEEDBACK well this is it, fel-lers!
+INFORM i'm sure gonna hate to leave you guys!
+ORDER keep your chin up!
+INFORM were gonna m you too meatbal
+NOT_CLASSIFIABLE ange prese remo f
+INFORM bullets don't seem to bother him either!
+FEEDBACK maybe not---
+NOT_CLASSIFIABLE but you.
+BACKCHANNEL oooh!
+INFORM this'll teach you not to go snoopin' around, pal!
+FEEDBACK this is a good idea, don.
+INFORM by the time the fire reaches the powder kegs we'll be able to get a safe distance from the ship.
+POLITENESS_FORMULA sorry, gents-
+INFORM but nobody touches this mask!
+INFORM it's only a rash powder i spread over the city.
+INFORM i scared them into selling real estate agent buy it for me.
+INFORM this entire town stands on a huge copper mine which wanted.
+THANK thank you mr.coyne thank...
+BACKCHANNEL ooh...
+INFORM the case has started, terry.
+ORDER come on!
+FEEDBACK ach himmel....
+FEEDBACK it's dot mad man!
+INFORM hope you have better luck with this one than you had with the others.
+FEEDBACK yes--
+INFORM but if she lives i'll have to kill her anyway.
+INFORM maybe your hunch is right!
+FEEDBACK wow!
+INFORM he crashed through the building!
+INFORM i'll be back to explain some day, pal!
+INFORM wait'll i get my hands on you!
+INFORM dogs-- i hate them!
+FEEDBACK monster or not--
+INFORM nothing is going to stop me from having this treasure!
+FEEDBACK don't worry...
+INFORM i'm not going to touch you.
+INFORM i'm not even going anywhere near you!
+INFORM in fact, i'm going to leave you all alone!
+INFORM thank god she's leaving...
+INFORM if i heard her voice another minute, i would go mad!
+INFORM here another minute with a numbskull like you, youre crazier than i think you are!
+INFORM --and you know how crazy that is!
+INFORM the child's half-mad.
+INFORM she may harm janice, even elaw at her face so that she won't be alone in her ugli-ness!
+INFORM i've got to go in there!
+ORDER hurry, kola,
+INFORM before ol' stringo hears you!
+POLITENESS_FORMULA sorry old boy!
+INFORM i can't wait!
+INFORM the black terror!
+WHY_QUESTION i wonder who he is?
+WHY_QUESTION why can't you be like him, bob... instead of a--a scared mouse?
+ORDER don't be silly, jean...
+ORDER imagine me like the terror!
+ORDER forget it!
+FEEDBACK yes,
+INFORM i'm making that hop to yemen--
+POLITENESS_FORMULA sorry to disagree!
+BACKCHANNEL alley-oop!
+ORDER yank 'im down!
+INFORM the jungle is no place for beasts like you!
+FEEDBACK it's the jungle girl!
+GREET good evening, ladies and gentlemen!
+INFORM it's the big night for the milk fund bouts!
+INFORM we have a capacity crowd here to see the black terror himself,
+INFORM aided by his young partner, who will open the festivities by battling six rugged boxers!
+BACKCHANNEL yaaaagh!
+INFORM my warning has saved you!
+POLITENESS_FORMULA farewell!
+INFORM a direct hit!
+BACKCHANNEL ah!
+INFORM this machine is working great!
+BACKCHANNEL oooooo-wah!
+INFORM i'm going to cut you into pieces, slowly-
+INFORM very slowly but no one else must see it.
+INFORM i must be alone just you two and i.
+INFORM we're explorers.
+INFORM you saved my life,
+THANK thanks...
+INFORM it was nothing.
+INFORM i leave you now,
+ORDER come, fury!
+NOT_CLASSIFIABLE i am draw fight
+INFORM the tunnel grows wider...
+ORDER look!
+INFORM even fury can sense the evil about this place!
+BACKCHANNEL uhh-
+INFORM a sniper!
+INFORM captain marvel!
+INFORM beloved, this world seems strange and terrible!
+INFORM it is still full of evils, such as we never dreamed of!
+INFORM but with the ibistick, we shall drive them away!
+INFORM as a matter of fact we're not even sure grissac is a gentleman-
+INFORM no one has ever really seen him!
+WHY_QUESTION who knows?
+INFORM he may even be a woman!
+BACKCHANNEL oh,
+INFORM there's vincent!
+INFORM -see he's standing behind that girl--
+YES-NO_QUESTION sn't this thrilling?
+FEEDBACK quite
+THANK thanks for announcing me!
+POLITENESS_FORMULA pardon my intrusion
+INFORM jeeves you've got to tell me...
+WHY_QUESTION where is he?
+POLITENESS_FORMULA i don't know what you're talking about ma'am
+FEEDBACK pretty balloons!
+INFORM but they are not quite what they seem, my friends!
+INFORM first, you place one on a good spot where everybody can see it,
+INFORM turn the little key and..
+INFORM this young man is due for a surprise!
+INFORM it is ready senor.
+INFORM island!!
+INFORM i tremble with fright!
+POLITENESS_FORMULA sorry to argue, chief,
+INFORM but you sent me over the wrong island..
+INFORM nothing below but a lot of radio silence!
+BACKCHANNEL oh-oh!
+INFORM a horse's whinny...
+INFORM somebody's been watching from up there!
+INFORM i'll just take a look!
+FEEDBACK shaddop... you numbskull!
+INFORM i'll settle the yank's hash...
+INFORM after we give the rajah the works!
+FEEDBACK you clumsy young fool!
+WHY_QUESTION what kind of a glass-blower are you if you take no pride in your work?
+ORDER explode the dynamite charges!
+FEEDBACK that is excellent!
+BACKCHANNEL oof!
+INFORM that is a break for you!
+INFORM we had the car with the 250 g's!
+INFORM we could have lammed out and never bothered with moroni at all!
+INFORM fate was against us!!
+FEEDBACK true, scull, true!
+INFORM your greed and revenge played against each other with death holding the stakes!
+INFORM it is too bad that death will not return them!!
+POLITENESS_FORMULA sorry, big boy,
+INFORM but you've gotta check a your weapons here...
+INFORM concealed or not
+BACKCHANNEL brrr!
+INFORM even the air in this place has the chill of death!
+INFORM golly, atlas builds muscles fast!
+ORDER just watch my smoke now!
+INFORM easy does it!
+NOT_CLASSIFIABLE r!
+NOT_CLASSIFIABLE quit kicking at sand in faces!
+ORDER listen here,
+INFORM i'd smash your face...
+INFORM only you're so skinny you might dry up and blow away.
+INFORM the big bully!
+INFORM i'll get even some day
+BACKCHANNEL oh
+ORDER don't let it bother you little boy
+INFORM that man the worst uisance on the beach
+INFORM but....
+WHY_QUESTION what's that saying about bringing the mountain to sonebody??
+INFORM gnomies
+YES-NO_QUESTION hear what miss screech says?
+INFORM we're gonna be great like caruso!
+BACKCHANNEL aaah!
+FEEDBACK i don't want to sing like caruso...
+GREET gosh!
+INFORM if i could only sing like him!
+BACKCHANNEL hmmm...
+BACKCHANNEL hmmm...
+BACKCHANNEL la - di daaaa
+INFORM say!
+INFORM i almost forgot i made another improvement on your flying suit!
+INFORM you should do about two hundred miles an hour now!
+INFORM you ordered it to stand up,
+INFORM and it
+BACKCHANNEL --ulp!--
+INFORM obeyed!!
+FEEDBACK it's unbelievable!
+BACKCHANNEL haw!
+BACKCHANNEL haw!
+FEEDBACK ya ain't seen nothin' yet!!
+NOT_CLASSIFIABLE cou up to je
+INFORM come a runnin',
+POLITENESS_FORMULA look out!
+INFORM you'll be run
+INFORM (1) the public will learn about the embarrassing episode of the handcuffs,
+INFORM and (2) your superiors will learn that someone other than yourself solved this case.
+GREET laurel,
+INFORM i shouldn't have put you through this!
+YES-NO_QUESTION you really do love brad very much don't you?
+FEEDBACK wow!
+INFORM boy, there must be an irritated squirrel up there!
+INFORM a face!
+INFORM we have the greatest boss in the world!!
+FEEDBACK you bet!!!
+INFORM three cheers for robin	hood!!
+INFORM i spent my fortune trying to find archibald!
+INFORM i have become poor...
+INFORM a lost soul without him
+INFORM and i thank you boys for finding him...
+BACKCHANNEL hmm...
+FEEDBACK that's very interesting windy,
+WHY_QUESTION but what was your act on the stage?
+FEEDBACK why that nervy cuss!
+INFORM if he moved my car.....!
+FEEDBACK this!
+INFORM but there was somebody else in this cabin!
+INFORM out as i came in!
+FEEDBACK i'm slipping!
+BACKCHANNEL oops!
+FEEDBACK of all the luck!
+BACKCHANNEL oh-ho!
+FEEDBACK that's what you think, my conceited friend!
+BACKCHANNEL o-ooh!
+WHY_QUESTION what hit me?
+INFORM now i remember- what a fool i was!
+GREET oh boy!
+INFORM a chipmunk!
+INFORM i wonder where the second clue is!
+INFORM nobody seems to have found it yet!
+FEEDBACK father!
+INFORM the contents of the jar are sacred!
+INFORM upon their safe deliv-ery depends the success of our great cause in china!
+POLITENESS_FORMULA i know you will not fail us!
+ORDER hurry men,
+ORDER as soon as you get there, attack the mercurian ships.
+INFORM that's our only hope for saving blaze!
+BACKCHANNEL woops!
+INFORM i guess our friend broke the news to his playmates!
+BACKCHANNEL oh-
+FEEDBACK my head!
+GREET inspector,
+POLITENESS_FORMULA i'm so sorry!
+INFORM this happened all because of me!
+FEEDBACK wow!
+FEEDBACK that was a close call.
+INFORM but i made a bulls-ye on the depot
+GREET the great defender!!
+ORDER come inside, quickly!
+BACKCHANNEL uh.. whew!
+FEEDBACK my head...
+INFORM rick, i'm going to the office.
+YES-NO_QUESTION check up the license number??
+INFORM i'll stay here!
+POLITENESS_FORMULA careful tawny!
+INFORM he may be only playing dead!
+FEEDBACK nice catch!
+INFORM i hope this boy will help a lady in distress!
+INFORM i must get to town!
+BACKCHANNEL oh...
+FEEDBACK there you are!
+ORDER follow me!
+INFORM i'll protect the city with my in-visible ray,
+INFORM you counter-attack with the fleet!
+FEEDBACK luck!..
+BACKCHANNEL ahem,
+YES-NO_QUESTION now do you believe in my lucky charm?
+BACKCHANNEL hah!
+INFORM i'll have some excitement to tell of
+FEEDBACK i'm glad it turned out right!
+WHY_QUESTION what are your plans?
+INFORM i've sunk every cent in this showbcat venture!...
+INFORM the best acts i could hire are waiting right now at skinner's landing!
+BACKCHANNEL yeeow!
+BACKCHANNEL hmmm!
+INFORM fritz hoffman himself!!
+INFORM -- and she's with him!
+INFORM - i wonder ..
+ORDER an' so help me, warden,
+INFORM when i looked back of me,
+INFORM the dead chinaman had got up an' gone!
+YES-NO_QUESTION are you crazy?
+BACKCHANNEL grrrawg!
+POLITENESS_FORMULA sorry that i must do this, officer!
+POLITENESS_FORMULA sorry..
+INFORM i'm deter-mined to get aboard!
+WHY_QUESTION what's this?
+GREET  ben stokes!
+BACKCHANNEL  hmmm!
+INFORM lucky for family he has this $10,000 insurance policy!
+WHY_QUESTION have you anything to say before sentence is passed upon you?
+INFORM only that i appreciate the grim aspect of this trial,
+GREET your honor!
+BACKCHANNEL they are!!
+BACKCHANNEL aieeeee!
+ORDER run for cover!
+INFORM we are attacked!
+BACKCHANNEL chuckle!
+INFORM this ought to give bunny plenty of thrills and chills!
+INFORM she'll admire my acting ability, too!
+INFORM e molded her from his wn atomic structure order to communicate ith us!
+INFORM he turned his ntire planetary surface to a garden of ede to keep us content!
+INFORM and we decided to take off he grew angry and showed us his true self!
+FEEDBACK poor fellows...
+INFORM most of them didn't even know why they were fighting!
+GREET  oh no, sonny boy..
+WHY_QUESTION  not leaving so soon are you ?
+BACKCHANNEL yiii!
+GREET hello...
+INFORM say, you're crying!
+WHY_QUESTION what is wrong, little white she?
+POLITENESS_FORMULA my thanks to honorable shark,
+INFORM for without your threat i would not have made safety.
+BACKCHANNEL ugh!
+ORDER careful!
+INFORM there's sniper fire coming from the third building on this side!
+INFORM it worked!
+INFORM i got away before he could see me!
+FEEDBACK excellent!
+INFORM and our preparations are complete on this end!
+INFORM den i guess we beat it now,
+BACKCHANNEL huh
+WHY_QUESTION , rusty?
+INFORM i don't wanna tangle wit' dat guy again!
+INFORM fools!
+INFORM i pity leffley!
+INFORM your friends will rally to you!
+INFORM first i will challenge leffley alone!
+ORDER bid the others be ready!
+INFORM word to the king's minister!
+INFORM from me to the two of you!
+BACKCHANNEL owwww!
+BACKCHANNEL yeow!
+INFORM  she used to be good but this is murder!
+FEEDBACK yeah!
+INFORM i can remember lilli tucker when she was good!
+FEEDBACK right --
+ORDER check loca-tion and report back.
+POLITENESS_FORMULA sorry, baby!
+INFORM two killings are par for this course!
+FEEDBACK incredible!
+WHY_QUESTION then only your soul was captured?
+FEEDBACK yes!
+INFORM i shall continue ...
+INFORM there is much evil in air!
+INFORM there must be something mighty strange going on down here.
+GREET  there, m'buwangi,
+INFORM you will have a beautiful diamond for an adornment and keep it safely for me.
+INFORM everything's so merry --
+INFORM those santas with their bells,
+INFORM the gay windows ,
+INFORM the lights -- this is a wonderful time of year.
+INFORM  everybody is so friendly --
+INFORM that will silence your babbling tongue
+WHY_QUESTION - wait ... what is that?
+INFORM i know how to finish off this imp so as to make it look accidental,
+INFORM  then i'll attend to the drunk there's a deserted ski courde which will just suit my purpose!
+NOT_CLASSIFIABLE i'll have ese on r yoi in second
+INFORM sorry i can't stay and watch you roast cor. per. so long!
+BACKCHANNEL wow!!!
+INFORM it must be a time bomb!!!
+INFORM no time to look for it
+INFORM there it goes'
+ORDER now!!
+INFORM the thought of how i almost betrayed my country drives me crazy!
+FEEDBACK dont't brood about the past!
+INFORM byron must be in the chair now.
+INFORM hope it's not too late!
+WHY_QUESTION who are you?
+BACKCHANNEL oof!
+INFORM my - wind -- it's knocked out of me!
+INFORM it's unbelievable!
+INFORM these plans show a gigantic flying wing
+INFORM .. capable of carrying troops, tanks, artillery...
+WHY_QUESTION what's that!?
+BACKCHANNEL good gosh!
+INFORM these men are other victims of the scarlet death!
+BACKCHANNEL whew!
+INFORM he's either very brave or plain nuts!
+INFORM that's a heck of a way to find out if a lion has halitosis!!
+BACKCHANNEL aaahh!
+BACKCHANNEL wow!
+INFORM i just got away in time!
+INFORM mission accomplished, sir!
+INFORM boris ivanov is dead ---
+INFORM the only scientist in all the soviets who could have deciphered that cosmic ray formula!
+FEEDBACK great work, lance!
+FEEDBACK congratulations my boy.
+INFORM that was a sensational job!
+WHY_QUESTION  is there anything i can do for you?
+BACKCHANNEL help!!
+INFORM men .. and intruder!
+BACKCHANNEL help!!
+NOT_CLASSIFIABLE think the bla cat wi
+INFORM for the present we're absolutely helpless.
+INFORM i've all the evidence i need right here!
+INFORM hmm that's an excellant idea!
+INFORM here is the history on all the cases!
+INFORM i learned this in varsity football!!
+GREET hello, kids!
+INFORM joanie's plane just landed without her!
+INFORM i'm afraid she's in trouble driver,
+INFORM follow route 8 out of the city,
+ORDER and step on it!
+INFORM and worst of all
+INFORM , poor, poor julia sits all day staring out the window,
+INFORM pining for the male buzzard who stole hrr heart!
+INFORM that is why i hate the spirit!
+BACKCHANNEL sniff sniff!
+INFORM there she is!
+INFORM --alone!
+INFORM helpless!
+BACKCHANNEL why, it's a --
+INFORM  a paper airplane!
+BACKCHANNEL oh!!
+FEEDBACK nice work ...
+INFORM i'm almost there!
+INFORM i'll stamp you into the dust, like a worm!
+BACKCHANNEL oops
+INFORM that wa was close!
+BACKCHANNEL now what?
+FEEDBACK  good boy , pinto
+INFORM now to make sure this isn't used again!
+BACKCHANNEL -- whoa!
+ORDER not so fast!
+INFORM i'm just mad enough to rule the world
+INFORM ... with this!
+BACKCHANNEL yippee!
+INFORM a balloon!
+BACKCHANNEL hey,
+INFORM they're gonna land right on the deck!
+ORDER  help them!
+INFORM if he did it, can too!
+INFORM i i'm afraid to look at my hole card!
+INFORM I need an ace to win!
+WHY_QUESTION what if i lose...?
+WHY_QUESTION wh - what if fate was just teasing me...?
+BACKCHANNEL good heavens!
+BACKCHANNEL adams!
+INFORM he -- he's dead!
+WHY_QUESTION how - how did it happen?
+INFORM this - is -- too much!
+INFORM the killer got to him a few minutes before I could get here!
+BACKCHANNEL oof!
+POLITENESS_FORMULA Sorry you won't be with us major!
+INFORM the clarion is gonna continue to expose corruption in this town!
+INFORM it's corinne im worried
+FEEDBACK don't fret none!
+INFORM I'm moseyin' down to the lido saloon to see lewis!
+INFORM hope i'm clear when he opens up!
+WHY_QUESTION wh wh what's happened to that	young rascal
+WHY_QUESTION where'd he go?
+BACKCHANNEL great scott ...
+INFORM he's alive!
+OR_QUESTION or is he?
+FEEDBACK nice going'
+INFORM i guess if old push-button's impressed with the crane family life, papa gets that promotion!
+INFORM so the cake is burnt!
+OFFER so you bake another one.
+WHY_QUESTION why all the fuss and feathers?
+BACKCHANNEL gosh , julie!
+INFORM  grownups sure do get tired out pretty easily,
+YES-NO_QUESTION don't they?
+INFORM and then ...
+INFORM cause the sun's awful strong today!
+INFORM but now that ya're down there, there ' s no chance of ya gettin' sunburned!
+INFORM it's a good thing i smuggled this trowel in with me!
+INFORM it sure chips away this cement!
+INFORM I love her!
+INFORM and before many days, she'll love me too...
+INFORM gee this is good ice cream!
+BACKCHANNEL yeah
+INFORM but it's so drinky don' even feel like i've had any!
+POLITENESS_FORMULA you don't know what it has meant to me to have your help
+INFORM - and what it means to think i know a girl like you.
+INFORM i'd really been dreading moving here - but not anymore.
+INFORM i'm looking forward to it now.
+YES-NO_QUESTION  you're going to be living here?
+INFORM  oh, i'm so glad!
+FEEDBACK blithering dolts!
+INFORM this is not galahad!
+ORDER  lash that varlet to death!
+BACKCHANNEL what...
+BACKCHANNEL but we thought...
+BACKCHANNEL ah air!
+ORDER resist not fools!
+INFORM 'tis omnipotent BACKCHANNEL scary dee!
+BACKCHANNEL wahoo!
+NOT_CLASSIFIABLE have merci-fulness .
+BACKCHANNEL scary dee!
+INFORM they weren't expecting that from a battered crate !
+INFORM 'n, when i was in the ring
+INFORM , i used to be
+BACKCHANNEL hic
+INFORM  a holy terror an'...
+BACKCHANNEL hey pop !
+ORDER c'mere a second !
+BACKCHANNEL oops ....
+POLITENESS_FORMULA sorry mister ..
+INFORM let's try snoop mcgook he's the best detective in town,
+INFORM besides being the only one!
+BACKCHANNEL haw haw!
+INFORM that pokeyoakey's a riot!
+BACKCHANNEL tee hee !
+INFORM i like suzie the best!
+INFORM just the boys i'm looking for.
+INFORM if there is anything i hate it's to see little boys go hungry!
+FEEDBACK and you too , little man!
+POLITENESS_FORMULA  always glad to have children visit my laboratory!
+BACKCHANNEL tch-tch!
+INFORM you resemble your father...
+INFORM hey elmo you better put on your glasses!
+INFORM that is the fire plug!
+INFORM i'm sorry you had to find out about it this way!
+INFORM we're going to arrest your brother!
+INFORM he's no good!
+INFORM he never was!
+BACKCHANNEL all right!
+ORDER let him be punished!
+ORDER you'd better go to his house first !
+INFORM i'll wait here for your call!
+BACKCHANNEL peter!
+WHY_QUESTION what's the matter?
+INFORM you seem so nervous today!
+INFORM nothing's wrong!
+INFORM  i just want to be alone with you	for a while!
+BACKCHANNEL taxi!!
+INFORM this calls for a celebration.
+INFORM let's all go out to dinner in honor of miss meriwether.
+INFORM i won't take no for an answer.
+BACKCHANNEL ugh!
+BACKCHANNEL aaaieee!
+BACKCHANNEL ohhh that face !
+BACKCHANNEL ohh falling!
+INFORM  a pit on the trail that was nev here before!
+INFORM knew i shou have been more careful!
+INFORM too late now...
+INFORM i finally beat ya,
+BACKCHANNEL ya stupid dutchman!
+ORDER now you got to lemme go!
+INFORM ya promised!
+FEEDBACK sure , joe!
+INFORM i promised, ya!
+INFORM c-corpses!
+INFORM this is where rodger works!
+BACKCHANNEL ohh-
+INFORM i'm afraid!
+BACKCHANNEL tsk-tsk!
+INFORM  harry monro was such a clever criminal!
+INFORM he kept his own identity carefully hidden!
+INFORM  and he went to such pains to eliminate wagging tongues...
+NOT_CLASSIFIABLE work ... is!
+INFORM when casey goes sailin' home again hooray hooray!
+INFORM  we'll give 'im a hearty send-off then...
+BACKCHANNEL  hooray, hooray!
+BACKCHANNEL wha ...?
+INFORM  the corpses that ecount used in the old dummies have vanished!
+WHY_QUESTION how could they?
+WHY_QUESTION  where did they go?
+INFORM a shadow!
+INFORM ...a horrible thing that looked like satan reaching for me--
+INFORM and then the sound of dreadful laughter coming from somewhere!
+INFORM i heard the laughter too...
+INFORM it was fiendish!
+WHY_QUESTION poor beggar , am i?
+INFORM for this ricco must pay with his life!
+ORDER put that gun down mister ...
+INFORM it's no good now , anyway !
+WHY_QUESTION what is it , miss tilbury?
+INFORM you look worried!
+INFORM it's from my cousin roland...
+INFORM he's in desperate trouble and wants me to meet him at the roxy inn!
+INFORM here!
+INFORM i don't get the set-up,
+POLITENESS_FORMULA but thanks!
+WHY_QUESTION why do i let her bully me like that?
+WHY_QUESTION why don't i stand up to her like a man!
+BACKCHANNEL ooowwww !
+INFORM hey, it's... it's bittin' me!
+ORDER  help!
+INFORM shore is a convenience workin' with sam bass!
+INFORM everybody's so scared of him,
+INFORM they just throw away their guns when they see him comin!
+BACKCHANNEL ho-ho!
+BACKCHANNEL all right,
+INFORM you asked for this.
+BACKCHANNEL huh!
+YES-NO_QUESTION surprised , boy?
+INFORM they all are!
+INFORM  this is my human deepfreeze!
+INFORM even after the paralysis wears away, the bitter cold keeps the bodies fresh--- for food!
+YES-NO_QUESTION food?
+BACKCHANNEL  yipes!
+INFORM nice going!
+INFORM now i have the gun hand.
+INFORM  your gun!
+INFORM i'm fed up bein' swindled in this burg!
+INFORM i'm clear-in' outta here...
+INFORM  with the dough you stole from me just now!
+INFORM lets clean up this crum my joint!
+INFORM you ain't goin' no place pard...
+BACKCHANNEL oof!
+INFORM mr. cutler certainly was suspicious!
+INFORM that letter phineas pound stole from us con-tained a complete accusation of pound!
+INFORM well that's that!
+POLITENESS_FORMULA now, lenore--may i call you lenore?
+YES-NO_QUESTION couldn't we sort of get--you know--friendly?
+INFORM i don't mind..
+INFORM  if my husband doesn't!
+INFORM im being married next month..
+INFORM to a captain in the air corps!
+BACKCHANNEL perfect!
+INFORM you weel fire when i tell you!
+FEEDBACK si!
+INFORM things are sure hot!
+INFORM we'll be handsomely rewarded for this capture.
+INFORM there's the castle now.
+GREET hey spark!
+ORDER look at that mob comin' for us!
+BACKCHANNEL wow
+ORDER hurry,
+INFORM deacon that place will rock the whole state when she blows!
+BACKCHANNEL ah...
+INFORM there you are...
+ORDER back to your owner you go!
+FEEDBACK excellent, vassiloff!
+ORDER listen to american dogs scream as they die!
+YES-NO_QUESTION can't you give up your dangerous work, geoffrey?
+INFORM i worry so much when you're away.
+ORDER don't be silly.
+INFORM war profiteering is the easiest way of making money in these times..
+INFORM and i'm sure the new confeder-ate government will never discover what i'm doing.
+BACKCHANNEL no! no!
+BACKCHANNEL help! help!
+INFORM no longer will i live in dread!
+INFORM curse your bones!
+BACKCHANNEL ha!
+INFORM and you thought you would live forever!
+BACKCHANNEL oh, dear!
+INFORM that "arrumph" again!
+INFORM jives is lying!
+INFORM  he has no gun!
+INFORM i must save him--
+INFORM but if he sees me, he's sure to recognize me as mary batson bromfield!
+INFORM i'm a hero!
+INFORM i've saved	the day!
+GREET look, brian!
+WHY_QUESTION what is it?
+BACKCHANNEL ... oh,
+INFORM yes, i remember now...
+INFORM a five dollar bill!
+BACKCHANNEL hurray!
+ORDER let's eat !
+BACKCHANNEL hey-y-y!
+INFORM jap planes arriving from our advance base!
+INFORM will surprise americans!
+POLITENESS_FORMULA sorry, fellas!
+INFORM i'll run this thru hos his insi
+INFORM boy, i'd sure hate to tangle with that sentry guy!
+FEEDBACK so would i.
+INFORM wonder who he is in real life!
+INFORM pig, here's a reward for your bravery!
+ORDER  take him inside with the other!
+INFORM  sure, it's a real treasure map and an old sailor gave it to me...
+INFORM with the treasure we can buy the chinese kids plenty of food.
+INFORM i believe you have something there.
+WHY_QUESTION but how are se we going get out out to sea, to this unchartered island?
+INFORM that's the master switch there--
+INFORM and buster, here,
+INFORM thinks i'm too frightened to make a move!
+INFORM danny was merely a projected illusion!
+FEEDBACK and very useful, too!
+BACKCHANNEL fool!
+INFORM to think you could thwart satan!
+ORDER it.. it's kalthar seize him!
+INFORM .. then they shot down the cop and beat it!
+BACKCHANNEL great heavens..
+INFORM  my daughter !
+WHY_QUESTION what am i offered for this girl?
+WHY_QUESTION  who will start the bid at a hundred zinas!
+GREET heil hitler!
+WHY_QUESTION what's the password?
+WHY_QUESTION password?
+INFORM you idiotic son of an englishman!
+WHY_QUESTION what do i need with a password?
+FEEDBACK astonishing...
+FEEDBACK such genious...
+ORDER look where ya goin' bookworm!
+INFORM ya wanna get moidered walk in around like that!
+INFORM it's my hunch, that oom was a crook,
+INFORM and he had some kind of racket with lemke!
+YES-NO_QUESTION remember that an anonymous phone call you got, captain, you off about lemke?
+INFORM this comanche- riding- trick sure comes in handy!
+BACKCHANNEL yippee!
+GREET good evening!
+INFORM once again it's gossip time in hollywood!
+INFORM at ciro's last night..
+WHY_QUESTION ain't it boring corpse,
+YES-NO_QUESTION the way this character begs fer his miserable life?
+FEEDBACK yes, tiny.
+INFORM boring and monotonous... even deadly... especially for him.
+POLITENESS_FORMULA please tiny!
+ORDER give me a little more time.
+INFORM i still can do some-thing with the old man...
+INFORM here's a tip, waiter...
+INFORM never use gas on me...
+INFORM  i find it annoying!
+INFORM dag- gon- nit- there goes that fat- runt over board!
+BACKCHANNEL glub
+YES-NO_QUESTION selling?
+INFORM  selling!
+BACKCHANNEL  haw- haw- haw!
+INFORM  we ain't thinkin' o buyin' young feller...
+BACKCHANNEL haw- haw - hee - hee - haw - haw..!
+INFORM i can't believe it!
+INFORM when he talks of sweetness and light,
+INFORM he's getting ready for darkness and mayhem!
+POLITENESS_FORMULA sorry!
+INFORM but i don't get the point!
+BACKCHANNEL owooo! - arrhoooo!!
+BACKCHANNEL b - b -- the clock!!
+INFORM this is a stick-up cabby!
+ORDER get out and up with your mitts!
+YES-NO_QUESTION my mitts?
+YES-NO_QUESTION up with them?
+INFORM  you mean ...
+INFORM that was a very good flight, dear!
+INFORM  i'm sure that junior is ready now for his first solo!
+INFORM b.but, mama
+FEEDBACK i'm s - scared!
+INFORM wolves!
+BACKCHANNEL that fiend!
+INFORM he deliberately set a fire to attract them!
+INFORM they're comin' for me!
+INFORM i'm a goner!
+BACKCHANNEL gosh!
+INFORM she's blown him clear out of sight!
+INFORM and they'll get just that!
+INFORM here's where that smoke comes from,
+BACKCHANNEL  now...
+INFORM no eagle - not for long.
+BACKCHANNEL  boy ...
+INFORM there must be tons of it!
+ORDER get that truck loaded!
+ORDER go into the visiting room..
+INFORM we will send for him-
+POLITENESS_FORMULA thank you kindly sir!
+BACKCHANNEL er - gulp!
+INFORM adult and one child!
+BACKCHANNEL ahh!
+NOT_CLASSIFIABLE a huge eight.
+INFORM foot bear was seen down there today!!
+GREET hey , redskin
+INFORM well i'm just in time!
+GREET uncle zero!
+INFORM am i glad to see you!
+INFORM we've just been talking about your favorite subject.. ghosts!
+BACKCHANNEL wow!
+INFORM nips!
+INFORM .. a whole batch of 'em!
+INFORM wait'll mulligan hears this!
+NOT_CLASSIFIABLE abou lan beac begi
+GREET oh, gary!
+INFORM im so glad you're here!
+INFORM so me and de flame sails into da bums an' wipes'em out!
+BACKCHANNEL ha!!
+INFORM that's why i use that big oaf!
+INFORM he is so stupid it is safe for me to have him work for me.
+BACKCHANNEL ooof!!
+NOT_CLASSIFIABLE op worrying, ep!
+NOT_CLASSIFIABLE you'd think was your wn son!
+FEEDBACK i wish you were my own son..
+INFORM for five minutes, so i could whale you!
+INFORM i just hope there'll be a couple of those dangerous beauties left by the time we land!
+GREET good morning my dear count
+INFORM -- im at your service!
+BACKCHANNEL whew !
+INFORM close squeeze now,
+INFORM if he thought i was the hawk's double, the whole fort will think so too!
+INFORM it'll be easy to trick all his men!
+BACKCHANNEL mm..
+INFORM this tea is delicious!
+BACKCHANNEL whew,
+INFORM made it!
+GREET ahoy! hawk!
+INFORM my plan worked!
+GREET panthers!
+ORDER attack!
+ORDER get away from me, you ugly beast!
+GREET  ho , ali hassen,
+INFORM soon shall your horde be rich-rich with slaves,
+INFORM that even now the whites lead to me!
+FEEDBACK  allah be praised, tanga!
+INFORM if your promise be as strong as is your fear of the spotted cheetah cat, we will pay you well!
+ORDER  fear not, zana,
+INFORM b'maki would not let you die!
+INFORM only the others who witnessed my deed must perish!
+INFORM now will i carry out the rest of my plan!
+FEEDBACK not on your life lutoa,
+INFORM i've been waiting for this chance!
+ORDER  confess your guilt or
+WHY_QUESTION where the heck did i land?
+BACKCHANNEL ah!
+INFORM a door !
+BACKCHANNEL aaaaaagh!
+BACKCHANNEL whoa!
+INFORM i'll have your gags off in a second!
+BACKCHANNEL not so fast
+INFORM - we have an old score to settle.
+ORDER fight hard master,
+INFORM they are many!
+INFORM something tells me that doctor fairchild and his unholy three are on the last trail!
+FEEDBACK something grim,
+INFORM  a dose of your own medicine.
+WHY_QUESTION what ye going to do??
+BACKCHANNEL ugh!
+INFORM like punching a murderer on the jaw with both feet off the ground!
+BACKCHANNEL yawp!
+INFORM he means it!
+BACKCHANNEL owww ...
+INFORM my corset's...
+BACKCHANNEL oops!
+POLITENESS_FORMULA ah5 sorry sir'ah didn't see yo!
+BACKCHANNEL ah,
+INFORM good and soapy.
+INFORM too ... full of bubbles!
+INFORM that's the way i like a bath!
+INFORM ... and that's what happened sergeant.
+INFORM she's a witch, i tell you.
+INFORM a curse on the whole territory!
+FEEDBACK a most amazing story, rossbach,
+INFORM but i'm inclined to take your word for it!
+INFORM we'll send out a patrol at once!
+BACKCHANNEL ho - hum!
+INFORM i feel so lonely!
+BACKCHANNEL oops!
+INFORM i tripped!
+BACKCHANNEL oh boy!
+INFORM this is wonderful!
+INFORM i could soak up water faor a week!
+BACKCHANNEL gosh.
+INFORM if i could only get in touch with jupiter by telephone!
+INFORM you can take a little snooze.
+INFORM when my pard gets you tied up, i'm sure he'll feel better!
+BACKCHANNEL ha! ha!
+INFORM that stops you doesn't it nelson!
+INFORM - now, you are going to destroy yourself!
+GREET hey, redmask!
+ORDER help!
+INFORM i should have known billy gage was some-where behind this!
+ORDER ...and get him snubbed and ready for saddling!
+BACKCHANNEL  www...
+INFORM looks like saber my friend after all !
+INFORM ke got scared away, too !
+WHY_QUESTION why dont you like to prac-tice your piano lessons billy?
+FEEDBACK 'cause i just hate those drills and exercises
+YES-NO_QUESTION but have you thought what would happen to one of those people if his attention was distracted by a sharp sting at the wrong moment?
+BACKCHANNEL oh gosh!
+WHY_QUESTION what's that?
+INFORM someone's coming!
+GREET jack!
+GREET jack !
+BACKCHANNEL ohh!
+ORDER look.. up above!
+YES-NO_QUESTION is that chim?
+FEEDBACK sure is..
+INFORM and hes scared to pieces!
+NOT_CLASSIFIABLE we'r to s old
+WHY_QUESTION great magic of bwana kessler now, lani?
+YES-NO_QUESTION now will you obey?
+INFORM does not fea you.
+INFORM she will hunt you dow she will ...
+ORDER get up and walk!
+BACKCHANNEL ohhhhhhh!
+BACKCHANNEL ah!
+INFORM meat on the table!
+INFORM horse ear!
+BACKCHANNEL hm
+GREET master,
+INFORM it is a great doublecross!
+INFORM we come across the ocean to help a man ... for this!
+FEEDBACK but he did say he was sorry, abdul!
+BACKCHANNEL oh no!
+INFORM  ... i absolutely refuse to talk to that drip!
+ORDER kathy, you've got to!
+INFORM maybe it will help square me with old man pushbutton!
+NOT_CLASSIFIABLE hell h de -
+INFORM a fine way to speak to a knight of the road!
+WHY_QUESTION knows't thou not who i am?
+INFORM but wait .. i think i know thee!
+INFORM thy face looks familiar!
+WHY_QUESTION thou art "the highway man", art thou not?
+INFORM you were magnificent, vooda!
+INFORM she has learned a lesson,
+ORDER don't fear!
+GREET and now, friend tex,
+INFORM let us get back to work!
+POLITENESS_FORMULA pardon me for not knocking,
+INFORM but i was so happy to hear you were saved!
+WHY_QUESTION how did you know?
+BACKCHANNEL good gosh!
+BACKCHANNEL what th' ...
+INFORM except this way!
+WHY_QUESTION loco plague?
+FEEDBACK yes!
+INFORM it is borne by the wind!
+INFORM  it's made many a town go loco...
+INFORM and i'm afraid tomb-stone city is another victim!
+ORDER look!
+INFORM and here's a touche you didn't expect!
+INFORM its spy smasher!
+ORDER bail out!
+BACKCHANNEL awk - awk!
+INFORM parrot.
+BACKCHANNEL chee - chee!
+BACKCHANNEL oops!
+INFORM just in time!
+INFORM i like to mix with people!
+ORDER help!
+INFORM -now to land and investigate that skeleton business - hmm!
+INFORM the two pilots bailed out -
+INFORM  they're trying to get away -
+BACKCHANNEL so far so good!
+INFORM now if i can glide over to a corner of the field they may never notice me!
+GREET y'know, sheriff,
+INFORM i'm kinda worried 'bout that young woman stayin' all alone in that cottage.
+BACKCHANNEL  oh,
+FEEDBACK i guess she'll be all right, parson.
+INFORM i'll keep an eye on her.
+INFORM but they give me an idea!
+INFORM and if i work fast, it may do the trick!
